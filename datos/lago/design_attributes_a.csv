@@ -1,0 +1,2401 @@
+design_id,subject,instrument,era
+1000,headphones,Violin,50s
+1001,amplifier,trumpet,modern
+1002,amplifier,Banjo,90s
+1003,piano_keys,piano,60s
+1004,VINYL RECORD,banjo,50s
+1005,turntable,trumpet,60s
+1006,MUSIC NOTES,TRUMPET,modern
+1007,cassette,trumpet,80s
+1008,guitar,VIOLIN,50s
+1009,amplifier,electric guitar,70s
+1010,turntable,piano,90s
+1011,vinyl_record,ELECTRIC GUITAR,modern
+1012,HEADPHONES,piano,modern
+1013,amplifier,Synth,60s
+1014,amplifier,acoustic guitar,modern
+1015,vinyl record,synth,modern
+1016,MICROPHONE,banjo,modern
+1017,Guitar,trumpet,modern
+1018,Music Notes,banjo,modern
+1019,amplifier,TRUMPET,80s
+1020,VINYL RECORD,drums,90s
+1021,sheet music,synth,70s
+1022,music notes,acoustic guitar,60s
+1023,sheet music,saxophone,50s
+1024,TURNTABLE,piano,50s
+1025,Music Notes,saxophone,50s
+1026,Turntable,Saxophone,60s
+1027,headphones,ELECTRIC GUITAR,80s
+1028,Sheet Music,electric guitar,80s
+1029,microphone,ELECTRIC GUITAR,80s
+1030,piano keys,piano,50s
+1031,sheet music,electric guitar,90s
+1032,amplifier,bass,60s
+1033,vinyl record,violin,50s
+1034,piano keys,TRUMPET,80s
+1035,vinyl record,saxophone,50s
+1036,CASSETTE,ACOUSTIC GUITAR,90s
+1037,Guitar,bass,70s
+1038,sheet music,ELECTRIC GUITAR,90s
+1039,amplifier,saxophone,modern
+1040,headphones,drums,70s
+1041,HEADPHONES,synth,modern
+1042,AMPLIFIER,trumpet,70s
+1043,microphone,drums,60s
+1044,Sheet Music,Violin,70s
+1045,vinyl_record,ELECTRIC GUITAR,90s
+1046,PIANO KEYS,electric guitar,60s
+1047,vinyl record,synth,80s
+1048,guitar,violin,70s
+1049,amplifier,bass,60s
+1050,cassette,bass,80s
+1051,piano keys,bass,80s
+1052,piano keys,banjo,60s
+1053,headphones,drums,modern
+1054,microphone,synth,70s
+1055,Music Notes,DRUMS,modern
+1056,turntable,violin,90s
+1057,HEADPHONES,electric guitar,90s
+1058,MUSIC NOTES,BASS,60s
+1059,VINYL RECORD,electric guitar,80s
+1060,vinyl record,ACOUSTIC GUITAR,50s
+1061,turntable,Synth,70s
+1062,piano keys,saxophone,90s
+1063,Cassette,electric guitar,80s
+1064,GUITAR,Saxophone,70s
+1065,music notes,drums,70s
+1066,turntable,drums,80s
+1067,piano keys,Electric Guitar,modern
+1068,microphone,drums,80s
+1069,sheet music,Synth,60s
+1070,cassette,banjo,90s
+1071,MICROPHONE,acoustic guitar,50s
+1072,microphone,banjo,80s
+1073,headphones,SAXOPHONE,90s
+1074,Microphone,bass,70s
+1075,GUITAR,drums,50s
+1076,piano keys,Bass,80s
+1077,cassette,saxophone,modern
+1078,guitar,Saxophone,70s
+1079,headphones,Acoustic Guitar,90s
+1080,microphone,synth,50s
+1081,vinyl record,ELECTRIC GUITAR,60s
+1082,microphone,banjo,90s
+1083,Amplifier,violin,60s
+1084,music notes,SAXOPHONE,70s
+1085,sheet music,PIANO,80s
+1086,headphones,Piano,90s
+1087,amplifier,acoustic guitar,80s
+1088,amplifier,saxophone,80s
+1089,microphone,acoustic_guitar,60s
+1090,vinyl record,acoustic_guitar,50s
+1091,Amplifier,Electric Guitar,modern
+1092,sheet music,banjo,70s
+1093,turntable,Synth,50s
+1094,sheet music,DRUMS,50s
+1095,Microphone,drums,70s
+1096,PIANO KEYS,Violin,90s
+1097,amplifier,SYNTH,70s
+1098,sheet music,bass,70s
+1099,TURNTABLE,electric guitar,80s
+1100,guitar,synth,70s
+1101,cassette,bass,70s
+1102,sheet music,Saxophone,70s
+1103,SHEET MUSIC,synth,60s
+1104,music notes,banjo,80s
+1105,amplifier,BASS,80s
+1106,turntable,violin,60s
+1107,piano keys,piano,modern
+1108,turntable,saxophone,70s
+1109,MUSIC NOTES,SYNTH,50s
+1110,microphone,electric guitar,70s
+1111,piano keys,trumpet,90s
+1112,AMPLIFIER,bass,70s
+1113,piano keys,Piano,modern
+1114,HEADPHONES,BASS,50s
+1115,AMPLIFIER,saxophone,70s
+1116,turntable,banjo,70s
+1117,microphone,SAXOPHONE,60s
+1118,GUITAR,trumpet,90s
+1119,AMPLIFIER,banjo,80s
+1120,microphone,ACOUSTIC GUITAR,70s
+1121,sheet_music,drums,modern
+1122,music notes,acoustic_guitar,50s
+1123,guitar,SAXOPHONE,modern
+1124,amplifier,banjo,50s
+1125,microphone,saxophone,90s
+1126,amplifier,synth,90s
+1127,cassette,Piano,50s
+1128,Cassette,trumpet,80s
+1129,headphones,saxophone,80s
+1130,cassette,violin,60s
+1131,microphone,saxophone,90s
+1132,guitar,BANJO,50s
+1133,sheet music,piano,60s
+1134,microphone,ACOUSTIC GUITAR,80s
+1135,music_notes,Bass,80s
+1136,sheet_music,Acoustic Guitar,90s
+1137,microphone,piano,50s
+1138,headphones,Acoustic Guitar,modern
+1139,headphones,acoustic guitar,80s
+1140,Microphone,synth,60s
+1141,HEADPHONES,Trumpet,50s
+1142,vinyl record,drums,50s
+1143,TURNTABLE,DRUMS,60s
+1144,Amplifier,SYNTH,modern
+1145,TURNTABLE,synth,80s
+1146,piano keys,electric guitar,50s
+1147,headphones,banjo,70s
+1148,amplifier,saxophone,60s
+1149,Headphones,saxophone,modern
+1150,TURNTABLE,violin,70s
+1151,VINYL RECORD,acoustic guitar,60s
+1152,amplifier,ACOUSTIC GUITAR,50s
+1153,headphones,synth,modern
+1154,vinyl_record,electric guitar,60s
+1155,sheet music,acoustic guitar,90s
+1156,cassette,VIOLIN,80s
+1157,turntable,SAXOPHONE,60s
+1158,VINYL RECORD,SAXOPHONE,modern
+1159,turntable,Acoustic Guitar,modern
+1160,SHEET MUSIC,DRUMS,modern
+1161,sheet music,drums,modern
+1162,amplifier,SAXOPHONE,70s
+1163,HEADPHONES,electric guitar,modern
+1164,turntable,piano,60s
+1165,turntable,banjo,50s
+1166,piano_keys,trumpet,modern
+1167,amplifier,synth,modern
+1168,microphone,Drums,70s
+1169,SHEET MUSIC,ACOUSTIC GUITAR,modern
+1170,vinyl record,electric_guitar,80s
+1171,headphones,piano,90s
+1172,sheet_music,trumpet,60s
+1173,sheet music,banjo,80s
+1174,microphone,saxophone,60s
+1175,Amplifier,BANJO,50s
+1176,cassette,Piano,50s
+1177,microphone,Banjo,70s
+1178,amplifier,electric guitar,60s
+1179,amplifier,drums,60s
+1180,MUSIC NOTES,violin,70s
+1181,sheet music,piano,60s
+1182,amplifier,piano,50s
+1183,vinyl_record,Piano,60s
+1184,music notes,acoustic guitar,80s
+1185,sheet_music,piano,60s
+1186,MICROPHONE,acoustic guitar,60s
+1187,sheet music,violin,70s
+1188,music notes,Drums,70s
+1189,Amplifier,banjo,60s
+1190,CASSETTE,drums,70s
+1191,piano keys,electric_guitar,70s
+1192,Sheet Music,synth,90s
+1193,Sheet Music,DRUMS,modern
+1194,Guitar,SYNTH,90s
+1195,Headphones,banjo,modern
+1196,sheet music,banjo,60s
+1197,amplifier,banjo,70s
+1198,vinyl record,banjo,50s
+1199,music notes,Piano,60s
+1200,music notes,trumpet,90s
+1201,microphone,Trumpet,80s
+1202,sheet music,electric guitar,modern
+1203,headphones,violin,50s
+1204,amplifier,trumpet,90s
+1205,PIANO KEYS,electric guitar,modern
+1206,Turntable,violin,60s
+1207,microphone,BANJO,80s
+1208,vinyl record,Drums,90s
+1209,turntable,Piano,60s
+1210,AMPLIFIER,acoustic guitar,50s
+1211,microphone,saxophone,50s
+1212,Music Notes,piano,50s
+1213,cassette,trumpet,50s
+1214,piano keys,violin,modern
+1215,music_notes,Drums,modern
+1216,CASSETTE,SYNTH,modern
+1217,sheet music,ELECTRIC GUITAR,90s
+1218,amplifier,PIANO,modern
+1219,microphone,acoustic guitar,80s
+1220,headphones,Violin,50s
+1221,amplifier,SYNTH,60s
+1222,piano keys,DRUMS,60s
+1223,amplifier,Saxophone,80s
+1224,headphones,Synth,modern
+1225,amplifier,drums,50s
+1226,Piano Keys,SYNTH,modern
+1227,sheet music,trumpet,80s
+1228,piano keys,saxophone,60s
+1229,cassette,bass,90s
+1230,vinyl record,PIANO,90s
+1231,turntable,piano,80s
+1232,CASSETTE,electric guitar,50s
+1233,music notes,SYNTH,80s
+1234,vinyl record,Bass,80s
+1235,piano_keys,trumpet,80s
+1236,amplifier,banjo,80s
+1237,sheet music,BANJO,90s
+1238,amplifier,Drums,modern
+1239,Turntable,violin,90s
+1240,music notes,Synth,modern
+1241,microphone,violin,modern
+1242,TURNTABLE,acoustic guitar,90s
+1243,guitar,violin,70s
+1244,cassette,synth,50s
+1245,amplifier,saxophone,60s
+1246,sheet music,ELECTRIC GUITAR,70s
+1247,music notes,Piano,modern
+1248,music_notes,ELECTRIC GUITAR,80s
+1249,microphone,Banjo,60s
+1250,PIANO KEYS,VIOLIN,50s
+1251,sheet music,synth,modern
+1252,VINYL RECORD,TRUMPET,50s
+1253,amplifier,PIANO,80s
+1254,guitar,violin,80s
+1255,Headphones,Violin,50s
+1256,amplifier,SAXOPHONE,70s
+1257,CASSETTE,BASS,70s
+1258,microphone,synth,modern
+1259,HEADPHONES,BASS,70s
+1260,vinyl record,electric_guitar,80s
+1261,cassette,SYNTH,modern
+1262,amplifier,Acoustic Guitar,80s
+1263,music notes,banjo,50s
+1264,vinyl_record,electric_guitar,90s
+1265,Turntable,trumpet,70s
+1266,Piano Keys,drums,modern
+1267,Music Notes,electric guitar,50s
+1268,music_notes,saxophone,modern
+1269,amplifier,ACOUSTIC GUITAR,80s
+1270,HEADPHONES,piano,80s
+1271,piano keys,Electric Guitar,80s
+1272,HEADPHONES,trumpet,70s
+1273,guitar,piano,80s
+1274,cassette,violin,modern
+1275,guitar,acoustic_guitar,50s
+1276,guitar,trumpet,60s
+1277,VINYL RECORD,drums,modern
+1278,headphones,Banjo,70s
+1279,turntable,acoustic guitar,70s
+1280,vinyl record,Synth,60s
+1281,headphones,saxophone,90s
+1282,turntable,Piano,80s
+1283,vinyl record,saxophone,60s
+1284,cassette,Banjo,90s
+1285,PIANO KEYS,banjo,70s
+1286,piano keys,Saxophone,80s
+1287,Amplifier,BANJO,50s
+1288,guitar,drums,60s
+1289,turntable,SYNTH,80s
+1290,HEADPHONES,saxophone,80s
+1291,headphones,electric guitar,60s
+1292,vinyl record,acoustic_guitar,60s
+1293,cassette,Violin,60s
+1294,music notes,SAXOPHONE,70s
+1295,CASSETTE,piano,80s
+1296,MUSIC NOTES,acoustic guitar,70s
+1297,SHEET MUSIC,Electric Guitar,80s
+1298,SHEET MUSIC,violin,80s
+1299,microphone,banjo,70s
+1300,Headphones,Banjo,modern
+1301,microphone,violin,50s
+1302,Headphones,synth,90s
+1303,turntable,banjo,60s
+1304,AMPLIFIER,saxophone,90s
+1305,piano keys,trumpet,50s
+1306,Microphone,TRUMPET,50s
+1307,cassette,drums,modern
+1308,cassette,Trumpet,modern
+1309,music_notes,drums,50s
+1310,MICROPHONE,BANJO,60s
+1311,Microphone,violin,modern
+1312,guitar,electric guitar,80s
+1313,guitar,trumpet,60s
+1314,microphone,banjo,50s
+1315,vinyl record,bass,90s
+1316,CASSETTE,saxophone,modern
+1317,Headphones,Bass,60s
+1318,Amplifier,piano,50s
+1319,GUITAR,Piano,90s
+1320,turntable,VIOLIN,60s
+1321,Piano Keys,Synth,60s
+1322,headphones,acoustic guitar,modern
+1323,PIANO KEYS,electric guitar,modern
+1324,headphones,acoustic guitar,60s
+1325,PIANO KEYS,acoustic guitar,90s
+1326,headphones,TRUMPET,90s
+1327,AMPLIFIER,bass,80s
+1328,SHEET MUSIC,Saxophone,80s
+1329,cassette,banjo,70s
+1330,VINYL RECORD,SAXOPHONE,60s
+1331,headphones,Drums,90s
+1332,guitar,violin,90s
+1333,GUITAR,banjo,50s
+1334,CASSETTE,saxophone,80s
+1335,cassette,piano,60s
+1336,SHEET MUSIC,piano,modern
+1337,cassette,ELECTRIC GUITAR,modern
+1338,amplifier,drums,70s
+1339,Sheet Music,Synth,90s
+1340,microphone,acoustic guitar,90s
+1341,turntable,trumpet,modern
+1342,vinyl record,BASS,70s
+1343,TURNTABLE,banjo,50s
+1344,vinyl record,synth,80s
+1345,Piano Keys,bass,50s
+1346,music_notes,trumpet,90s
+1347,cassette,electric guitar,80s
+1348,GUITAR,TRUMPET,90s
+1349,amplifier,BANJO,80s
+1350,headphones,Piano,90s
+1351,AMPLIFIER,synth,60s
+1352,sheet music,electric_guitar,50s
+1353,guitar,trumpet,80s
+1354,guitar,PIANO,modern
+1355,amplifier,Acoustic Guitar,80s
+1356,Music Notes,bass,60s
+1357,Guitar,bass,90s
+1358,microphone,banjo,90s
+1359,amplifier,synth,60s
+1360,Cassette,trumpet,90s
+1361,cassette,BANJO,60s
+1362,amplifier,Acoustic Guitar,60s
+1363,turntable,electric guitar,70s
+1364,cassette,synth,60s
+1365,piano keys,Drums,80s
+1366,sheet music,synth,90s
+1367,HEADPHONES,SYNTH,60s
+1368,sheet music,trumpet,80s
+1369,PIANO KEYS,Trumpet,80s
+1370,music_notes,bass,50s
+1371,amplifier,synth,70s
+1372,turntable,SAXOPHONE,50s
+1373,music notes,drums,90s
+1374,Guitar,drums,60s
+1375,microphone,drums,70s
+1376,headphones,bass,60s
+1377,amplifier,trumpet,90s
+1378,Sheet Music,Banjo,50s
+1379,microphone,acoustic guitar,60s
+1380,vinyl record,bass,80s
+1381,HEADPHONES,saxophone,50s
+1382,MUSIC NOTES,synth,60s
+1383,piano keys,trumpet,modern
+1384,amplifier,trumpet,90s
+1385,music notes,Trumpet,80s
+1386,Guitar,violin,90s
+1387,music notes,Piano,70s
+1388,Turntable,banjo,80s
+1389,headphones,violin,80s
+1390,vinyl record,trumpet,60s
+1391,amplifier,acoustic guitar,90s
+1392,CASSETTE,trumpet,50s
+1393,AMPLIFIER,violin,modern
+1394,vinyl record,BANJO,50s
+1395,Guitar,saxophone,modern
+1396,sheet music,banjo,90s
+1397,turntable,saxophone,60s
+1398,Cassette,Banjo,modern
+1399,cassette,synth,60s
+1400,turntable,electric guitar,80s
+1401,microphone,Electric Guitar,90s
+1402,MUSIC NOTES,DRUMS,70s
+1403,Microphone,trumpet,80s
+1404,guitar,banjo,60s
+1405,piano_keys,trumpet,70s
+1406,piano keys,bass,60s
+1407,TURNTABLE,Violin,70s
+1408,headphones,saxophone,90s
+1409,Music Notes,acoustic_guitar,90s
+1410,Headphones,Piano,50s
+1411,piano keys,saxophone,90s
+1412,cassette,synth,90s
+1413,microphone,saxophone,modern
+1414,microphone,piano,modern
+1415,Music Notes,acoustic_guitar,70s
+1416,headphones,DRUMS,60s
+1417,microphone,banjo,60s
+1418,MUSIC NOTES,saxophone,60s
+1419,piano keys,BASS,70s
+1420,Piano Keys,violin,70s
+1421,piano keys,electric_guitar,50s
+1422,sheet music,PIANO,90s
+1423,turntable,piano,80s
+1424,PIANO KEYS,Synth,90s
+1425,TURNTABLE,drums,60s
+1426,guitar,TRUMPET,50s
+1427,CASSETTE,Banjo,60s
+1428,sheet music,Violin,50s
+1429,headphones,violin,70s
+1430,MUSIC NOTES,Electric Guitar,modern
+1431,sheet music,Drums,70s
+1432,SHEET MUSIC,acoustic guitar,90s
+1433,GUITAR,saxophone,modern
+1434,Turntable,BASS,60s
+1435,piano keys,electric guitar,50s
+1436,piano keys,DRUMS,80s
+1437,VINYL RECORD,bass,50s
+1438,MUSIC NOTES,banjo,90s
+1439,cassette,VIOLIN,70s
+1440,music notes,Trumpet,60s
+1441,microphone,bass,60s
+1442,music notes,Violin,50s
+1443,MICROPHONE,Saxophone,80s
+1444,piano keys,synth,modern
+1445,amplifier,Trumpet,90s
+1446,GUITAR,Violin,70s
+1447,sheet music,Drums,60s
+1448,music notes,PIANO,50s
+1449,turntable,Banjo,90s
+1450,amplifier,synth,60s
+1451,vinyl_record,acoustic_guitar,70s
+1452,guitar,trumpet,70s
+1453,turntable,piano,70s
+1454,turntable,Banjo,70s
+1455,turntable,TRUMPET,modern
+1456,cassette,banjo,90s
+1457,amplifier,trumpet,70s
+1458,Amplifier,Piano,70s
+1459,vinyl record,acoustic guitar,60s
+1460,headphones,piano,modern
+1461,amplifier,Bass,80s
+1462,cassette,banjo,modern
+1463,HEADPHONES,electric guitar,80s
+1464,piano keys,piano,50s
+1465,CASSETTE,electric guitar,80s
+1466,PIANO KEYS,trumpet,50s
+1467,headphones,bass,70s
+1468,music notes,piano,80s
+1469,music notes,piano,70s
+1470,guitar,BASS,modern
+1471,turntable,drums,50s
+1472,piano keys,acoustic guitar,90s
+1473,music notes,trumpet,90s
+1474,turntable,acoustic guitar,80s
+1475,sheet music,acoustic guitar,90s
+1476,amplifier,ACOUSTIC GUITAR,80s
+1477,headphones,trumpet,50s
+1478,guitar,acoustic guitar,60s
+1479,microphone,drums,70s
+1480,guitar,drums,50s
+1481,cassette,PIANO,modern
+1482,cassette,DRUMS,70s
+1483,piano keys,violin,60s
+1484,vinyl record,saxophone,80s
+1485,HEADPHONES,trumpet,60s
+1486,turntable,PIANO,modern
+1487,music notes,ACOUSTIC GUITAR,50s
+1488,microphone,trumpet,60s
+1489,turntable,Acoustic Guitar,50s
+1490,VINYL RECORD,banjo,60s
+1491,Piano Keys,ACOUSTIC GUITAR,90s
+1492,guitar,Banjo,90s
+1493,sheet music,saxophone,90s
+1494,amplifier,synth,50s
+1495,Headphones,Synth,60s
+1496,microphone,bass,70s
+1497,vinyl record,acoustic_guitar,modern
+1498,amplifier,DRUMS,80s
+1499,CASSETTE,BASS,60s
+1500,piano keys,Piano,90s
+1501,microphone,banjo,90s
+1502,microphone,drums,80s
+1503,cassette,VIOLIN,50s
+1504,MUSIC NOTES,ACOUSTIC GUITAR,90s
+1505,cassette,electric guitar,70s
+1506,guitar,VIOLIN,50s
+1507,vinyl record,electric guitar,50s
+1508,vinyl record,Violin,50s
+1509,sheet music,BASS,70s
+1510,headphones,Piano,70s
+1511,Headphones,trumpet,70s
+1512,Sheet Music,violin,60s
+1513,headphones,Saxophone,60s
+1514,vinyl_record,Banjo,90s
+1515,Music Notes,bass,70s
+1516,Amplifier,PIANO,50s
+1517,amplifier,VIOLIN,70s
+1518,piano keys,saxophone,90s
+1519,microphone,BASS,70s
+1520,guitar,banjo,80s
+1521,GUITAR,saxophone,80s
+1522,sheet_music,piano,60s
+1523,Microphone,banjo,80s
+1524,headphones,violin,70s
+1525,sheet music,drums,60s
+1526,microphone,piano,modern
+1527,guitar,Saxophone,80s
+1528,guitar,violin,70s
+1529,Music Notes,drums,modern
+1530,headphones,ACOUSTIC GUITAR,50s
+1531,MICROPHONE,Trumpet,50s
+1532,sheet music,violin,60s
+1533,headphones,electric guitar,70s
+1534,guitar,PIANO,90s
+1535,sheet music,synth,60s
+1536,piano keys,Trumpet,90s
+1537,cassette,saxophone,60s
+1538,headphones,violin,modern
+1539,amplifier,trumpet,modern
+1540,SHEET MUSIC,trumpet,90s
+1541,music notes,trumpet,80s
+1542,sheet music,ELECTRIC GUITAR,modern
+1543,headphones,violin,70s
+1544,amplifier,saxophone,modern
+1545,piano keys,violin,90s
+1546,headphones,bass,80s
+1547,sheet_music,violin,90s
+1548,MICROPHONE,violin,modern
+1549,piano_keys,saxophone,80s
+1550,sheet music,synth,modern
+1551,headphones,saxophone,80s
+1552,music_notes,acoustic guitar,modern
+1553,headphones,piano,50s
+1554,microphone,Bass,60s
+1555,amplifier,piano,90s
+1556,guitar,Saxophone,60s
+1557,guitar,SAXOPHONE,70s
+1558,cassette,BANJO,80s
+1559,guitar,trumpet,70s
+1560,HEADPHONES,bass,70s
+1561,HEADPHONES,SYNTH,modern
+1562,HEADPHONES,trumpet,80s
+1563,music notes,SYNTH,80s
+1564,SHEET MUSIC,bass,50s
+1565,guitar,Acoustic Guitar,90s
+1566,microphone,violin,modern
+1567,Amplifier,PIANO,60s
+1568,cassette,BANJO,90s
+1569,microphone,SYNTH,modern
+1570,microphone,PIANO,80s
+1571,Headphones,acoustic guitar,80s
+1572,music_notes,piano,90s
+1573,Guitar,VIOLIN,modern
+1574,guitar,synth,60s
+1575,Music Notes,Acoustic Guitar,80s
+1576,VINYL RECORD,electric guitar,50s
+1577,cassette,acoustic guitar,modern
+1578,sheet music,BASS,80s
+1579,Sheet Music,Synth,modern
+1580,cassette,drums,90s
+1581,cassette,synth,modern
+1582,Turntable,bass,80s
+1583,microphone,saxophone,70s
+1584,CASSETTE,electric guitar,50s
+1585,piano_keys,trumpet,90s
+1586,cassette,electric guitar,80s
+1587,vinyl record,banjo,modern
+1588,PIANO KEYS,bass,90s
+1589,piano keys,synth,70s
+1590,Sheet Music,trumpet,90s
+1591,Turntable,drums,80s
+1592,amplifier,synth,60s
+1593,headphones,violin,60s
+1594,Piano Keys,piano,90s
+1595,music notes,Saxophone,90s
+1596,microphone,banjo,50s
+1597,headphones,synth,90s
+1598,guitar,synth,60s
+1599,microphone,banjo,50s
+1600,PIANO KEYS,BASS,50s
+1601,MUSIC NOTES,electric guitar,80s
+1602,headphones,ELECTRIC GUITAR,60s
+1603,amplifier,DRUMS,80s
+1604,microphone,Electric Guitar,modern
+1605,music notes,Bass,80s
+1606,music notes,acoustic guitar,modern
+1607,Vinyl Record,electric_guitar,70s
+1608,headphones,piano,60s
+1609,headphones,Violin,60s
+1610,headphones,drums,70s
+1611,vinyl record,banjo,50s
+1612,CASSETTE,PIANO,60s
+1613,microphone,saxophone,70s
+1614,sheet_music,acoustic guitar,modern
+1615,turntable,acoustic_guitar,modern
+1616,microphone,banjo,60s
+1617,sheet music,acoustic_guitar,80s
+1618,music notes,TRUMPET,70s
+1619,VINYL RECORD,trumpet,70s
+1620,headphones,acoustic guitar,50s
+1621,HEADPHONES,trumpet,50s
+1622,AMPLIFIER,piano,modern
+1623,sheet music,synth,50s
+1624,turntable,acoustic guitar,50s
+1625,turntable,drums,90s
+1626,guitar,acoustic guitar,modern
+1627,microphone,violin,50s
+1628,VINYL RECORD,SYNTH,50s
+1629,piano_keys,acoustic guitar,50s
+1630,sheet_music,banjo,90s
+1631,HEADPHONES,VIOLIN,modern
+1632,microphone,electric guitar,80s
+1633,amplifier,trumpet,modern
+1634,turntable,bass,modern
+1635,cassette,BASS,60s
+1636,cassette,violin,50s
+1637,CASSETTE,Piano,90s
+1638,sheet music,TRUMPET,modern
+1639,guitar,VIOLIN,80s
+1640,turntable,synth,80s
+1641,HEADPHONES,acoustic guitar,modern
+1642,cassette,violin,70s
+1643,PIANO KEYS,violin,90s
+1644,headphones,synth,80s
+1645,VINYL RECORD,trumpet,70s
+1646,microphone,violin,90s
+1647,Vinyl Record,saxophone,80s
+1648,piano keys,piano,70s
+1649,MUSIC NOTES,Acoustic Guitar,70s
+1650,SHEET MUSIC,synth,60s
+1651,microphone,SYNTH,90s
+1652,headphones,bass,50s
+1653,microphone,BANJO,80s
+1654,microphone,saxophone,60s
+1655,SHEET MUSIC,violin,60s
+1656,Amplifier,violin,modern
+1657,vinyl record,piano,70s
+1658,music notes,drums,modern
+1659,Music Notes,ELECTRIC GUITAR,90s
+1660,music notes,piano,50s
+1661,guitar,Violin,60s
+1662,sheet music,violin,modern
+1663,music notes,drums,60s
+1664,microphone,Trumpet,modern
+1665,music notes,acoustic guitar,50s
+1666,sheet music,piano,80s
+1667,vinyl record,piano,70s
+1668,cassette,Synth,80s
+1669,headphones,bass,70s
+1670,sheet music,violin,60s
+1671,amplifier,drums,80s
+1672,Cassette,trumpet,60s
+1673,HEADPHONES,trumpet,modern
+1674,cassette,electric guitar,modern
+1675,cassette,trumpet,80s
+1676,turntable,violin,90s
+1677,headphones,synth,modern
+1678,sheet music,bass,90s
+1679,amplifier,trumpet,70s
+1680,music notes,drums,90s
+1681,microphone,DRUMS,90s
+1682,guitar,violin,80s
+1683,Amplifier,banjo,50s
+1684,headphones,banjo,90s
+1685,GUITAR,DRUMS,90s
+1686,headphones,trumpet,50s
+1687,vinyl record,saxophone,50s
+1688,Piano Keys,SAXOPHONE,80s
+1689,music_notes,ACOUSTIC GUITAR,modern
+1690,guitar,SAXOPHONE,90s
+1691,music notes,Synth,60s
+1692,cassette,banjo,80s
+1693,piano keys,saxophone,90s
+1694,cassette,drums,modern
+1695,Headphones,saxophone,80s
+1696,CASSETTE,banjo,60s
+1697,TURNTABLE,electric_guitar,70s
+1698,piano keys,Drums,80s
+1699,Vinyl Record,acoustic guitar,modern
+1700,headphones,saxophone,80s
+1701,amplifier,bass,50s
+1702,MUSIC NOTES,BANJO,70s
+1703,guitar,banjo,modern
+1704,HEADPHONES,synth,50s
+1705,vinyl record,drums,60s
+1706,cassette,TRUMPET,50s
+1707,Guitar,piano,80s
+1708,AMPLIFIER,synth,60s
+1709,microphone,DRUMS,modern
+1710,turntable,TRUMPET,80s
+1711,piano keys,Banjo,70s
+1712,cassette,DRUMS,60s
+1713,Sheet Music,banjo,50s
+1714,HEADPHONES,BASS,70s
+1715,cassette,acoustic guitar,modern
+1716,SHEET MUSIC,banjo,70s
+1717,HEADPHONES,banjo,80s
+1718,music notes,banjo,50s
+1719,amplifier,piano,80s
+1720,music notes,violin,modern
+1721,turntable,bass,80s
+1722,microphone,drums,50s
+1723,amplifier,bass,80s
+1724,vinyl record,drums,60s
+1725,microphone,trumpet,90s
+1726,turntable,bass,modern
+1727,PIANO KEYS,electric_guitar,modern
+1728,piano keys,Acoustic Guitar,80s
+1729,VINYL RECORD,drums,80s
+1730,sheet music,drums,50s
+1731,Piano Keys,drums,70s
+1732,sheet_music,drums,60s
+1733,amplifier,Drums,80s
+1734,vinyl record,Synth,modern
+1735,vinyl record,BANJO,90s
+1736,vinyl record,piano,90s
+1737,microphone,piano,60s
+1738,Amplifier,acoustic_guitar,70s
+1739,music notes,VIOLIN,modern
+1740,Turntable,saxophone,90s
+1741,headphones,synth,90s
+1742,turntable,bass,70s
+1743,SHEET MUSIC,ELECTRIC GUITAR,80s
+1744,vinyl record,saxophone,90s
+1745,turntable,drums,70s
+1746,turntable,PIANO,50s
+1747,CASSETTE,BANJO,60s
+1748,Cassette,acoustic guitar,60s
+1749,GUITAR,TRUMPET,70s
+1750,sheet music,Drums,modern
+1751,CASSETTE,Trumpet,80s
+1752,headphones,violin,70s
+1753,guitar,banjo,80s
+1754,cassette,DRUMS,70s
+1755,guitar,Saxophone,60s
+1756,amplifier,drums,70s
+1757,sheet_music,saxophone,50s
+1758,microphone,bass,70s
+1759,cassette,Saxophone,90s
+1760,piano keys,BANJO,80s
+1761,Piano Keys,saxophone,60s
+1762,guitar,electric_guitar,80s
+1763,microphone,Saxophone,60s
+1764,Sheet Music,synth,80s
+1765,headphones,TRUMPET,modern
+1766,cassette,SYNTH,70s
+1767,Sheet Music,saxophone,50s
+1768,piano_keys,banjo,50s
+1769,cassette,Electric Guitar,modern
+1770,Turntable,banjo,80s
+1771,microphone,BANJO,50s
+1772,cassette,DRUMS,90s
+1773,guitar,synth,modern
+1774,music notes,piano,70s
+1775,turntable,banjo,50s
+1776,amplifier,ACOUSTIC GUITAR,modern
+1777,headphones,trumpet,80s
+1778,amplifier,electric_guitar,80s
+1779,PIANO KEYS,ACOUSTIC GUITAR,modern
+1780,sheet_music,BASS,60s
+1781,piano_keys,piano,80s
+1782,headphones,piano,60s
+1783,turntable,violin,80s
+1784,MICROPHONE,electric guitar,50s
+1785,GUITAR,piano,80s
+1786,MUSIC NOTES,Saxophone,modern
+1787,TURNTABLE,drums,50s
+1788,Amplifier,saxophone,modern
+1789,guitar,electric guitar,90s
+1790,vinyl record,SYNTH,80s
+1791,Guitar,trumpet,70s
+1792,music notes,PIANO,modern
+1793,music notes,SAXOPHONE,60s
+1794,headphones,Drums,80s
+1795,vinyl_record,electric guitar,90s
+1796,cassette,saxophone,90s
+1797,headphones,bass,50s
+1798,headphones,bass,50s
+1799,vinyl_record,violin,70s
+1800,turntable,saxophone,80s
+1801,Piano Keys,TRUMPET,modern
+1802,CASSETTE,banjo,80s
+1803,Piano Keys,Synth,70s
+1804,piano_keys,DRUMS,70s
+1805,cassette,electric guitar,60s
+1806,cassette,SAXOPHONE,80s
+1807,piano keys,saxophone,90s
+1808,cassette,piano,90s
+1809,CASSETTE,piano,80s
+1810,CASSETTE,Drums,60s
+1811,microphone,drums,70s
+1812,turntable,electric guitar,60s
+1813,piano keys,violin,modern
+1814,music notes,banjo,modern
+1815,sheet music,VIOLIN,modern
+1816,Amplifier,piano,90s
+1817,VINYL RECORD,saxophone,modern
+1818,TURNTABLE,acoustic guitar,50s
+1819,amplifier,banjo,60s
+1820,Sheet Music,bass,80s
+1821,music_notes,acoustic guitar,modern
+1822,music notes,piano,90s
+1823,amplifier,BANJO,modern
+1824,guitar,acoustic guitar,60s
+1825,headphones,ACOUSTIC GUITAR,60s
+1826,Turntable,SAXOPHONE,70s
+1827,cassette,drums,60s
+1828,amplifier,Bass,80s
+1829,GUITAR,synth,80s
+1830,vinyl record,trumpet,50s
+1831,HEADPHONES,Bass,90s
+1832,guitar,BANJO,50s
+1833,sheet music,saxophone,80s
+1834,cassette,synth,modern
+1835,HEADPHONES,electric guitar,80s
+1836,Turntable,bass,60s
+1837,Music Notes,drums,70s
+1838,piano_keys,Electric Guitar,50s
+1839,microphone,acoustic_guitar,modern
+1840,Microphone,saxophone,70s
+1841,PIANO KEYS,drums,70s
+1842,piano_keys,electric guitar,50s
+1843,turntable,acoustic guitar,modern
+1844,microphone,ELECTRIC GUITAR,90s
+1845,Amplifier,Bass,80s
+1846,GUITAR,SAXOPHONE,60s
+1847,amplifier,banjo,modern
+1848,cassette,trumpet,60s
+1849,piano_keys,Acoustic Guitar,modern
+1850,guitar,SAXOPHONE,modern
+1851,microphone,saxophone,90s
+1852,Vinyl Record,PIANO,90s
+1853,GUITAR,Synth,60s
+1854,piano keys,bass,90s
+1855,guitar,saxophone,80s
+1856,guitar,saxophone,90s
+1857,Amplifier,synth,90s
+1858,Microphone,synth,90s
+1859,microphone,banjo,80s
+1860,cassette,Piano,80s
+1861,cassette,BANJO,70s
+1862,MUSIC NOTES,bass,80s
+1863,cassette,trumpet,modern
+1864,vinyl_record,saxophone,60s
+1865,vinyl record,banjo,70s
+1866,piano keys,electric guitar,50s
+1867,microphone,violin,50s
+1868,music notes,ELECTRIC GUITAR,80s
+1869,GUITAR,saxophone,modern
+1870,microphone,SAXOPHONE,60s
+1871,piano keys,drums,modern
+1872,guitar,Acoustic Guitar,modern
+1873,Piano Keys,TRUMPET,70s
+1874,turntable,electric guitar,modern
+1875,SHEET MUSIC,Piano,80s
+1876,microphone,saxophone,80s
+1877,music notes,TRUMPET,90s
+1878,MICROPHONE,SAXOPHONE,80s
+1879,cassette,drums,60s
+1880,headphones,banjo,50s
+1881,music notes,acoustic_guitar,60s
+1882,cassette,acoustic guitar,50s
+1883,piano keys,acoustic_guitar,80s
+1884,SHEET MUSIC,drums,90s
+1885,music notes,Banjo,70s
+1886,music notes,drums,50s
+1887,guitar,drums,80s
+1888,vinyl_record,trumpet,90s
+1889,Amplifier,ACOUSTIC GUITAR,modern
+1890,microphone,piano,modern
+1891,Microphone,ACOUSTIC GUITAR,60s
+1892,guitar,Trumpet,50s
+1893,vinyl record,bass,60s
+1894,Piano Keys,trumpet,70s
+1895,cassette,trumpet,70s
+1896,guitar,synth,modern
+1897,vinyl record,drums,modern
+1898,amplifier,violin,90s
+1899,vinyl record,Synth,80s
+1900,sheet music,piano,70s
+1901,Vinyl Record,VIOLIN,70s
+1902,TURNTABLE,piano,80s
+1903,MICROPHONE,VIOLIN,50s
+1904,cassette,saxophone,90s
+1905,Amplifier,Bass,modern
+1906,microphone,drums,90s
+1907,Sheet Music,banjo,modern
+1908,guitar,DRUMS,90s
+1909,Guitar,electric guitar,90s
+1910,vinyl_record,SAXOPHONE,80s
+1911,Guitar,piano,80s
+1912,cassette,banjo,90s
+1913,guitar,electric guitar,90s
+1914,amplifier,drums,modern
+1915,piano keys,banjo,50s
+1916,microphone,PIANO,80s
+1917,Guitar,acoustic guitar,80s
+1918,piano keys,Saxophone,80s
+1919,music notes,electric guitar,90s
+1920,sheet music,acoustic_guitar,80s
+1921,turntable,electric guitar,90s
+1922,vinyl record,Electric Guitar,modern
+1923,headphones,saxophone,modern
+1924,Guitar,SYNTH,90s
+1925,vinyl record,saxophone,80s
+1926,sheet music,piano,80s
+1927,cassette,drums,60s
+1928,guitar,saxophone,60s
+1929,amplifier,violin,60s
+1930,SHEET MUSIC,SAXOPHONE,70s
+1931,amplifier,SAXOPHONE,modern
+1932,piano_keys,Violin,90s
+1933,guitar,piano,modern
+1934,sheet music,banjo,70s
+1935,Headphones,Banjo,60s
+1936,PIANO KEYS,bass,70s
+1937,VINYL RECORD,trumpet,90s
+1938,microphone,Acoustic Guitar,80s
+1939,Headphones,violin,modern
+1940,Music Notes,Banjo,50s
+1941,turntable,violin,modern
+1942,turntable,trumpet,60s
+1943,amplifier,electric_guitar,70s
+1944,turntable,bass,90s
+1945,Amplifier,piano,70s
+1946,vinyl_record,piano,modern
+1947,microphone,acoustic guitar,90s
+1948,Vinyl Record,electric guitar,60s
+1949,turntable,electric_guitar,80s
+1950,music_notes,bass,50s
+1951,Microphone,saxophone,modern
+1952,music notes,Synth,70s
+1953,sheet music,saxophone,modern
+1954,turntable,drums,modern
+1955,Amplifier,saxophone,70s
+1956,CASSETTE,Banjo,50s
+1957,microphone,trumpet,50s
+1958,sheet music,saxophone,50s
+1959,Sheet Music,synth,70s
+1960,music_notes,bass,60s
+1961,VINYL RECORD,SYNTH,70s
+1962,Guitar,ELECTRIC GUITAR,60s
+1963,amplifier,piano,50s
+1964,MUSIC NOTES,bass,60s
+1965,vinyl record,DRUMS,60s
+1966,VINYL RECORD,Synth,60s
+1967,turntable,drums,modern
+1968,turntable,drums,modern
+1969,cassette,Saxophone,90s
+1970,microphone,acoustic guitar,60s
+1971,MICROPHONE,trumpet,80s
+1972,amplifier,Saxophone,50s
+1973,guitar,Drums,60s
+1974,turntable,electric_guitar,modern
+1975,headphones,drums,80s
+1976,Turntable,synth,modern
+1977,turntable,ACOUSTIC GUITAR,80s
+1978,vinyl record,PIANO,70s
+1979,guitar,saxophone,modern
+1980,headphones,piano,80s
+1981,amplifier,acoustic guitar,50s
+1982,Piano Keys,saxophone,70s
+1983,VINYL RECORD,synth,50s
+1984,SHEET MUSIC,banjo,50s
+1985,piano keys,drums,80s
+1986,turntable,acoustic guitar,70s
+1987,microphone,synth,70s
+1988,vinyl record,acoustic guitar,90s
+1989,Amplifier,drums,90s
+1990,vinyl record,piano,90s
+1991,GUITAR,acoustic guitar,modern
+1992,vinyl record,trumpet,80s
+1993,sheet music,Acoustic Guitar,modern
+1994,turntable,synth,90s
+1995,headphones,BASS,modern
+1996,guitar,trumpet,60s
+1997,Guitar,drums,modern
+1998,microphone,bass,70s
+1999,amplifier,ELECTRIC GUITAR,80s
+2000,Piano Keys,synth,50s
+2001,headphones,PIANO,60s
+2002,music notes,electric guitar,modern
+2003,sheet music,bass,90s
+2004,microphone,piano,60s
+2005,piano keys,PIANO,50s
+2006,GUITAR,Bass,60s
+2007,amplifier,piano,80s
+2008,turntable,trumpet,60s
+2009,HEADPHONES,Bass,80s
+2010,headphones,SAXOPHONE,60s
+2011,MUSIC NOTES,synth,80s
+2012,VINYL RECORD,Violin,80s
+2013,Microphone,piano,90s
+2014,vinyl record,Piano,modern
+2015,Vinyl Record,Synth,modern
+2016,amplifier,ELECTRIC GUITAR,70s
+2017,guitar,bass,80s
+2018,MUSIC NOTES,Bass,50s
+2019,piano keys,saxophone,80s
+2020,AMPLIFIER,saxophone,50s
+2021,guitar,ACOUSTIC GUITAR,modern
+2022,sheet music,Violin,90s
+2023,amplifier,piano,50s
+2024,guitar,Piano,70s
+2025,Sheet Music,violin,70s
+2026,HEADPHONES,piano,70s
+2027,amplifier,TRUMPET,50s
+2028,Amplifier,banjo,90s
+2029,piano keys,bass,80s
+2030,microphone,banjo,70s
+2031,Piano Keys,PIANO,80s
+2032,guitar,electric_guitar,50s
+2033,piano keys,synth,90s
+2034,CASSETTE,drums,90s
+2035,headphones,Banjo,60s
+2036,vinyl record,BASS,90s
+2037,turntable,banjo,80s
+2038,SHEET MUSIC,drums,80s
+2039,piano keys,Electric Guitar,80s
+2040,music_notes,BASS,80s
+2041,piano keys,Violin,80s
+2042,headphones,electric_guitar,90s
+2043,headphones,acoustic_guitar,70s
+2044,microphone,electric guitar,90s
+2045,amplifier,piano,modern
+2046,amplifier,synth,90s
+2047,turntable,Piano,50s
+2048,turntable,electric_guitar,80s
+2049,vinyl record,violin,60s
+2050,music notes,Violin,60s
+2051,guitar,saxophone,90s
+2052,headphones,SYNTH,60s
+2053,VINYL RECORD,VIOLIN,50s
+2054,TURNTABLE,electric guitar,50s
+2055,TURNTABLE,synth,90s
+2056,piano keys,trumpet,90s
+2057,AMPLIFIER,BASS,90s
+2058,piano keys,Trumpet,50s
+2059,sheet music,synth,70s
+2060,piano keys,synth,90s
+2061,headphones,acoustic guitar,50s
+2062,music notes,piano,50s
+2063,microphone,violin,80s
+2064,SHEET MUSIC,piano,modern
+2065,AMPLIFIER,Trumpet,70s
+2066,microphone,violin,modern
+2067,VINYL RECORD,trumpet,70s
+2068,piano keys,acoustic guitar,modern
+2069,headphones,Electric Guitar,modern
+2070,CASSETTE,saxophone,80s
+2071,Sheet Music,drums,60s
+2072,music_notes,acoustic guitar,70s
+2073,AMPLIFIER,trumpet,modern
+2074,guitar,Saxophone,50s
+2075,Vinyl Record,banjo,90s
+2076,Sheet Music,PIANO,70s
+2077,microphone,saxophone,modern
+2078,HEADPHONES,electric_guitar,90s
+2079,sheet music,saxophone,modern
+2080,vinyl record,synth,60s
+2081,Music Notes,banjo,90s
+2082,PIANO KEYS,VIOLIN,60s
+2083,sheet music,banjo,70s
+2084,VINYL RECORD,TRUMPET,modern
+2085,turntable,electric guitar,50s
+2086,guitar,violin,60s
+2087,headphones,piano,70s
+2088,vinyl record,Bass,50s
+2089,Cassette,acoustic guitar,modern
+2090,piano keys,drums,90s
+2091,amplifier,trumpet,modern
+2092,cassette,Violin,80s
+2093,headphones,Saxophone,80s
+2094,turntable,violin,50s
+2095,music notes,bass,60s
+2096,amplifier,trumpet,60s
+2097,CASSETTE,Drums,90s
+2098,piano keys,synth,90s
+2099,Vinyl Record,synth,60s
+2100,turntable,ELECTRIC GUITAR,80s
+2101,CASSETTE,drums,80s
+2102,PIANO KEYS,electric_guitar,50s
+2103,Cassette,acoustic guitar,90s
+2104,MUSIC NOTES,bass,60s
+2105,MICROPHONE,saxophone,70s
+2106,Piano Keys,drums,80s
+2107,amplifier,PIANO,50s
+2108,piano keys,synth,60s
+2109,turntable,piano,60s
+2110,microphone,piano,modern
+2111,CASSETTE,ELECTRIC GUITAR,50s
+2112,vinyl record,acoustic guitar,70s
+2113,MUSIC NOTES,bass,70s
+2114,Guitar,electric guitar,modern
+2115,Vinyl Record,Saxophone,80s
+2116,CASSETTE,piano,90s
+2117,Headphones,piano,modern
+2118,piano keys,synth,modern
+2119,cassette,BANJO,modern
+2120,headphones,piano,90s
+2121,headphones,electric guitar,70s
+2122,cassette,piano,50s
+2123,Vinyl Record,saxophone,80s
+2124,music notes,piano,80s
+2125,music notes,synth,50s
+2126,piano keys,piano,60s
+2127,guitar,piano,60s
+2128,TURNTABLE,violin,70s
+2129,turntable,trumpet,90s
+2130,Piano Keys,synth,90s
+2131,TURNTABLE,saxophone,80s
+2132,cassette,saxophone,70s
+2133,turntable,Electric Guitar,60s
+2134,guitar,SYNTH,70s
+2135,headphones,saxophone,80s
+2136,cassette,bass,90s
+2137,Microphone,ACOUSTIC GUITAR,modern
+2138,vinyl record,violin,70s
+2139,TURNTABLE,bass,modern
+2140,amplifier,DRUMS,60s
+2141,cassette,saxophone,60s
+2142,cassette,saxophone,60s
+2143,music_notes,piano,modern
+2144,MICROPHONE,synth,50s
+2145,CASSETTE,BANJO,modern
+2146,turntable,banjo,90s
+2147,cassette,bass,60s
+2148,music notes,ELECTRIC GUITAR,modern
+2149,piano keys,acoustic guitar,60s
+2150,guitar,drums,70s
+2151,sheet music,banjo,modern
+2152,Vinyl Record,banjo,80s
+2153,headphones,PIANO,80s
+2154,vinyl record,synth,70s
+2155,microphone,SAXOPHONE,modern
+2156,sheet music,violin,70s
+2157,microphone,saxophone,50s
+2158,turntable,acoustic guitar,80s
+2159,amplifier,BASS,50s
+2160,vinyl record,electric guitar,80s
+2161,amplifier,saxophone,80s
+2162,SHEET MUSIC,BASS,70s
+2163,Music Notes,synth,90s
+2164,PIANO KEYS,PIANO,90s
+2165,Turntable,Electric Guitar,modern
+2166,music notes,bass,modern
+2167,amplifier,Drums,50s
+2168,turntable,electric guitar,80s
+2169,guitar,electric_guitar,80s
+2170,sheet music,electric guitar,50s
+2171,amplifier,Violin,80s
+2172,Microphone,Saxophone,50s
+2173,vinyl record,piano,80s
+2174,cassette,saxophone,modern
+2175,headphones,trumpet,60s
+2176,Sheet Music,violin,60s
+2177,turntable,saxophone,modern
+2178,Sheet Music,drums,60s
+2179,TURNTABLE,Banjo,80s
+2180,vinyl_record,SYNTH,50s
+2181,turntable,banjo,80s
+2182,sheet music,synth,80s
+2183,Vinyl Record,acoustic_guitar,70s
+2184,VINYL RECORD,banjo,80s
+2185,amplifier,TRUMPET,50s
+2186,piano keys,bass,90s
+2187,sheet music,synth,70s
+2188,Microphone,piano,80s
+2189,cassette,piano,50s
+2190,Guitar,drums,80s
+2191,turntable,Trumpet,modern
+2192,cassette,piano,90s
+2193,AMPLIFIER,Bass,90s
+2194,sheet music,acoustic guitar,90s
+2195,sheet_music,BASS,modern
+2196,VINYL RECORD,violin,50s
+2197,cassette,Piano,50s
+2198,vinyl_record,saxophone,80s
+2199,headphones,Bass,90s
+2200,Microphone,violin,modern
+2201,music notes,Synth,80s
+2202,headphones,piano,60s
+2203,Sheet Music,ACOUSTIC GUITAR,60s
+2204,piano_keys,bass,90s
+2205,Guitar,piano,70s
+2206,Turntable,drums,90s
+2207,sheet_music,violin,50s
+2208,Microphone,drums,60s
+2209,GUITAR,synth,60s
+2210,headphones,Acoustic Guitar,50s
+2211,microphone,banjo,70s
+2212,Amplifier,banjo,90s
+2213,SHEET MUSIC,drums,80s
+2214,microphone,acoustic guitar,90s
+2215,music notes,electric_guitar,modern
+2216,guitar,banjo,modern
+2217,vinyl record,Acoustic Guitar,modern
+2218,cassette,saxophone,80s
+2219,Turntable,piano,modern
+2220,amplifier,BASS,modern
+2221,TURNTABLE,SAXOPHONE,80s
+2222,MUSIC NOTES,VIOLIN,60s
+2223,amplifier,Trumpet,50s
+2224,cassette,piano,60s
+2225,SHEET MUSIC,TRUMPET,70s
+2226,cassette,drums,60s
+2227,CASSETTE,acoustic guitar,modern
+2228,sheet music,acoustic guitar,80s
+2229,music notes,bass,70s
+2230,piano keys,Trumpet,80s
+2231,cassette,electric guitar,modern
+2232,vinyl record,Banjo,50s
+2233,cassette,bass,90s
+2234,guitar,violin,50s
+2235,Amplifier,drums,modern
+2236,vinyl record,PIANO,50s
+2237,Guitar,bass,90s
+2238,headphones,DRUMS,70s
+2239,amplifier,synth,70s
+2240,music notes,Piano,70s
+2241,amplifier,acoustic guitar,50s
+2242,cassette,piano,50s
+2243,cassette,synth,60s
+2244,turntable,saxophone,50s
+2245,amplifier,electric guitar,60s
+2246,guitar,violin,70s
+2247,cassette,TRUMPET,50s
+2248,microphone,electric guitar,60s
+2249,Amplifier,Bass,modern
+2250,Piano Keys,Drums,70s
+2251,guitar,VIOLIN,70s
+2252,PIANO KEYS,BASS,50s
+2253,Vinyl Record,drums,50s
+2254,guitar,electric guitar,60s
+2255,Headphones,electric guitar,90s
+2256,headphones,violin,70s
+2257,guitar,Violin,70s
+2258,sheet music,violin,60s
+2259,Music Notes,saxophone,80s
+2260,sheet_music,DRUMS,80s
+2261,music notes,saxophone,90s
+2262,piano keys,bass,60s
+2263,turntable,synth,60s
+2264,amplifier,bass,70s
+2265,cassette,SAXOPHONE,50s
+2266,music notes,bass,60s
+2267,Music Notes,SAXOPHONE,70s
+2268,headphones,acoustic guitar,90s
+2269,PIANO KEYS,trumpet,modern
+2270,sheet music,bass,50s
+2271,Sheet Music,SYNTH,70s
+2272,turntable,electric guitar,70s
+2273,music notes,drums,90s
+2274,amplifier,violin,50s
+2275,music notes,Drums,80s
+2276,Amplifier,violin,50s
+2277,amplifier,Banjo,modern
+2278,piano keys,acoustic_guitar,50s
+2279,microphone,drums,60s
+2280,SHEET MUSIC,acoustic guitar,80s
+2281,vinyl record,TRUMPET,80s
+2282,turntable,saxophone,50s
+2283,SHEET MUSIC,synth,90s
+2284,amplifier,trumpet,70s
+2285,Piano Keys,trumpet,modern
+2286,MICROPHONE,saxophone,70s
+2287,Amplifier,trumpet,60s
+2288,GUITAR,drums,50s
+2289,Amplifier,Synth,60s
+2290,Turntable,banjo,60s
+2291,guitar,violin,80s
+2292,Amplifier,saxophone,modern
+2293,amplifier,banjo,50s
+2294,turntable,bass,60s
+2295,guitar,drums,50s
+2296,Sheet Music,Electric Guitar,50s
+2297,Piano Keys,acoustic guitar,90s
+2298,music notes,piano,80s
+2299,Vinyl Record,BASS,50s
+2300,cassette,trumpet,80s
+2301,AMPLIFIER,VIOLIN,70s
+2302,cassette,SYNTH,modern
+2303,music notes,piano,80s
+2304,headphones,saxophone,90s
+2305,Sheet Music,synth,80s
+2306,music notes,saxophone,70s
+2307,vinyl record,drums,70s
+2308,HEADPHONES,Drums,60s
+2309,microphone,acoustic guitar,60s
+2310,guitar,BASS,50s
+2311,vinyl record,ACOUSTIC GUITAR,60s
+2312,cassette,bass,60s
+2313,guitar,drums,modern
+2314,music notes,ELECTRIC GUITAR,70s
+2315,guitar,banjo,80s
+2316,Sheet Music,Synth,90s
+2317,guitar,drums,50s
+2318,turntable,synth,modern
+2319,Sheet Music,bass,modern
+2320,music notes,ACOUSTIC GUITAR,70s
+2321,VINYL RECORD,synth,80s
+2322,SHEET MUSIC,drums,70s
+2323,piano keys,synth,50s
+2324,cassette,drums,70s
+2325,cassette,violin,70s
+2326,Vinyl Record,Saxophone,60s
+2327,Sheet Music,trumpet,50s
+2328,MICROPHONE,trumpet,80s
+2329,turntable,saxophone,90s
+2330,vinyl_record,violin,50s
+2331,Guitar,Violin,60s
+2332,amplifier,saxophone,70s
+2333,cassette,violin,modern
+2334,cassette,electric_guitar,60s
+2335,vinyl record,drums,80s
+2336,microphone,banjo,90s
+2337,headphones,synth,50s
+2338,cassette,bass,50s
+2339,headphones,violin,60s
+2340,VINYL RECORD,saxophone,70s
+2341,cassette,BASS,80s
+2342,amplifier,Trumpet,70s
+2343,amplifier,trumpet,60s
+2344,sheet music,banjo,60s
+2345,VINYL RECORD,violin,60s
+2346,Cassette,Acoustic Guitar,70s
+2347,vinyl record,bass,modern
+2348,music_notes,SAXOPHONE,60s
+2349,cassette,electric guitar,90s
+2350,amplifier,saxophone,70s
+2351,piano keys,PIANO,70s
+2352,sheet music,synth,modern
+2353,vinyl record,Acoustic Guitar,90s
+2354,guitar,DRUMS,50s
+2355,amplifier,trumpet,modern
+2356,vinyl record,trumpet,60s
+2357,turntable,synth,50s
+2358,Microphone,piano,60s
+2359,Headphones,TRUMPET,90s
+2360,vinyl_record,trumpet,70s
+2361,guitar,synth,60s
+2362,piano keys,acoustic guitar,50s
+2363,guitar,synth,90s
+2364,music notes,acoustic guitar,70s
+2365,Piano Keys,saxophone,modern
+2366,music notes,synth,80s
+2367,cassette,violin,70s
+2368,cassette,piano,60s
+2369,piano keys,piano,modern
+2370,cassette,Electric Guitar,modern
+2371,guitar,trumpet,80s
+2372,guitar,Banjo,80s
+2373,music notes,violin,50s
+2374,cassette,saxophone,50s
+2375,cassette,piano,80s
+2376,Music Notes,synth,modern
+2377,turntable,Banjo,90s
+2378,cassette,electric_guitar,90s
+2379,Headphones,banjo,90s
+2380,music notes,banjo,90s
+2381,Microphone,Acoustic Guitar,90s
+2382,MICROPHONE,saxophone,80s
+2383,cassette,Synth,60s
+2384,amplifier,acoustic_guitar,80s
+2385,amplifier,violin,70s
+2386,SHEET MUSIC,bass,50s
+2387,Turntable,drums,modern
+2388,TURNTABLE,BANJO,70s
+2389,guitar,saxophone,80s
+2390,MICROPHONE,Electric Guitar,80s
+2391,guitar,bass,50s
+2392,VINYL RECORD,bass,50s
+2393,Sheet Music,synth,70s
+2394,microphone,banjo,70s
+2395,cassette,acoustic_guitar,80s
+2396,vinyl record,drums,70s
+2397,vinyl record,saxophone,80s
+2398,Cassette,acoustic guitar,80s
+2399,Cassette,electric guitar,90s
+2400,HEADPHONES,synth,80s
+2401,piano_keys,piano,70s
+2402,headphones,drums,60s
+2403,piano keys,saxophone,60s
+2404,guitar,violin,70s
+2405,vinyl record,drums,60s
+2406,turntable,violin,80s
+2407,SHEET MUSIC,synth,modern
+2408,headphones,piano,60s
+2409,Headphones,saxophone,60s
+2410,sheet music,piano,60s
+2411,SHEET MUSIC,trumpet,70s
+2412,guitar,piano,80s
+2413,sheet music,synth,modern
+2414,MICROPHONE,banjo,70s
+2415,MUSIC NOTES,trumpet,50s
+2416,MICROPHONE,trumpet,60s
+2417,SHEET MUSIC,SAXOPHONE,60s
+2418,guitar,saxophone,50s
+2419,music notes,piano,80s
+2420,guitar,violin,modern
+2421,music notes,piano,50s
+2422,CASSETTE,piano,80s
+2423,amplifier,banjo,50s
+2424,Headphones,ACOUSTIC GUITAR,90s
+2425,turntable,acoustic guitar,80s
+2426,CASSETTE,drums,50s
+2427,amplifier,Synth,90s
+2428,vinyl record,Trumpet,modern
+2429,vinyl_record,BASS,70s
+2430,TURNTABLE,Banjo,modern
+2431,amplifier,drums,80s
+2432,vinyl record,Acoustic Guitar,70s
+2433,piano keys,saxophone,90s
+2434,Turntable,Banjo,70s
+2435,sheet music,bass,80s
+2436,amplifier,piano,80s
+2437,VINYL RECORD,electric guitar,80s
+2438,sheet music,Drums,70s
+2439,CASSETTE,Drums,50s
+2440,sheet music,violin,70s
+2441,sheet_music,Acoustic Guitar,90s
+2442,guitar,Bass,60s
+2443,sheet_music,electric guitar,70s
+2444,microphone,acoustic_guitar,70s
+2445,amplifier,ELECTRIC GUITAR,60s
+2446,Microphone,banjo,80s
+2447,piano keys,ELECTRIC GUITAR,50s
+2448,cassette,Bass,70s
+2449,piano keys,piano,50s
+2450,cassette,Bass,90s
+2451,MUSIC NOTES,banjo,80s
+2452,Guitar,electric guitar,80s
+2453,headphones,synth,90s
+2454,microphone,synth,80s
+2455,amplifier,saxophone,modern
+2456,piano_keys,acoustic guitar,modern
+2457,HEADPHONES,trumpet,70s
+2458,MUSIC NOTES,piano,modern
+2459,turntable,trumpet,80s
+2460,vinyl record,saxophone,80s
+2461,SHEET MUSIC,ACOUSTIC GUITAR,50s
+2462,cassette,acoustic_guitar,80s
+2463,guitar,trumpet,50s
+2464,music notes,PIANO,60s
+2465,microphone,acoustic guitar,60s
+2466,HEADPHONES,acoustic guitar,modern
+2467,music_notes,trumpet,50s
+2468,amplifier,saxophone,60s
+2469,amplifier,PIANO,60s
+2470,Vinyl Record,TRUMPET,60s
+2471,cassette,SAXOPHONE,50s
+2472,guitar,Drums,80s
+2473,VINYL RECORD,SAXOPHONE,50s
+2474,headphones,electric guitar,modern
+2475,sheet music,electric_guitar,90s
+2476,TURNTABLE,Piano,90s
+2477,headphones,electric_guitar,50s
+2478,Piano Keys,BANJO,80s
+2479,sheet music,synth,50s
+2480,piano keys,electric guitar,80s
+2481,cassette,banjo,70s
+2482,amplifier,saxophone,70s
+2483,headphones,violin,90s
+2484,microphone,Piano,70s
+2485,piano_keys,violin,60s
+2486,PIANO KEYS,violin,80s
+2487,Cassette,TRUMPET,modern
+2488,turntable,Electric Guitar,60s
+2489,Guitar,drums,80s
+2490,guitar,drums,60s
+2491,Amplifier,Acoustic Guitar,50s
+2492,piano_keys,SAXOPHONE,50s
+2493,microphone,electric guitar,60s
+2494,turntable,SAXOPHONE,60s
+2495,HEADPHONES,saxophone,80s
+2496,cassette,violin,60s
+2497,turntable,violin,50s
+2498,cassette,acoustic guitar,90s
+2499,guitar,piano,modern
+2500,guitar,electric guitar,modern
+2501,turntable,acoustic guitar,80s
+2502,PIANO KEYS,piano,50s
+2503,headphones,violin,60s
+2504,SHEET MUSIC,electric guitar,modern
+2505,headphones,piano,modern
+2506,piano keys,banjo,modern
+2507,guitar,banjo,50s
+2508,Amplifier,SYNTH,50s
+2509,piano_keys,trumpet,60s
+2510,Headphones,bass,70s
+2511,vinyl record,VIOLIN,modern
+2512,headphones,banjo,modern
+2513,HEADPHONES,saxophone,60s
+2514,headphones,piano,80s
+2515,music notes,bass,70s
+2516,Microphone,SAXOPHONE,50s
+2517,turntable,DRUMS,80s
+2518,SHEET MUSIC,electric guitar,70s
+2519,microphone,trumpet,80s
+2520,turntable,bass,50s
+2521,sheet music,banjo,modern
+2522,amplifier,violin,70s
+2523,cassette,Piano,70s
+2524,microphone,SYNTH,60s
+2525,guitar,Electric Guitar,70s
+2526,guitar,banjo,90s
+2527,cassette,SYNTH,90s
+2528,cassette,banjo,70s
+2529,turntable,banjo,80s
+2530,vinyl record,violin,50s
+2531,cassette,saxophone,modern
+2532,Amplifier,synth,90s
+2533,GUITAR,piano,90s
+2534,guitar,synth,50s
+2535,headphones,Saxophone,50s
+2536,headphones,saxophone,90s
+2537,amplifier,TRUMPET,90s
+2538,Cassette,violin,60s
+2539,microphone,drums,70s
+2540,MUSIC NOTES,BASS,60s
+2541,Piano Keys,BANJO,50s
+2542,piano keys,violin,80s
+2543,Headphones,bass,50s
+2544,Piano Keys,piano,90s
+2545,music notes,bass,70s
+2546,amplifier,Synth,60s
+2547,piano keys,trumpet,modern
+2548,headphones,Trumpet,60s
+2549,TURNTABLE,DRUMS,60s
+2550,GUITAR,saxophone,90s
+2551,amplifier,electric guitar,60s
+2552,Piano Keys,Bass,70s
+2553,vinyl_record,BASS,90s
+2554,microphone,acoustic guitar,50s
+2555,Sheet Music,acoustic guitar,modern
+2556,piano_keys,ACOUSTIC GUITAR,60s
+2557,MICROPHONE,bass,80s
+2558,TURNTABLE,piano,90s
+2559,cassette,PIANO,50s
+2560,sheet music,bass,80s
+2561,headphones,saxophone,80s
+2562,music notes,banjo,60s
+2563,vinyl record,VIOLIN,modern
+2564,Cassette,acoustic guitar,50s
+2565,cassette,VIOLIN,modern
+2566,music notes,trumpet,60s
+2567,vinyl_record,trumpet,70s
+2568,music notes,PIANO,50s
+2569,Microphone,piano,60s
+2570,sheet music,saxophone,60s
+2571,microphone,drums,70s
+2572,PIANO KEYS,drums,modern
+2573,vinyl record,acoustic guitar,60s
+2574,music notes,acoustic guitar,60s
+2575,cassette,saxophone,90s
+2576,Headphones,SYNTH,70s
+2577,headphones,synth,50s
+2578,AMPLIFIER,banjo,50s
+2579,HEADPHONES,SAXOPHONE,90s
+2580,turntable,piano,50s
+2581,vinyl_record,DRUMS,60s
+2582,guitar,drums,70s
+2583,piano keys,saxophone,60s
+2584,Guitar,trumpet,modern
+2585,amplifier,SAXOPHONE,50s
+2586,Turntable,synth,80s
+2587,headphones,ELECTRIC GUITAR,70s
+2588,vinyl record,piano,modern
+2589,VINYL RECORD,saxophone,90s
+2590,amplifier,banjo,modern
+2591,piano_keys,drums,modern
+2592,sheet music,bass,modern
+2593,vinyl record,synth,70s
+2594,vinyl_record,piano,modern
+2595,music_notes,saxophone,70s
+2596,microphone,SAXOPHONE,70s
+2597,amplifier,violin,modern
+2598,GUITAR,BASS,60s
+2599,HEADPHONES,Trumpet,50s
+2600,Music Notes,Trumpet,90s
+2601,VINYL RECORD,BANJO,80s
+2602,guitar,bass,60s
+2603,amplifier,ACOUSTIC GUITAR,modern
+2604,microphone,DRUMS,modern
+2605,microphone,banjo,50s
+2606,turntable,banjo,60s
+2607,turntable,Acoustic Guitar,70s
+2608,vinyl_record,DRUMS,50s
+2609,microphone,ACOUSTIC GUITAR,50s
+2610,turntable,bass,80s
+2611,sheet music,bass,60s
+2612,amplifier,synth,90s
+2613,headphones,SYNTH,50s
+2614,guitar,Violin,modern
+2615,turntable,synth,90s
+2616,cassette,trumpet,60s
+2617,amplifier,saxophone,50s
+2618,music notes,bass,50s
+2619,microphone,Violin,80s
+2620,music notes,acoustic_guitar,60s
+2621,cassette,banjo,80s
+2622,MUSIC NOTES,violin,50s
+2623,piano keys,SYNTH,50s
+2624,VINYL RECORD,DRUMS,60s
+2625,guitar,trumpet,modern
+2626,turntable,VIOLIN,80s
+2627,turntable,drums,50s
+2628,GUITAR,banjo,90s
+2629,SHEET MUSIC,saxophone,70s
+2630,sheet_music,piano,80s
+2631,microphone,trumpet,90s
+2632,Vinyl Record,piano,60s
+2633,Vinyl Record,bass,70s
+2634,guitar,Banjo,80s
+2635,Amplifier,violin,90s
+2636,TURNTABLE,saxophone,60s
+2637,guitar,acoustic guitar,50s
+2638,Sheet Music,ACOUSTIC GUITAR,70s
+2639,MICROPHONE,SYNTH,50s
+2640,headphones,bass,80s
+2641,MICROPHONE,electric_guitar,80s
+2642,music notes,PIANO,50s
+2643,VINYL RECORD,electric_guitar,50s
+2644,headphones,electric_guitar,80s
+2645,CASSETTE,electric guitar,80s
+2646,cassette,Bass,90s
+2647,turntable,electric_guitar,60s
+2648,piano_keys,violin,60s
+2649,guitar,banjo,60s
+2650,microphone,ELECTRIC GUITAR,60s
+2651,CASSETTE,trumpet,80s
+2652,Music Notes,saxophone,70s
+2653,music notes,Electric Guitar,60s
+2654,microphone,bass,80s
+2655,vinyl record,electric_guitar,90s
+2656,AMPLIFIER,electric guitar,50s
+2657,Vinyl Record,Violin,90s
+2658,guitar,SAXOPHONE,70s
+2659,sheet music,acoustic guitar,80s
+2660,Amplifier,violin,50s
+2661,sheet music,saxophone,60s
+2662,headphones,violin,modern
+2663,turntable,trumpet,60s
+2664,piano_keys,electric guitar,modern
+2665,turntable,bass,90s
+2666,guitar,piano,60s
+2667,microphone,synth,50s
+2668,cassette,VIOLIN,80s
+2669,PIANO KEYS,drums,50s
+2670,amplifier,electric_guitar,50s
+2671,Turntable,banjo,70s
+2672,piano keys,piano,70s
+2673,PIANO KEYS,piano,60s
+2674,cassette,trumpet,50s
+2675,MICROPHONE,acoustic guitar,modern
+2676,amplifier,bass,60s
+2677,microphone,ACOUSTIC GUITAR,90s
+2678,Cassette,banjo,60s
+2679,MUSIC NOTES,trumpet,50s
+2680,guitar,bass,50s
+2681,MICROPHONE,drums,80s
+2682,sheet music,banjo,90s
+2683,sheet music,PIANO,modern
+2684,turntable,drums,60s
+2685,VINYL RECORD,banjo,60s
+2686,microphone,electric guitar,60s
+2687,MICROPHONE,drums,60s
+2688,sheet_music,electric guitar,modern
+2689,piano keys,bass,50s
+2690,cassette,electric guitar,60s
+2691,amplifier,piano,80s
+2692,vinyl_record,DRUMS,60s
+2693,Turntable,piano,50s
+2694,piano keys,ACOUSTIC GUITAR,90s
+2695,Headphones,piano,90s
+2696,turntable,trumpet,90s
+2697,microphone,BASS,70s
+2698,HEADPHONES,bass,90s
+2699,MICROPHONE,ACOUSTIC GUITAR,60s
+2700,amplifier,acoustic guitar,modern
+2701,piano keys,acoustic guitar,90s
+2702,cassette,piano,modern
+2703,turntable,violin,modern
+2704,vinyl record,saxophone,90s
+2705,headphones,synth,70s
+2706,turntable,piano,90s
+2707,headphones,ELECTRIC GUITAR,90s
+2708,vinyl record,drums,90s
+2709,Amplifier,banjo,60s
+2710,Piano Keys,DRUMS,70s
+2711,HEADPHONES,saxophone,50s
+2712,Sheet Music,PIANO,80s
+2713,music notes,synth,70s
+2714,cassette,Banjo,60s
+2715,PIANO KEYS,banjo,90s
+2716,Headphones,electric guitar,80s
+2717,cassette,bass,60s
+2718,vinyl record,violin,70s
+2719,piano keys,BASS,modern
+2720,MICROPHONE,ELECTRIC GUITAR,90s
+2721,AMPLIFIER,banjo,modern
+2722,amplifier,Electric Guitar,80s
+2723,CASSETTE,trumpet,modern
+2724,vinyl record,DRUMS,modern
+2725,amplifier,BASS,90s
+2726,microphone,acoustic guitar,80s
+2727,piano_keys,drums,80s
+2728,microphone,trumpet,80s
+2729,guitar,PIANO,60s
+2730,Sheet Music,SAXOPHONE,70s
+2731,headphones,violin,50s
+2732,turntable,drums,70s
+2733,amplifier,VIOLIN,80s
+2734,sheet music,acoustic_guitar,modern
+2735,turntable,electric guitar,70s
+2736,guitar,piano,70s
+2737,turntable,Synth,90s
+2738,amplifier,banjo,60s
+2739,PIANO KEYS,banjo,80s
+2740,Sheet Music,banjo,70s
+2741,piano keys,VIOLIN,modern
+2742,sheet_music,electric guitar,90s
+2743,sheet music,Trumpet,80s
+2744,vinyl_record,violin,60s
+2745,amplifier,banjo,60s
+2746,AMPLIFIER,saxophone,60s
+2747,microphone,piano,80s
+2748,music notes,ACOUSTIC GUITAR,80s
+2749,microphone,saxophone,70s
+2750,VINYL RECORD,Violin,70s
+2751,microphone,saxophone,modern
+2752,microphone,acoustic guitar,70s
+2753,amplifier,Saxophone,60s
+2754,Music Notes,synth,60s
+2755,cassette,saxophone,modern
+2756,microphone,drums,60s
+2757,microphone,drums,modern
+2758,music notes,piano,60s
+2759,cassette,bass,50s
+2760,microphone,synth,60s
+2761,cassette,Electric Guitar,60s
+2762,music notes,Electric Guitar,70s
+2763,sheet_music,synth,90s
+2764,music notes,synth,modern
+2765,microphone,DRUMS,80s
+2766,sheet music,PIANO,90s
+2767,microphone,piano,80s
+2768,GUITAR,saxophone,70s
+2769,headphones,TRUMPET,70s
+2770,microphone,bass,60s
+2771,amplifier,BASS,50s
+2772,headphones,ACOUSTIC GUITAR,90s
+2773,Piano Keys,ELECTRIC GUITAR,80s
+2774,vinyl record,acoustic guitar,modern
+2775,cassette,ELECTRIC GUITAR,70s
+2776,sheet music,electric guitar,90s
+2777,cassette,trumpet,modern
+2778,microphone,BASS,50s
+2779,MUSIC NOTES,acoustic guitar,60s
+2780,microphone,electric_guitar,90s
+2781,amplifier,acoustic guitar,modern
+2782,Piano Keys,drums,90s
+2783,cassette,bass,70s
+2784,cassette,Trumpet,50s
+2785,microphone,SAXOPHONE,modern
+2786,piano keys,drums,80s
+2787,music notes,bass,60s
+2788,music notes,banjo,50s
+2789,CASSETTE,bass,90s
+2790,MICROPHONE,drums,50s
+2791,guitar,BASS,modern
+2792,amplifier,Acoustic Guitar,50s
+2793,turntable,ACOUSTIC GUITAR,80s
+2794,microphone,ACOUSTIC GUITAR,50s
+2795,cassette,PIANO,50s
+2796,cassette,banjo,60s
+2797,SHEET MUSIC,TRUMPET,50s
+2798,VINYL RECORD,TRUMPET,60s
+2799,HEADPHONES,synth,80s
+2800,cassette,violin,70s
+2801,amplifier,synth,50s
+2802,amplifier,Drums,80s
+2803,cassette,electric guitar,90s
+2804,vinyl record,BANJO,50s
+2805,Microphone,acoustic guitar,60s
+2806,VINYL RECORD,drums,50s
+2807,Microphone,banjo,80s
+2808,turntable,violin,70s
+2809,sheet music,electric guitar,90s
+2810,MICROPHONE,SAXOPHONE,modern
+2811,guitar,electric_guitar,50s
+2812,guitar,piano,90s
+2813,Microphone,trumpet,50s
+2814,cassette,VIOLIN,70s
+2815,headphones,synth,60s
+2816,microphone,drums,modern
+2817,Guitar,synth,90s
+2818,amplifier,piano,80s
+2819,music notes,synth,50s
+2820,microphone,saxophone,50s
+2821,microphone,Bass,80s
+2822,turntable,saxophone,modern
+2823,Cassette,trumpet,50s
+2824,guitar,synth,90s
+2825,CASSETTE,Violin,50s
+2826,TURNTABLE,drums,80s
+2827,VINYL RECORD,synth,70s
+2828,Turntable,SYNTH,80s
+2829,Piano Keys,BASS,70s
+2830,guitar,ELECTRIC GUITAR,80s
+2831,microphone,saxophone,60s
+2832,amplifier,acoustic guitar,modern
+2833,sheet music,banjo,60s
+2834,sheet music,SYNTH,90s
+2835,Amplifier,ELECTRIC GUITAR,50s
+2836,Cassette,synth,70s
+2837,headphones,ACOUSTIC GUITAR,80s
+2838,vinyl record,piano,90s
+2839,Piano Keys,saxophone,50s
+2840,Music Notes,synth,60s
+2841,TURNTABLE,trumpet,60s
+2842,microphone,saxophone,80s
+2843,headphones,violin,60s
+2844,turntable,electric_guitar,60s
+2845,Turntable,drums,60s
+2846,vinyl record,banjo,90s
+2847,Piano Keys,banjo,70s
+2848,Guitar,Violin,70s
+2849,Turntable,electric guitar,50s
+2850,piano keys,bass,80s
+2851,amplifier,bass,modern
+2852,sheet music,drums,60s
+2853,vinyl_record,violin,modern
+2854,guitar,trumpet,60s
+2855,turntable,violin,70s
+2856,HEADPHONES,banjo,90s
+2857,Headphones,Drums,70s
+2858,TURNTABLE,drums,90s
+2859,HEADPHONES,saxophone,90s
+2860,piano_keys,electric guitar,50s
+2861,vinyl_record,trumpet,70s
+2862,sheet music,Synth,90s
+2863,piano_keys,drums,60s
+2864,cassette,saxophone,70s
+2865,Headphones,PIANO,50s
+2866,Turntable,bass,60s
+2867,amplifier,synth,60s
+2868,sheet music,trumpet,modern
+2869,vinyl record,SAXOPHONE,70s
+2870,vinyl record,piano,70s
+2871,microphone,Synth,modern
+2872,guitar,Electric Guitar,80s
+2873,Cassette,bass,90s
+2874,PIANO KEYS,PIANO,90s
+2875,Sheet Music,bass,50s
+2876,turntable,electric guitar,60s
+2877,vinyl record,banjo,60s
+2878,cassette,bass,50s
+2879,microphone,synth,90s
+2880,Headphones,acoustic_guitar,60s
+2881,sheet music,ELECTRIC GUITAR,60s
+2882,Amplifier,bass,60s
+2883,microphone,violin,60s
+2884,TURNTABLE,Violin,70s
+2885,Piano Keys,BANJO,70s
+2886,turntable,SAXOPHONE,80s
+2887,amplifier,acoustic guitar,90s
+2888,headphones,banjo,50s
+2889,guitar,saxophone,60s
+2890,CASSETTE,piano,60s
+2891,vinyl record,violin,70s
+2892,sheet music,Drums,50s
+2893,Vinyl Record,bass,70s
+2894,AMPLIFIER,violin,90s
+2895,Guitar,acoustic guitar,90s
+2896,amplifier,trumpet,modern
+2897,music notes,trumpet,70s
+2898,Piano Keys,bass,modern
+2899,microphone,PIANO,60s
+2900,MUSIC NOTES,acoustic guitar,50s
+2901,MUSIC NOTES,piano,50s
+2902,VINYL RECORD,banjo,50s
+2903,amplifier,Drums,modern
+2904,vinyl record,bass,60s
+2905,Guitar,electric_guitar,70s
+2906,turntable,drums,70s
+2907,MUSIC NOTES,Saxophone,50s
+2908,GUITAR,electric guitar,70s
+2909,AMPLIFIER,PIANO,60s
+2910,cassette,Piano,90s
+2911,guitar,piano,70s
+2912,Amplifier,bass,modern
+2913,guitar,TRUMPET,90s
+2914,guitar,drums,50s
+2915,VINYL RECORD,acoustic guitar,50s
+2916,guitar,acoustic guitar,50s
+2917,amplifier,electric guitar,80s
+2918,Music Notes,SYNTH,modern
+2919,TURNTABLE,electric guitar,60s
+2920,piano keys,violin,80s
+2921,Cassette,piano,90s
+2922,Guitar,drums,modern
+2923,sheet music,trumpet,50s
+2924,MICROPHONE,violin,50s
+2925,amplifier,bass,70s
+2926,cassette,drums,60s
+2927,piano keys,saxophone,60s
+2928,CASSETTE,violin,70s
+2929,PIANO KEYS,synth,60s
+2930,VINYL RECORD,electric guitar,70s
+2931,PIANO KEYS,Electric Guitar,50s
+2932,Microphone,piano,50s
+2933,guitar,synth,modern
+2934,microphone,banjo,70s
+2935,microphone,synth,80s
+2936,Vinyl Record,banjo,90s
+2937,piano keys,trumpet,70s
+2938,turntable,drums,80s
+2939,turntable,trumpet,90s
+2940,guitar,trumpet,70s
+2941,SHEET MUSIC,BASS,50s
+2942,sheet_music,bass,90s
+2943,Headphones,piano,50s
+2944,microphone,drums,50s
+2945,amplifier,Drums,60s
+2946,vinyl record,saxophone,70s
+2947,guitar,drums,50s
+2948,HEADPHONES,acoustic guitar,70s
+2949,guitar,saxophone,60s
+2950,piano keys,piano,60s
+2951,amplifier,electric guitar,50s
+2952,guitar,piano,90s
+2953,music_notes,piano,90s
+2954,VINYL RECORD,acoustic guitar,50s
+2955,cassette,violin,80s
+2956,cassette,trumpet,90s
+2957,amplifier,electric guitar,80s
+2958,sheet music,drums,50s
+2959,music_notes,piano,60s
+2960,guitar,Acoustic Guitar,50s
+2961,headphones,violin,90s
+2962,microphone,Trumpet,50s
+2963,turntable,TRUMPET,50s
+2964,guitar,synth,60s
+2965,music notes,Drums,60s
+2966,amplifier,piano,70s
+2967,VINYL RECORD,piano,50s
+2968,music notes,synth,90s
+2969,microphone,Violin,70s
+2970,PIANO KEYS,synth,modern
+2971,headphones,ELECTRIC GUITAR,60s
+2972,TURNTABLE,DRUMS,modern
+2973,Headphones,electric guitar,80s
+2974,PIANO KEYS,acoustic guitar,60s
+2975,guitar,bass,80s
+2976,sheet music,Acoustic Guitar,50s
+2977,AMPLIFIER,violin,60s
+2978,turntable,SAXOPHONE,70s
+2979,headphones,drums,90s
+2980,AMPLIFIER,ELECTRIC GUITAR,80s
+2981,TURNTABLE,ELECTRIC GUITAR,modern
+2982,microphone,Bass,70s
+2983,sheet music,SAXOPHONE,50s
+2984,microphone,banjo,50s
+2985,guitar,synth,50s
+2986,AMPLIFIER,trumpet,modern
+2987,sheet music,BASS,70s
+2988,Microphone,piano,90s
+2989,cassette,banjo,modern
+2990,turntable,Acoustic Guitar,60s
+2991,PIANO KEYS,acoustic guitar,80s
+2992,Microphone,saxophone,modern
+2993,sheet music,synth,80s
+2994,guitar,VIOLIN,60s
+2995,microphone,drums,70s
+2996,cassette,violin,90s
+2997,music notes,bass,60s
+2998,Turntable,ELECTRIC GUITAR,90s
+2999,SHEET MUSIC,ACOUSTIC GUITAR,60s
+3000,piano_keys,violin,90s
+3001,Turntable,bass,60s
+3002,vinyl record,Saxophone,90s
+3003,vinyl record,SAXOPHONE,70s
+3004,sheet music,SAXOPHONE,modern
+3005,Cassette,drums,70s
+3006,Piano Keys,drums,90s
+3007,HEADPHONES,ELECTRIC GUITAR,50s
+3008,microphone,drums,70s
+3009,turntable,synth,80s
+3010,music notes,BASS,80s
+3011,sheet music,Saxophone,50s
+3012,amplifier,piano,modern
+3013,piano keys,SAXOPHONE,70s
+3014,piano keys,drums,50s
+3015,Cassette,electric guitar,80s
+3016,vinyl_record,synth,80s
+3017,Guitar,banjo,80s
+3018,sheet music,SAXOPHONE,70s
+3019,MUSIC NOTES,acoustic guitar,50s
+3020,cassette,acoustic guitar,modern
+3021,GUITAR,saxophone,70s
+3022,sheet music,bass,50s
+3023,VINYL RECORD,piano,modern
+3024,cassette,banjo,80s
+3025,Headphones,Acoustic Guitar,90s
+3026,AMPLIFIER,synth,modern
+3027,cassette,electric guitar,90s
+3028,piano keys,violin,60s
+3029,amplifier,trumpet,80s
+3030,microphone,electric guitar,90s
+3031,MUSIC NOTES,Violin,70s
+3032,turntable,piano,50s
+3033,piano keys,banjo,80s
+3034,guitar,Synth,60s
+3035,Piano Keys,drums,60s
+3036,PIANO KEYS,violin,50s
+3037,PIANO KEYS,Acoustic Guitar,modern
+3038,amplifier,Trumpet,90s
+3039,sheet music,electric guitar,70s
+3040,GUITAR,electric guitar,90s
+3041,Vinyl Record,saxophone,60s
+3042,guitar,piano,50s
+3043,sheet music,Bass,60s
+3044,headphones,trumpet,70s
+3045,microphone,PIANO,50s
+3046,vinyl_record,violin,60s
+3047,vinyl record,Trumpet,50s
+3048,amplifier,acoustic guitar,70s
+3049,Cassette,acoustic_guitar,50s
+3050,turntable,saxophone,50s
+3051,cassette,piano,modern
+3052,vinyl_record,bass,70s
+3053,CASSETTE,BASS,60s
+3054,piano keys,synth,50s
+3055,MICROPHONE,saxophone,50s
+3056,turntable,saxophone,modern
+3057,vinyl record,banjo,modern
+3058,sheet music,BANJO,90s
+3059,music_notes,bass,70s
+3060,HEADPHONES,SAXOPHONE,60s
+3061,cassette,synth,80s
+3062,sheet_music,banjo,90s
+3063,microphone,violin,90s
+3064,cassette,ELECTRIC GUITAR,70s
+3065,amplifier,PIANO,modern
+3066,microphone,drums,modern
+3067,microphone,banjo,modern
+3068,microphone,trumpet,90s
+3069,sheet music,violin,60s
+3070,amplifier,bass,90s
+3071,Turntable,ACOUSTIC GUITAR,90s
+3072,MICROPHONE,banjo,modern
+3073,headphones,electric guitar,modern
+3074,piano keys,drums,60s
+3075,guitar,DRUMS,90s
+3076,VINYL RECORD,piano,modern
+3077,sheet music,electric_guitar,80s
+3078,PIANO KEYS,acoustic guitar,90s
+3079,Sheet Music,saxophone,50s
+3080,AMPLIFIER,Acoustic Guitar,90s
+3081,sheet music,Acoustic Guitar,modern
+3082,Guitar,TRUMPET,80s
+3083,Guitar,saxophone,70s
+3084,music notes,SYNTH,50s
+3085,Headphones,Piano,modern
+3086,AMPLIFIER,bass,90s
+3087,guitar,Electric Guitar,90s
+3088,music notes,SYNTH,50s
+3089,headphones,acoustic guitar,60s
+3090,sheet_music,Saxophone,90s
+3091,music notes,electric guitar,50s
+3092,Cassette,VIOLIN,60s
+3093,vinyl record,electric guitar,70s
+3094,AMPLIFIER,SYNTH,modern
+3095,cassette,bass,modern
+3096,Piano Keys,acoustic guitar,90s
+3097,CASSETTE,synth,50s
+3098,piano keys,electric_guitar,50s
+3099,turntable,drums,70s
+3100,vinyl record,electric guitar,90s
+3101,amplifier,saxophone,60s
+3102,sheet music,synth,80s
+3103,music notes,Saxophone,60s
+3104,microphone,ELECTRIC GUITAR,modern
+3105,MUSIC NOTES,Violin,50s
+3106,sheet music,Trumpet,modern
+3107,TURNTABLE,Bass,50s
+3108,turntable,Trumpet,50s
+3109,headphones,drums,50s
+3110,amplifier,DRUMS,60s
+3111,microphone,acoustic guitar,80s
+3112,sheet music,SYNTH,90s
+3113,sheet_music,PIANO,50s
+3114,AMPLIFIER,piano,60s
+3115,music notes,piano,80s
+3116,vinyl record,banjo,80s
+3117,turntable,acoustic guitar,50s
+3118,vinyl record,saxophone,80s
+3119,headphones,electric guitar,70s
+3120,guitar,Bass,60s
+3121,vinyl record,trumpet,80s
+3122,microphone,synth,80s
+3123,guitar,SAXOPHONE,modern
+3124,HEADPHONES,saxophone,modern
+3125,headphones,Drums,60s
+3126,microphone,Synth,90s
+3127,Guitar,Electric Guitar,70s
+3128,AMPLIFIER,ACOUSTIC GUITAR,90s
+3129,headphones,trumpet,modern
+3130,sheet_music,Piano,80s
+3131,headphones,electric guitar,modern
+3132,vinyl record,synth,modern
+3133,Headphones,DRUMS,50s
+3134,sheet music,PIANO,modern
+3135,cassette,trumpet,50s
+3136,headphones,bass,90s
+3137,headphones,electric guitar,90s
+3138,headphones,bass,90s
+3139,headphones,saxophone,90s
+3140,turntable,drums,90s
+3141,vinyl record,VIOLIN,modern
+3142,vinyl record,banjo,80s
+3143,guitar,Banjo,60s
+3144,HEADPHONES,synth,modern
+3145,MICROPHONE,bass,80s
+3146,microphone,saxophone,80s
+3147,GUITAR,bass,70s
+3148,guitar,violin,90s
+3149,SHEET MUSIC,synth,80s
+3150,cassette,drums,modern
+3151,SHEET MUSIC,acoustic guitar,50s
+3152,cassette,piano,90s
+3153,headphones,Synth,80s
+3154,music notes,drums,90s
+3155,piano_keys,synth,80s
+3156,guitar,synth,90s
+3157,piano_keys,bass,modern
+3158,vinyl record,acoustic guitar,80s
+3159,music notes,bass,50s
+3160,Piano Keys,drums,60s
+3161,amplifier,electric guitar,70s
+3162,CASSETTE,Bass,50s
+3163,vinyl record,acoustic guitar,modern
+3164,music notes,acoustic guitar,90s
+3165,amplifier,Piano,60s
+3166,music notes,acoustic guitar,50s
+3167,cassette,Saxophone,90s
+3168,headphones,Electric Guitar,70s
+3169,Guitar,banjo,90s
+3170,HEADPHONES,banjo,modern
+3171,sheet music,drums,80s
+3172,microphone,drums,70s
+3173,guitar,BASS,80s
+3174,headphones,drums,60s
+3175,HEADPHONES,BANJO,70s
+3176,headphones,violin,90s
+3177,cassette,saxophone,90s
+3178,cassette,trumpet,modern
+3179,guitar,TRUMPET,80s
+3180,Cassette,Electric Guitar,90s
+3181,HEADPHONES,Banjo,70s
+3182,Headphones,banjo,80s
+3183,CASSETTE,acoustic guitar,70s
+3184,sheet_music,electric_guitar,70s
+3185,music notes,synth,80s
+3186,guitar,drums,80s
+3187,sheet music,banjo,90s
+3188,headphones,saxophone,60s
+3189,piano_keys,acoustic_guitar,70s
+3190,vinyl record,electric guitar,80s
+3191,turntable,synth,50s
+3192,headphones,saxophone,80s
+3193,music notes,Synth,modern
+3194,sheet_music,bass,80s
+3195,Headphones,Violin,60s
+3196,microphone,ELECTRIC GUITAR,70s
+3197,cassette,piano,80s
+3198,guitar,trumpet,70s
+3199,vinyl record,Saxophone,modern
+3200,cassette,acoustic_guitar,50s
+3201,cassette,TRUMPET,modern
+3202,music notes,SAXOPHONE,80s
+3203,amplifier,synth,70s
+3204,guitar,trumpet,60s
+3205,turntable,piano,90s
+3206,HEADPHONES,synth,70s
+3207,guitar,bass,70s
+3208,turntable,Piano,70s
+3209,amplifier,acoustic guitar,50s
+3210,cassette,electric_guitar,90s
+3211,microphone,acoustic guitar,60s
+3212,cassette,Violin,70s
+3213,turntable,trumpet,modern
+3214,HEADPHONES,bass,80s
+3215,cassette,violin,60s
+3216,microphone,synth,modern
+3217,guitar,Trumpet,50s
+3218,cassette,Trumpet,60s
+3219,vinyl record,piano,60s
+3220,GUITAR,violin,60s
+3221,turntable,DRUMS,70s
+3222,VINYL RECORD,electric_guitar,90s
+3223,amplifier,saxophone,70s
+3224,guitar,banjo,70s
+3225,sheet music,saxophone,90s
+3226,Music Notes,VIOLIN,60s
+3227,vinyl_record,Bass,60s
+3228,microphone,TRUMPET,modern
+3229,vinyl record,trumpet,modern
+3230,CASSETTE,SYNTH,60s
+3231,PIANO KEYS,electric guitar,80s
+3232,microphone,banjo,80s
+3233,TURNTABLE,PIANO,50s
+3234,VINYL RECORD,synth,80s
+3235,Amplifier,Drums,70s
+3236,music notes,synth,60s
+3237,headphones,saxophone,80s
+3238,microphone,SAXOPHONE,modern
+3239,guitar,trumpet,80s
+3240,headphones,violin,90s
+3241,turntable,Synth,90s
+3242,turntable,Trumpet,90s
+3243,VINYL RECORD,Violin,80s
+3244,Cassette,trumpet,80s
+3245,headphones,banjo,70s
+3246,vinyl record,acoustic guitar,80s
+3247,amplifier,violin,60s
+3248,Amplifier,violin,60s
+3249,piano keys,electric guitar,60s
+3250,Turntable,saxophone,90s
+3251,vinyl record,piano,50s
+3252,turntable,trumpet,50s
+3253,SHEET MUSIC,drums,80s
+3254,headphones,saxophone,70s
+3255,sheet_music,TRUMPET,90s
+3256,Music Notes,PIANO,60s
+3257,amplifier,drums,80s
+3258,guitar,saxophone,modern
+3259,guitar,DRUMS,60s
+3260,headphones,banjo,60s
+3261,piano_keys,synth,70s
+3262,amplifier,DRUMS,modern
+3263,music notes,ACOUSTIC GUITAR,80s
+3264,microphone,piano,50s
+3265,cassette,drums,50s
+3266,sheet music,synth,90s
+3267,CASSETTE,BANJO,90s
+3268,MUSIC NOTES,Bass,modern
+3269,turntable,drums,60s
+3270,guitar,trumpet,90s
+3271,cassette,Violin,60s
+3272,microphone,electric guitar,60s
+3273,Piano Keys,violin,60s
+3274,TURNTABLE,piano,80s
+3275,Vinyl Record,violin,80s
+3276,guitar,electric_guitar,50s
+3277,cassette,piano,modern
+3278,cassette,piano,90s
+3279,sheet music,drums,50s
+3280,MUSIC NOTES,acoustic_guitar,modern
+3281,headphones,Drums,90s
+3282,headphones,PIANO,70s
+3283,cassette,piano,50s
+3284,Microphone,electric guitar,50s
+3285,headphones,banjo,70s
+3286,turntable,trumpet,50s
+3287,Turntable,saxophone,80s
+3288,microphone,electric guitar,80s
+3289,Turntable,piano,70s
+3290,VINYL RECORD,drums,modern
+3291,cassette,electric guitar,70s
+3292,headphones,DRUMS,90s
+3293,Turntable,ELECTRIC GUITAR,80s
+3294,cassette,acoustic guitar,70s
+3295,music notes,DRUMS,modern
+3296,amplifier,Bass,50s
+3297,HEADPHONES,piano,70s
+3298,sheet music,banjo,50s
+3299,vinyl record,electric guitar,50s
+3300,Microphone,piano,70s
+3301,Headphones,Banjo,60s
+3302,SHEET MUSIC,drums,70s
+3303,microphone,bass,70s
+3304,vinyl record,electric guitar,modern
+3305,vinyl record,banjo,90s
+3306,microphone,trumpet,80s
+3307,piano_keys,drums,70s
+3308,MICROPHONE,DRUMS,50s
+3309,MICROPHONE,trumpet,80s
+3310,microphone,piano,80s
+3311,vinyl record,violin,60s
+3312,piano keys,Bass,80s
+3313,cassette,VIOLIN,80s
+3314,headphones,BANJO,60s
+3315,amplifier,drums,50s
+3316,microphone,bass,80s
+3317,PIANO KEYS,PIANO,90s
+3318,Turntable,BASS,50s
+3319,HEADPHONES,synth,80s
+3320,turntable,banjo,modern
+3321,Music Notes,Synth,60s
+3322,music notes,TRUMPET,modern
+3323,VINYL RECORD,electric guitar,60s
+3324,vinyl record,banjo,modern
+3325,Piano Keys,acoustic_guitar,70s
+3326,amplifier,TRUMPET,90s
+3327,AMPLIFIER,PIANO,70s
+3328,headphones,drums,50s
+3329,guitar,synth,70s
+3330,Guitar,synth,80s
+3331,Sheet Music,Acoustic Guitar,modern
+3332,piano keys,Banjo,modern
+3333,headphones,piano,50s
+3334,headphones,acoustic_guitar,70s
+3335,Microphone,ACOUSTIC GUITAR,70s
+3336,amplifier,violin,50s
+3337,cassette,violin,70s
+3338,amplifier,violin,70s
+3339,turntable,bass,90s
+3340,headphones,synth,90s
+3341,microphone,ELECTRIC GUITAR,90s
+3342,microphone,piano,70s
+3343,turntable,acoustic guitar,90s
+3344,turntable,BANJO,modern
+3345,Turntable,trumpet,80s
+3346,cassette,BASS,80s
+3347,microphone,piano,modern
+3348,music notes,drums,70s
+3349,music notes,violin,80s
+3350,microphone,BANJO,70s
+3351,headphones,violin,50s
+3352,Piano Keys,trumpet,50s
+3353,guitar,violin,90s
+3354,HEADPHONES,electric guitar,70s
+3355,CASSETTE,Violin,70s
+3356,piano keys,drums,50s
+3357,sheet music,trumpet,70s
+3358,vinyl record,drums,80s
+3359,vinyl record,DRUMS,50s
+3360,guitar,electric guitar,90s
+3361,vinyl_record,Saxophone,50s
+3362,piano keys,saxophone,60s
+3363,sheet music,banjo,80s
+3364,piano keys,saxophone,60s
+3365,piano keys,Acoustic Guitar,70s
+3366,Cassette,violin,90s
+3367,headphones,banjo,60s
+3368,Amplifier,trumpet,60s
+3369,PIANO KEYS,drums,50s
+3370,cassette,violin,60s
+3371,vinyl record,bass,90s
+3372,music_notes,synth,90s
+3373,music notes,banjo,modern
+3374,music notes,synth,80s
+3375,GUITAR,bass,90s
+3376,GUITAR,bass,modern
+3377,vinyl record,Electric Guitar,80s
+3378,vinyl_record,synth,80s
+3379,Turntable,piano,50s
+3380,microphone,Trumpet,70s
+3381,cassette,Drums,80s
+3382,sheet music,TRUMPET,60s
+3383,sheet music,BANJO,50s
+3384,GUITAR,violin,60s
+3385,vinyl record,SYNTH,80s
+3386,guitar,DRUMS,60s
+3387,SHEET MUSIC,saxophone,90s
+3388,guitar,trumpet,70s
+3389,music_notes,trumpet,70s
+3390,turntable,saxophone,90s
+3391,cassette,banjo,50s
+3392,guitar,PIANO,60s
+3393,vinyl record,piano,80s
+3394,headphones,Drums,50s
+3395,turntable,banjo,60s
+3396,turntable,ACOUSTIC GUITAR,60s
+3397,MUSIC NOTES,acoustic guitar,90s
+3398,guitar,saxophone,modern
+3399,microphone,violin,70s

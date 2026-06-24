@@ -1,0 +1,2401 @@
+design_id,emotion,buyer_identity,design_style,composition,color_count,text_present,source
+1000,proud,GUITARIST,retro,full bleed,2,True,generation_birth
+1001,funny,metalhead,watercolor,full bleed,5,True,generation_birth
+1002,rebellious,Producer,watercolor,centered stack,6,False,generation_birth
+1003,nostalgic,producer,retro,scattered,4,True,generation_birth
+1004,Chill,saxophonist,LINE ART,scattered,5,True,generation_birth
+1005,proud,drummer,vintage,full bleed,3,True,generation_birth
+1006,CHILL,metalhead,bold graphic,centered stack,3,True,generation_birth
+1007,REBELLIOUS,guitarist,Watercolor,centered stack,5,True,generation_birth
+1008,proud,producer,retro,centered stack,3,True,generation_birth
+1009,REBELLIOUS,Classical Musician,bold graphic,badge,3,False,generation_birth
+1010,nostalgic,country fan,bold_graphic,centered stack,1,True,generation_birth
+1011,nostalgic,producer,VINTAGE,centered stack,2,True,generation_birth
+1012,nostalgic,vinyl_collector,watercolor,centered stack,2,True,generation_birth
+1013,Chill,PRODUCER,vintage,centered stack,2,True,generation_birth
+1014,PROUD,Classical Musician,bold graphic,scattered,5,True,generation_birth
+1015,chill,producer,watercolor,centered stack,3,True,generation_birth
+1016,chill,vinyl collector,bold graphic,scattered,2,True,generation_birth
+1017,proud,metalhead,vintage,badge,3,True,generation_birth
+1018,rebellious,metalhead,watercolor,badge,5,False,generation_birth
+1019,CHILL,Classical Musician,WATERCOLOR,scattered,3,True,generation_birth
+1020,PROUD,Saxophonist,WATERCOLOR,badge,2,True,generation_birth
+1021,REBELLIOUS,vinyl_collector,distressed,badge,4,True,generation_birth
+1022,nostalgic,metalhead,line art,full bleed,4,True,generation_birth
+1023,nostalgic,classical_musician,watercolor,full bleed,2,True,generation_birth
+1024,proud,guitarist,watercolor,centered stack,5,True,generation_birth
+1025,REBELLIOUS,COUNTRY FAN,LINE ART,centered stack,2,False,generation_birth
+1026,proud,METALHEAD,VINTAGE,badge,3,False,generation_birth
+1027,nostalgic,country fan,distressed,full bleed,2,True,generation_birth
+1028,rebellious,drummer,line art,scattered,5,False,generation_birth
+1029,Rebellious,vinyl collector,distressed,badge,4,True,generation_birth
+1030,nostalgic,guitarist,watercolor,scattered,3,True,generation_birth
+1031,Nostalgic,METALHEAD,bold graphic,centered stack,6,False,generation_birth
+1032,funny,guitarist,bold_graphic,full bleed,5,False,generation_birth
+1033,CHILL,drummer,vintage,scattered,3,False,generation_birth
+1034,CHILL,saxophonist,distressed,scattered,6,False,generation_birth
+1035,rebellious,drummer,vintage,centered stack,6,False,generation_birth
+1036,chill,producer,distressed,centered stack,6,True,generation_birth
+1037,funny,METALHEAD,Bold Graphic,full bleed,2,False,generation_birth
+1038,proud,saxophonist,vintage,badge,5,False,generation_birth
+1039,proud,SAXOPHONIST,Distressed,badge,5,True,generation_birth
+1040,rebellious,CLASSICAL MUSICIAN,BOLD GRAPHIC,badge,1,True,generation_birth
+1041,REBELLIOUS,country fan,distressed,full bleed,2,True,generation_birth
+1042,chill,country fan,watercolor,centered stack,2,True,generation_birth
+1043,REBELLIOUS,producer,vintage,badge,4,True,generation_birth
+1044,Funny,guitarist,retro,centered stack,5,True,generation_birth
+1045,funny,country fan,Line Art,badge,3,False,generation_birth
+1046,chill,guitarist,Line Art,full bleed,3,True,generation_birth
+1047,proud,COUNTRY FAN,line art,scattered,4,True,generation_birth
+1048,nostalgic,GUITARIST,Distressed,scattered,3,True,generation_birth
+1049,funny,DRUMMER,retro,full bleed,3,True,generation_birth
+1050,Proud,producer,bold_graphic,full bleed,2,True,generation_birth
+1051,chill,producer,Line Art,full bleed,3,True,generation_birth
+1052,nostalgic,classical musician,DISTRESSED,badge,3,True,generation_birth
+1053,funny,metalhead,bold_graphic,full bleed,6,False,generation_birth
+1054,proud,METALHEAD,vintage,centered stack,4,True,generation_birth
+1055,nostalgic,DRUMMER,retro,centered stack,2,True,generation_birth
+1056,funny,PRODUCER,VINTAGE,badge,3,True,generation_birth
+1057,chill,producer,Watercolor,centered stack,3,False,generation_birth
+1058,PROUD,country_fan,Retro,scattered,5,True,generation_birth
+1059,proud,saxophonist,distressed,badge,5,True,generation_birth
+1060,chill,producer,BOLD GRAPHIC,badge,2,True,generation_birth
+1061,proud,GUITARIST,Line Art,centered stack,1,True,generation_birth
+1062,REBELLIOUS,metalhead,vintage,scattered,4,True,generation_birth
+1063,chill,guitarist,RETRO,badge,3,True,generation_birth
+1064,proud,producer,RETRO,scattered,4,False,generation_birth
+1065,nostalgic,saxophonist,watercolor,badge,6,False,generation_birth
+1066,nostalgic,classical musician,LINE ART,centered stack,2,True,generation_birth
+1067,PROUD,guitarist,RETRO,badge,6,True,generation_birth
+1068,chill,vinyl collector,BOLD GRAPHIC,centered stack,5,True,generation_birth
+1069,nostalgic,classical musician,bold_graphic,centered stack,4,True,generation_birth
+1070,proud,producer,vintage,badge,4,True,generation_birth
+1071,rebellious,metalhead,watercolor,badge,1,True,generation_birth
+1072,nostalgic,PRODUCER,distressed,badge,3,False,generation_birth
+1073,nostalgic,drummer,retro,scattered,6,False,generation_birth
+1074,rebellious,classical musician,vintage,badge,3,True,generation_birth
+1075,proud,drummer,watercolor,scattered,3,True,generation_birth
+1076,funny,classical musician,Distressed,full bleed,3,True,generation_birth
+1077,chill,classical_musician,LINE ART,centered stack,2,True,generation_birth
+1078,chill,drummer,bold_graphic,scattered,2,False,generation_birth
+1079,CHILL,guitarist,retro,scattered,6,True,generation_birth
+1080,chill,country fan,watercolor,badge,2,True,generation_birth
+1081,FUNNY,guitarist,Watercolor,badge,3,False,generation_birth
+1082,nostalgic,Saxophonist,watercolor,badge,3,True,generation_birth
+1083,funny,Saxophonist,Watercolor,badge,4,True,generation_birth
+1084,proud,guitarist,watercolor,badge,6,False,generation_birth
+1085,rebellious,saxophonist,VINTAGE,full bleed,2,True,generation_birth
+1086,CHILL,drummer,RETRO,centered stack,5,True,generation_birth
+1087,Rebellious,saxophonist,distressed,scattered,6,True,generation_birth
+1088,nostalgic,saxophonist,vintage,badge,5,True,generation_birth
+1089,Funny,drummer,watercolor,badge,3,True,generation_birth
+1090,REBELLIOUS,PRODUCER,bold graphic,full bleed,3,True,generation_birth
+1091,chill,Drummer,bold_graphic,badge,2,True,generation_birth
+1092,Chill,classical musician,vintage,centered stack,5,True,generation_birth
+1093,funny,metalhead,retro,scattered,3,True,generation_birth
+1094,funny,vinyl collector,Line Art,scattered,5,True,generation_birth
+1095,NOSTALGIC,saxophonist,line art,scattered,5,True,generation_birth
+1096,proud,country fan,VINTAGE,badge,2,True,generation_birth
+1097,Chill,PRODUCER,VINTAGE,scattered,2,False,generation_birth
+1098,FUNNY,vinyl collector,bold graphic,scattered,3,True,generation_birth
+1099,Proud,producer,retro,badge,4,True,generation_birth
+1100,proud,Guitarist,watercolor,centered stack,5,True,generation_birth
+1101,REBELLIOUS,producer,VINTAGE,scattered,4,True,generation_birth
+1102,rebellious,producer,bold_graphic,badge,3,True,generation_birth
+1103,proud,classical musician,watercolor,centered stack,2,True,generation_birth
+1104,rebellious,VINYL COLLECTOR,retro,scattered,6,False,generation_birth
+1105,proud,Saxophonist,Retro,full bleed,5,False,generation_birth
+1106,proud,vinyl collector,bold graphic,centered stack,6,True,generation_birth
+1107,nostalgic,metalhead,Retro,full bleed,1,True,generation_birth
+1108,chill,Vinyl Collector,vintage,centered stack,3,True,generation_birth
+1109,proud,country fan,bold graphic,centered stack,3,True,generation_birth
+1110,proud,country fan,WATERCOLOR,full bleed,3,True,generation_birth
+1111,proud,GUITARIST,line art,full bleed,4,True,generation_birth
+1112,rebellious,saxophonist,retro,full bleed,3,False,generation_birth
+1113,proud,drummer,watercolor,badge,3,False,generation_birth
+1114,chill,saxophonist,distressed,full bleed,3,True,generation_birth
+1115,Rebellious,classical musician,watercolor,badge,1,True,generation_birth
+1116,chill,saxophonist,DISTRESSED,scattered,2,True,generation_birth
+1117,nostalgic,producer,bold graphic,centered stack,3,False,generation_birth
+1118,proud,CLASSICAL MUSICIAN,watercolor,badge,4,True,generation_birth
+1119,Rebellious,Guitarist,BOLD GRAPHIC,badge,3,True,generation_birth
+1120,nostalgic,vinyl collector,bold graphic,scattered,6,True,generation_birth
+1121,rebellious,Vinyl Collector,line art,centered stack,2,True,generation_birth
+1122,CHILL,producer,watercolor,full bleed,2,True,generation_birth
+1123,nostalgic,Producer,bold_graphic,centered stack,3,True,generation_birth
+1124,PROUD,classical musician,retro,badge,2,True,generation_birth
+1125,proud,drummer,Watercolor,centered stack,3,False,generation_birth
+1126,rebellious,drummer,distressed,centered stack,6,True,generation_birth
+1127,NOSTALGIC,drummer,retro,scattered,6,True,generation_birth
+1128,proud,classical_musician,VINTAGE,full bleed,6,True,generation_birth
+1129,chill,GUITARIST,VINTAGE,full bleed,1,True,generation_birth
+1130,proud,vinyl_collector,retro,scattered,1,True,generation_birth
+1131,funny,GUITARIST,Distressed,centered stack,3,True,generation_birth
+1132,rebellious,saxophonist,retro,scattered,4,True,generation_birth
+1133,funny,guitarist,retro,full bleed,2,True,generation_birth
+1134,NOSTALGIC,guitarist,distressed,scattered,2,True,generation_birth
+1135,Funny,country fan,watercolor,centered stack,5,True,generation_birth
+1136,chill,METALHEAD,RETRO,full bleed,3,True,generation_birth
+1137,funny,vinyl collector,watercolor,badge,3,True,generation_birth
+1138,rebellious,country_fan,bold graphic,centered stack,2,False,generation_birth
+1139,REBELLIOUS,vinyl collector,retro,full bleed,4,True,generation_birth
+1140,REBELLIOUS,drummer,DISTRESSED,badge,5,True,generation_birth
+1141,FUNNY,vinyl collector,WATERCOLOR,centered stack,4,True,generation_birth
+1142,funny,guitarist,WATERCOLOR,full bleed,5,True,generation_birth
+1143,rebellious,producer,LINE ART,badge,6,False,generation_birth
+1144,Nostalgic,metalhead,retro,badge,4,True,generation_birth
+1145,FUNNY,metalhead,Bold Graphic,badge,2,True,generation_birth
+1146,Rebellious,Saxophonist,RETRO,badge,1,True,generation_birth
+1147,rebellious,vinyl collector,watercolor,full bleed,3,False,generation_birth
+1148,FUNNY,producer,line art,centered stack,4,False,generation_birth
+1149,funny,vinyl collector,watercolor,badge,4,True,generation_birth
+1150,PROUD,guitarist,watercolor,scattered,4,True,generation_birth
+1151,proud,Country Fan,line art,full bleed,2,False,generation_birth
+1152,proud,drummer,DISTRESSED,scattered,5,False,generation_birth
+1153,proud,DRUMMER,distressed,centered stack,1,True,generation_birth
+1154,CHILL,Classical Musician,Bold Graphic,centered stack,5,True,generation_birth
+1155,nostalgic,drummer,VINTAGE,centered stack,3,True,generation_birth
+1156,NOSTALGIC,saxophonist,retro,badge,4,True,generation_birth
+1157,Nostalgic,Classical Musician,vintage,badge,3,False,generation_birth
+1158,nostalgic,vinyl_collector,line_art,centered stack,3,False,generation_birth
+1159,Chill,producer,Line Art,badge,3,True,generation_birth
+1160,nostalgic,GUITARIST,watercolor,scattered,2,False,generation_birth
+1161,REBELLIOUS,METALHEAD,Vintage,centered stack,3,False,generation_birth
+1162,proud,country fan,distressed,scattered,5,True,generation_birth
+1163,CHILL,VINYL COLLECTOR,bold_graphic,full bleed,5,True,generation_birth
+1164,chill,vinyl collector,Line Art,centered stack,3,False,generation_birth
+1165,rebellious,saxophonist,LINE ART,centered stack,2,True,generation_birth
+1166,proud,country fan,Distressed,badge,4,True,generation_birth
+1167,nostalgic,CLASSICAL MUSICIAN,vintage,scattered,3,True,generation_birth
+1168,rebellious,guitarist,LINE ART,badge,3,True,generation_birth
+1169,nostalgic,country fan,retro,centered stack,3,True,generation_birth
+1170,funny,producer,vintage,centered stack,5,True,generation_birth
+1171,rebellious,guitarist,watercolor,scattered,3,True,generation_birth
+1172,rebellious,Metalhead,Retro,badge,3,True,generation_birth
+1173,REBELLIOUS,saxophonist,Line Art,full bleed,2,True,generation_birth
+1174,proud,classical musician,line art,badge,3,True,generation_birth
+1175,Rebellious,classical musician,vintage,badge,5,True,generation_birth
+1176,Funny,DRUMMER,RETRO,full bleed,2,True,generation_birth
+1177,funny,classical_musician,distressed,centered stack,5,True,generation_birth
+1178,rebellious,country fan,RETRO,centered stack,2,False,generation_birth
+1179,funny,Producer,Retro,badge,6,True,generation_birth
+1180,PROUD,guitarist,retro,scattered,1,True,generation_birth
+1181,funny,metalhead,Watercolor,badge,3,True,generation_birth
+1182,chill,producer,Line Art,scattered,3,True,generation_birth
+1183,rebellious,vinyl collector,watercolor,centered stack,4,True,generation_birth
+1184,rebellious,guitarist,vintage,full bleed,1,True,generation_birth
+1185,nostalgic,Saxophonist,Distressed,badge,3,True,generation_birth
+1186,rebellious,DRUMMER,vintage,scattered,4,True,generation_birth
+1187,FUNNY,saxophonist,bold graphic,centered stack,3,False,generation_birth
+1188,chill,Guitarist,distressed,badge,2,True,generation_birth
+1189,funny,metalhead,line art,centered stack,6,True,generation_birth
+1190,rebellious,producer,BOLD GRAPHIC,scattered,4,True,generation_birth
+1191,nostalgic,country fan,Watercolor,badge,5,True,generation_birth
+1192,chill,guitarist,bold graphic,full bleed,3,True,generation_birth
+1193,rebellious,metalhead,retro,centered stack,2,True,generation_birth
+1194,FUNNY,drummer,distressed,scattered,2,False,generation_birth
+1195,rebellious,guitarist,Line Art,badge,6,True,generation_birth
+1196,funny,Saxophonist,Distressed,scattered,4,True,generation_birth
+1197,nostalgic,Drummer,distressed,centered stack,3,True,generation_birth
+1198,funny,metalhead,line art,full bleed,5,True,generation_birth
+1199,Proud,saxophonist,Watercolor,badge,2,True,generation_birth
+1200,rebellious,METALHEAD,WATERCOLOR,full bleed,2,True,generation_birth
+1201,rebellious,producer,Retro,badge,6,False,generation_birth
+1202,nostalgic,saxophonist,bold graphic,full bleed,3,True,generation_birth
+1203,proud,PRODUCER,retro,scattered,3,True,generation_birth
+1204,Chill,vinyl collector,BOLD GRAPHIC,full bleed,2,False,generation_birth
+1205,funny,saxophonist,VINTAGE,centered stack,1,False,generation_birth
+1206,nostalgic,drummer,WATERCOLOR,scattered,4,True,generation_birth
+1207,NOSTALGIC,country fan,bold graphic,scattered,3,True,generation_birth
+1208,rebellious,metalhead,bold_graphic,scattered,1,False,generation_birth
+1209,Chill,drummer,vintage,scattered,6,True,generation_birth
+1210,funny,drummer,vintage,scattered,3,True,generation_birth
+1211,nostalgic,classical musician,bold graphic,scattered,4,False,generation_birth
+1212,NOSTALGIC,drummer,RETRO,badge,2,True,generation_birth
+1213,proud,classical musician,watercolor,badge,4,False,generation_birth
+1214,NOSTALGIC,vinyl collector,bold graphic,badge,3,True,generation_birth
+1215,nostalgic,saxophonist,distressed,badge,5,True,generation_birth
+1216,Chill,metalhead,bold_graphic,full bleed,3,True,generation_birth
+1217,nostalgic,metalhead,retro,centered stack,1,True,generation_birth
+1218,rebellious,vinyl collector,line art,badge,2,True,generation_birth
+1219,proud,DRUMMER,bold graphic,centered stack,4,False,generation_birth
+1220,nostalgic,DRUMMER,bold graphic,full bleed,2,True,generation_birth
+1221,proud,country fan,watercolor,scattered,3,False,generation_birth
+1222,nostalgic,Saxophonist,vintage,full bleed,3,False,generation_birth
+1223,Nostalgic,DRUMMER,bold graphic,scattered,3,True,generation_birth
+1224,rebellious,country fan,retro,scattered,4,False,generation_birth
+1225,proud,guitarist,BOLD GRAPHIC,scattered,4,False,generation_birth
+1226,funny,guitarist,vintage,full bleed,3,True,generation_birth
+1227,nostalgic,vinyl collector,retro,full bleed,3,True,generation_birth
+1228,nostalgic,Metalhead,Bold Graphic,scattered,6,True,generation_birth
+1229,chill,country fan,WATERCOLOR,scattered,3,True,generation_birth
+1230,Funny,metalhead,Retro,centered stack,1,True,generation_birth
+1231,funny,Metalhead,BOLD GRAPHIC,badge,2,True,generation_birth
+1232,proud,vinyl collector,vintage,full bleed,4,True,generation_birth
+1233,chill,drummer,DISTRESSED,full bleed,5,True,generation_birth
+1234,proud,COUNTRY FAN,bold graphic,centered stack,3,True,generation_birth
+1235,nostalgic,drummer,bold graphic,full bleed,2,True,generation_birth
+1236,nostalgic,saxophonist,Vintage,badge,5,True,generation_birth
+1237,funny,saxophonist,BOLD GRAPHIC,scattered,5,True,generation_birth
+1238,Nostalgic,saxophonist,vintage,badge,4,True,generation_birth
+1239,proud,Saxophonist,WATERCOLOR,scattered,6,True,generation_birth
+1240,chill,country fan,retro,centered stack,5,False,generation_birth
+1241,nostalgic,drummer,distressed,scattered,5,True,generation_birth
+1242,rebellious,saxophonist,Line Art,scattered,3,True,generation_birth
+1243,Nostalgic,Drummer,line art,full bleed,2,True,generation_birth
+1244,proud,producer,Line Art,centered stack,6,True,generation_birth
+1245,chill,country fan,line art,badge,4,True,generation_birth
+1246,chill,Saxophonist,bold graphic,full bleed,4,True,generation_birth
+1247,nostalgic,SAXOPHONIST,watercolor,badge,2,True,generation_birth
+1248,funny,drummer,distressed,badge,6,False,generation_birth
+1249,nostalgic,guitarist,WATERCOLOR,centered stack,3,True,generation_birth
+1250,chill,guitarist,LINE ART,centered stack,3,True,generation_birth
+1251,FUNNY,country fan,retro,centered stack,2,False,generation_birth
+1252,rebellious,producer,Line Art,badge,3,True,generation_birth
+1253,nostalgic,country fan,vintage,centered stack,2,True,generation_birth
+1254,Chill,country fan,DISTRESSED,full bleed,5,False,generation_birth
+1255,Chill,Classical Musician,watercolor,badge,2,True,generation_birth
+1256,proud,vinyl collector,RETRO,scattered,4,True,generation_birth
+1257,CHILL,drummer,bold graphic,full bleed,5,True,generation_birth
+1258,proud,drummer,watercolor,full bleed,4,True,generation_birth
+1259,NOSTALGIC,drummer,watercolor,badge,2,False,generation_birth
+1260,rebellious,Guitarist,Distressed,centered stack,4,True,generation_birth
+1261,Proud,Vinyl Collector,retro,scattered,2,False,generation_birth
+1262,chill,METALHEAD,VINTAGE,scattered,1,True,generation_birth
+1263,nostalgic,COUNTRY FAN,vintage,badge,3,True,generation_birth
+1264,FUNNY,drummer,bold graphic,badge,3,False,generation_birth
+1265,REBELLIOUS,vinyl collector,bold graphic,centered stack,3,True,generation_birth
+1266,rebellious,vinyl collector,BOLD GRAPHIC,badge,5,True,generation_birth
+1267,nostalgic,classical musician,LINE ART,centered stack,3,True,generation_birth
+1268,proud,producer,Retro,scattered,3,True,generation_birth
+1269,CHILL,producer,retro,scattered,2,True,generation_birth
+1270,funny,country fan,bold_graphic,scattered,1,True,generation_birth
+1271,Rebellious,Classical Musician,bold_graphic,full bleed,6,True,generation_birth
+1272,funny,Guitarist,line_art,scattered,6,True,generation_birth
+1273,nostalgic,Guitarist,retro,full bleed,3,True,generation_birth
+1274,funny,DRUMMER,line art,badge,3,True,generation_birth
+1275,rebellious,guitarist,distressed,centered stack,3,True,generation_birth
+1276,nostalgic,guitarist,Distressed,badge,2,True,generation_birth
+1277,Nostalgic,VINYL COLLECTOR,bold graphic,centered stack,3,True,generation_birth
+1278,proud,Producer,RETRO,full bleed,6,True,generation_birth
+1279,proud,GUITARIST,BOLD GRAPHIC,full bleed,6,True,generation_birth
+1280,chill,drummer,Retro,full bleed,5,False,generation_birth
+1281,Chill,vinyl_collector,watercolor,full bleed,3,True,generation_birth
+1282,chill,country fan,retro,scattered,4,False,generation_birth
+1283,funny,producer,distressed,badge,2,True,generation_birth
+1284,rebellious,Classical Musician,bold graphic,centered stack,4,True,generation_birth
+1285,rebellious,DRUMMER,BOLD GRAPHIC,scattered,4,True,generation_birth
+1286,PROUD,classical_musician,bold graphic,centered stack,5,True,generation_birth
+1287,funny,Saxophonist,retro,badge,4,False,generation_birth
+1288,funny,DRUMMER,Retro,centered stack,3,False,generation_birth
+1289,proud,metalhead,retro,badge,4,True,generation_birth
+1290,NOSTALGIC,drummer,bold_graphic,badge,2,True,generation_birth
+1291,funny,saxophonist,vintage,scattered,4,True,generation_birth
+1292,rebellious,guitarist,watercolor,centered stack,6,True,generation_birth
+1293,nostalgic,guitarist,retro,full bleed,4,False,generation_birth
+1294,funny,Guitarist,vintage,centered stack,3,True,generation_birth
+1295,proud,drummer,vintage,badge,4,False,generation_birth
+1296,chill,Producer,WATERCOLOR,badge,3,False,generation_birth
+1297,funny,country fan,line art,centered stack,6,True,generation_birth
+1298,NOSTALGIC,vinyl collector,WATERCOLOR,scattered,1,False,generation_birth
+1299,rebellious,Classical Musician,distressed,scattered,2,True,generation_birth
+1300,NOSTALGIC,SAXOPHONIST,bold graphic,full bleed,4,True,generation_birth
+1301,Rebellious,vinyl collector,bold graphic,scattered,2,False,generation_birth
+1302,chill,Saxophonist,Vintage,scattered,6,True,generation_birth
+1303,proud,drummer,retro,scattered,5,True,generation_birth
+1304,proud,Saxophonist,Watercolor,scattered,2,True,generation_birth
+1305,funny,classical musician,vintage,badge,2,True,generation_birth
+1306,Chill,Saxophonist,retro,full bleed,3,False,generation_birth
+1307,proud,metalhead,Line Art,badge,1,True,generation_birth
+1308,rebellious,GUITARIST,retro,badge,4,False,generation_birth
+1309,funny,Guitarist,retro,full bleed,1,False,generation_birth
+1310,Nostalgic,producer,Retro,centered stack,4,True,generation_birth
+1311,chill,country fan,bold graphic,badge,5,False,generation_birth
+1312,nostalgic,VINYL COLLECTOR,retro,scattered,4,False,generation_birth
+1313,rebellious,Drummer,Line Art,centered stack,3,True,generation_birth
+1314,proud,vinyl_collector,Distressed,badge,4,True,generation_birth
+1315,proud,METALHEAD,retro,full bleed,6,False,generation_birth
+1316,Funny,vinyl collector,retro,full bleed,2,True,generation_birth
+1317,nostalgic,classical musician,line_art,badge,3,True,generation_birth
+1318,proud,producer,retro,scattered,4,True,generation_birth
+1319,rebellious,classical musician,distressed,badge,5,True,generation_birth
+1320,Rebellious,country fan,retro,scattered,1,True,generation_birth
+1321,PROUD,VINYL COLLECTOR,watercolor,scattered,6,True,generation_birth
+1322,Nostalgic,country fan,retro,badge,4,True,generation_birth
+1323,Proud,vinyl collector,line art,scattered,3,True,generation_birth
+1324,chill,saxophonist,vintage,centered stack,3,False,generation_birth
+1325,proud,Drummer,watercolor,centered stack,5,False,generation_birth
+1326,Nostalgic,SAXOPHONIST,watercolor,scattered,2,False,generation_birth
+1327,rebellious,PRODUCER,BOLD GRAPHIC,centered stack,3,False,generation_birth
+1328,funny,Guitarist,vintage,full bleed,2,True,generation_birth
+1329,funny,producer,RETRO,scattered,4,True,generation_birth
+1330,funny,SAXOPHONIST,vintage,badge,6,True,generation_birth
+1331,chill,Metalhead,retro,centered stack,6,False,generation_birth
+1332,proud,producer,watercolor,full bleed,2,True,generation_birth
+1333,CHILL,drummer,vintage,scattered,3,True,generation_birth
+1334,rebellious,Drummer,retro,badge,3,True,generation_birth
+1335,funny,guitarist,RETRO,centered stack,3,True,generation_birth
+1336,proud,classical musician,line art,full bleed,3,True,generation_birth
+1337,proud,country_fan,line art,badge,4,True,generation_birth
+1338,NOSTALGIC,vinyl collector,line art,badge,3,False,generation_birth
+1339,funny,vinyl collector,distressed,centered stack,5,False,generation_birth
+1340,chill,producer,vintage,badge,4,False,generation_birth
+1341,Proud,producer,line art,scattered,2,False,generation_birth
+1342,NOSTALGIC,vinyl collector,retro,badge,5,True,generation_birth
+1343,CHILL,drummer,distressed,centered stack,6,False,generation_birth
+1344,rebellious,producer,distressed,centered stack,2,False,generation_birth
+1345,Proud,Saxophonist,distressed,badge,6,True,generation_birth
+1346,nostalgic,Country Fan,watercolor,badge,3,False,generation_birth
+1347,proud,classical musician,line art,centered stack,2,True,generation_birth
+1348,funny,saxophonist,DISTRESSED,badge,2,True,generation_birth
+1349,nostalgic,classical musician,Bold Graphic,scattered,4,True,generation_birth
+1350,chill,vinyl collector,vintage,centered stack,2,True,generation_birth
+1351,Rebellious,producer,retro,full bleed,4,True,generation_birth
+1352,CHILL,guitarist,LINE ART,full bleed,5,True,generation_birth
+1353,nostalgic,metalhead,watercolor,scattered,5,True,generation_birth
+1354,Proud,guitarist,VINTAGE,scattered,3,True,generation_birth
+1355,proud,vinyl collector,BOLD GRAPHIC,scattered,3,False,generation_birth
+1356,chill,CLASSICAL MUSICIAN,distressed,centered stack,6,True,generation_birth
+1357,proud,drummer,line art,badge,3,True,generation_birth
+1358,FUNNY,saxophonist,Line Art,centered stack,3,True,generation_birth
+1359,REBELLIOUS,classical_musician,distressed,centered stack,2,True,generation_birth
+1360,chill,drummer,BOLD GRAPHIC,badge,2,False,generation_birth
+1361,rebellious,PRODUCER,Retro,full bleed,3,True,generation_birth
+1362,NOSTALGIC,saxophonist,watercolor,centered stack,4,True,generation_birth
+1363,rebellious,classical musician,retro,full bleed,3,False,generation_birth
+1364,chill,classical_musician,distressed,full bleed,4,True,generation_birth
+1365,PROUD,producer,watercolor,badge,2,True,generation_birth
+1366,funny,producer,BOLD GRAPHIC,scattered,3,True,generation_birth
+1367,rebellious,GUITARIST,retro,badge,2,True,generation_birth
+1368,Nostalgic,metalhead,line art,full bleed,3,True,generation_birth
+1369,proud,drummer,retro,badge,4,True,generation_birth
+1370,funny,saxophonist,line_art,centered stack,3,True,generation_birth
+1371,NOSTALGIC,saxophonist,line art,centered stack,5,True,generation_birth
+1372,rebellious,country_fan,watercolor,scattered,1,True,generation_birth
+1373,PROUD,saxophonist,distressed,full bleed,3,False,generation_birth
+1374,FUNNY,vinyl collector,Retro,full bleed,5,False,generation_birth
+1375,Rebellious,guitarist,distressed,full bleed,6,True,generation_birth
+1376,chill,vinyl collector,distressed,full bleed,3,True,generation_birth
+1377,Nostalgic,metalhead,vintage,full bleed,3,True,generation_birth
+1378,PROUD,saxophonist,WATERCOLOR,full bleed,2,True,generation_birth
+1379,rebellious,COUNTRY FAN,Watercolor,centered stack,4,True,generation_birth
+1380,NOSTALGIC,guitarist,retro,badge,6,True,generation_birth
+1381,funny,GUITARIST,retro,full bleed,2,False,generation_birth
+1382,REBELLIOUS,METALHEAD,distressed,badge,6,True,generation_birth
+1383,Chill,METALHEAD,retro,full bleed,2,True,generation_birth
+1384,PROUD,classical musician,watercolor,scattered,1,True,generation_birth
+1385,Chill,PRODUCER,distressed,scattered,6,False,generation_birth
+1386,chill,drummer,bold graphic,full bleed,3,True,generation_birth
+1387,nostalgic,metalhead,bold graphic,scattered,4,True,generation_birth
+1388,REBELLIOUS,COUNTRY FAN,distressed,badge,2,True,generation_birth
+1389,NOSTALGIC,producer,retro,full bleed,3,False,generation_birth
+1390,funny,classical musician,line art,centered stack,5,True,generation_birth
+1391,rebellious,classical musician,watercolor,centered stack,2,True,generation_birth
+1392,PROUD,CLASSICAL MUSICIAN,watercolor,scattered,3,True,generation_birth
+1393,funny,vinyl collector,LINE ART,centered stack,3,False,generation_birth
+1394,funny,saxophonist,distressed,scattered,4,True,generation_birth
+1395,funny,COUNTRY FAN,BOLD GRAPHIC,centered stack,3,False,generation_birth
+1396,nostalgic,drummer,retro,scattered,5,False,generation_birth
+1397,Proud,metalhead,vintage,scattered,4,True,generation_birth
+1398,nostalgic,Drummer,watercolor,centered stack,3,False,generation_birth
+1399,proud,drummer,DISTRESSED,full bleed,4,True,generation_birth
+1400,funny,saxophonist,retro,full bleed,4,True,generation_birth
+1401,funny,classical musician,LINE ART,full bleed,4,False,generation_birth
+1402,chill,country_fan,distressed,badge,6,False,generation_birth
+1403,CHILL,classical musician,WATERCOLOR,scattered,1,True,generation_birth
+1404,nostalgic,vinyl collector,distressed,centered stack,5,True,generation_birth
+1405,CHILL,guitarist,BOLD GRAPHIC,full bleed,4,True,generation_birth
+1406,proud,PRODUCER,Bold Graphic,full bleed,5,False,generation_birth
+1407,Proud,vinyl collector,LINE ART,scattered,6,True,generation_birth
+1408,funny,Country Fan,line art,full bleed,4,True,generation_birth
+1409,rebellious,Drummer,distressed,centered stack,3,False,generation_birth
+1410,funny,vinyl_collector,vintage,centered stack,4,True,generation_birth
+1411,PROUD,PRODUCER,line art,badge,3,False,generation_birth
+1412,rebellious,country fan,vintage,badge,4,False,generation_birth
+1413,rebellious,Saxophonist,Bold Graphic,badge,6,True,generation_birth
+1414,nostalgic,classical musician,BOLD GRAPHIC,full bleed,2,True,generation_birth
+1415,funny,drummer,watercolor,centered stack,4,False,generation_birth
+1416,nostalgic,saxophonist,retro,badge,6,True,generation_birth
+1417,rebellious,metalhead,vintage,scattered,3,True,generation_birth
+1418,Rebellious,Drummer,WATERCOLOR,scattered,3,True,generation_birth
+1419,rebellious,vinyl collector,retro,full bleed,2,False,generation_birth
+1420,rebellious,saxophonist,BOLD GRAPHIC,badge,6,False,generation_birth
+1421,nostalgic,vinyl collector,bold graphic,badge,4,False,generation_birth
+1422,proud,drummer,watercolor,centered stack,4,True,generation_birth
+1423,funny,guitarist,bold graphic,full bleed,4,True,generation_birth
+1424,Proud,producer,retro,scattered,3,True,generation_birth
+1425,REBELLIOUS,producer,line art,scattered,5,False,generation_birth
+1426,proud,producer,watercolor,full bleed,5,True,generation_birth
+1427,PROUD,SAXOPHONIST,retro,centered stack,4,False,generation_birth
+1428,REBELLIOUS,CLASSICAL MUSICIAN,BOLD GRAPHIC,badge,6,False,generation_birth
+1429,chill,producer,retro,scattered,6,False,generation_birth
+1430,PROUD,country fan,watercolor,full bleed,6,True,generation_birth
+1431,proud,Classical Musician,Vintage,badge,3,True,generation_birth
+1432,proud,saxophonist,line_art,badge,3,False,generation_birth
+1433,funny,Producer,watercolor,badge,3,True,generation_birth
+1434,NOSTALGIC,METALHEAD,vintage,badge,5,False,generation_birth
+1435,proud,guitarist,distressed,scattered,4,True,generation_birth
+1436,nostalgic,Country Fan,retro,centered stack,3,True,generation_birth
+1437,CHILL,classical_musician,bold graphic,badge,2,False,generation_birth
+1438,proud,producer,line_art,badge,2,True,generation_birth
+1439,chill,country fan,LINE ART,full bleed,5,True,generation_birth
+1440,rebellious,guitarist,WATERCOLOR,centered stack,6,True,generation_birth
+1441,funny,vinyl collector,distressed,full bleed,6,True,generation_birth
+1442,REBELLIOUS,Saxophonist,Vintage,scattered,2,False,generation_birth
+1443,nostalgic,Classical Musician,vintage,full bleed,1,False,generation_birth
+1444,rebellious,classical musician,line art,full bleed,5,False,generation_birth
+1445,rebellious,PRODUCER,watercolor,centered stack,3,True,generation_birth
+1446,PROUD,Country Fan,Bold Graphic,centered stack,2,True,generation_birth
+1447,proud,country fan,retro,scattered,3,False,generation_birth
+1448,proud,saxophonist,Line Art,full bleed,4,True,generation_birth
+1449,Rebellious,metalhead,line art,centered stack,1,True,generation_birth
+1450,proud,metalhead,distressed,badge,2,True,generation_birth
+1451,REBELLIOUS,drummer,watercolor,centered stack,6,True,generation_birth
+1452,chill,vinyl collector,distressed,badge,3,False,generation_birth
+1453,nostalgic,Classical Musician,line art,full bleed,3,False,generation_birth
+1454,chill,guitarist,vintage,centered stack,5,True,generation_birth
+1455,chill,guitarist,Watercolor,centered stack,1,False,generation_birth
+1456,chill,guitarist,vintage,full bleed,6,True,generation_birth
+1457,nostalgic,classical musician,watercolor,centered stack,5,False,generation_birth
+1458,rebellious,saxophonist,bold_graphic,full bleed,3,False,generation_birth
+1459,chill,drummer,RETRO,full bleed,6,True,generation_birth
+1460,rebellious,country fan,RETRO,badge,3,False,generation_birth
+1461,PROUD,SAXOPHONIST,retro,full bleed,4,True,generation_birth
+1462,funny,producer,Watercolor,centered stack,5,True,generation_birth
+1463,PROUD,country_fan,bold graphic,scattered,4,True,generation_birth
+1464,nostalgic,saxophonist,retro,full bleed,2,True,generation_birth
+1465,proud,saxophonist,vintage,centered stack,2,True,generation_birth
+1466,proud,COUNTRY FAN,line art,centered stack,5,True,generation_birth
+1467,chill,producer,vintage,centered stack,3,True,generation_birth
+1468,funny,metalhead,VINTAGE,full bleed,4,True,generation_birth
+1469,funny,country fan,DISTRESSED,scattered,2,True,generation_birth
+1470,funny,vinyl collector,retro,full bleed,2,True,generation_birth
+1471,rebellious,vinyl collector,Watercolor,badge,1,False,generation_birth
+1472,proud,metalhead,retro,centered stack,3,True,generation_birth
+1473,CHILL,producer,DISTRESSED,scattered,1,True,generation_birth
+1474,FUNNY,Vinyl Collector,Vintage,centered stack,5,True,generation_birth
+1475,rebellious,classical musician,bold graphic,scattered,4,True,generation_birth
+1476,NOSTALGIC,country fan,bold graphic,badge,6,False,generation_birth
+1477,rebellious,drummer,bold graphic,full bleed,4,True,generation_birth
+1478,funny,producer,watercolor,full bleed,5,True,generation_birth
+1479,rebellious,saxophonist,Bold Graphic,scattered,3,True,generation_birth
+1480,chill,country fan,bold graphic,full bleed,6,True,generation_birth
+1481,proud,SAXOPHONIST,line art,centered stack,5,True,generation_birth
+1482,FUNNY,drummer,Bold Graphic,badge,5,True,generation_birth
+1483,nostalgic,producer,line art,scattered,3,False,generation_birth
+1484,chill,saxophonist,watercolor,full bleed,5,True,generation_birth
+1485,rebellious,METALHEAD,vintage,scattered,2,False,generation_birth
+1486,Funny,guitarist,retro,full bleed,3,True,generation_birth
+1487,Funny,metalhead,DISTRESSED,scattered,4,True,generation_birth
+1488,nostalgic,country_fan,RETRO,scattered,6,True,generation_birth
+1489,proud,vinyl collector,bold graphic,scattered,3,True,generation_birth
+1490,nostalgic,guitarist,bold graphic,full bleed,1,True,generation_birth
+1491,chill,country fan,LINE ART,full bleed,5,False,generation_birth
+1492,Rebellious,saxophonist,Retro,full bleed,3,False,generation_birth
+1493,NOSTALGIC,classical musician,watercolor,full bleed,5,True,generation_birth
+1494,chill,country fan,retro,badge,3,True,generation_birth
+1495,rebellious,guitarist,vintage,centered stack,3,True,generation_birth
+1496,rebellious,metalhead,retro,badge,5,False,generation_birth
+1497,nostalgic,country fan,bold graphic,badge,3,True,generation_birth
+1498,Funny,drummer,Retro,centered stack,4,True,generation_birth
+1499,funny,guitarist,BOLD GRAPHIC,badge,2,True,generation_birth
+1500,proud,classical musician,line art,badge,3,True,generation_birth
+1501,Proud,vinyl collector,vintage,centered stack,2,True,generation_birth
+1502,funny,Classical Musician,RETRO,scattered,3,True,generation_birth
+1503,chill,saxophonist,Line Art,scattered,3,False,generation_birth
+1504,nostalgic,vinyl collector,Retro,centered stack,2,False,generation_birth
+1505,Chill,vinyl collector,WATERCOLOR,badge,3,True,generation_birth
+1506,nostalgic,drummer,watercolor,badge,3,True,generation_birth
+1507,PROUD,metalhead,distressed,scattered,3,True,generation_birth
+1508,funny,saxophonist,WATERCOLOR,full bleed,2,True,generation_birth
+1509,proud,saxophonist,vintage,centered stack,2,False,generation_birth
+1510,funny,vinyl collector,retro,full bleed,6,True,generation_birth
+1511,nostalgic,saxophonist,retro,centered stack,2,False,generation_birth
+1512,rebellious,metalhead,watercolor,scattered,5,False,generation_birth
+1513,chill,vinyl collector,Watercolor,scattered,3,True,generation_birth
+1514,nostalgic,GUITARIST,retro,badge,5,True,generation_birth
+1515,rebellious,SAXOPHONIST,RETRO,scattered,3,True,generation_birth
+1516,chill,vinyl collector,retro,badge,4,True,generation_birth
+1517,proud,drummer,retro,badge,4,True,generation_birth
+1518,PROUD,classical musician,vintage,full bleed,5,False,generation_birth
+1519,Rebellious,guitarist,distressed,badge,6,True,generation_birth
+1520,CHILL,drummer,bold graphic,full bleed,3,False,generation_birth
+1521,nostalgic,metalhead,WATERCOLOR,centered stack,4,True,generation_birth
+1522,rebellious,classical musician,Vintage,centered stack,4,True,generation_birth
+1523,chill,guitarist,Line Art,scattered,2,True,generation_birth
+1524,REBELLIOUS,DRUMMER,LINE ART,badge,4,True,generation_birth
+1525,proud,COUNTRY FAN,watercolor,centered stack,5,True,generation_birth
+1526,FUNNY,metalhead,line art,badge,5,False,generation_birth
+1527,funny,guitarist,LINE ART,centered stack,3,True,generation_birth
+1528,chill,drummer,Distressed,badge,3,True,generation_birth
+1529,nostalgic,saxophonist,watercolor,scattered,1,True,generation_birth
+1530,NOSTALGIC,country_fan,retro,full bleed,1,True,generation_birth
+1531,chill,producer,Distressed,full bleed,5,False,generation_birth
+1532,FUNNY,producer,watercolor,badge,2,True,generation_birth
+1533,proud,SAXOPHONIST,line art,badge,3,False,generation_birth
+1534,nostalgic,saxophonist,Vintage,full bleed,5,True,generation_birth
+1535,rebellious,producer,distressed,scattered,3,True,generation_birth
+1536,CHILL,Country Fan,vintage,badge,2,True,generation_birth
+1537,funny,producer,distressed,full bleed,3,True,generation_birth
+1538,NOSTALGIC,METALHEAD,bold_graphic,scattered,1,True,generation_birth
+1539,chill,country fan,bold graphic,badge,2,True,generation_birth
+1540,funny,saxophonist,line art,scattered,4,True,generation_birth
+1541,funny,drummer,vintage,centered stack,4,True,generation_birth
+1542,Proud,saxophonist,Distressed,scattered,2,True,generation_birth
+1543,PROUD,vinyl collector,BOLD GRAPHIC,full bleed,6,False,generation_birth
+1544,chill,guitarist,bold graphic,centered stack,6,True,generation_birth
+1545,funny,saxophonist,vintage,full bleed,2,False,generation_birth
+1546,chill,classical musician,vintage,badge,2,False,generation_birth
+1547,FUNNY,saxophonist,Bold Graphic,centered stack,3,True,generation_birth
+1548,nostalgic,Saxophonist,retro,badge,3,True,generation_birth
+1549,NOSTALGIC,country fan,distressed,full bleed,1,True,generation_birth
+1550,funny,guitarist,bold graphic,badge,2,True,generation_birth
+1551,Proud,classical musician,VINTAGE,scattered,6,True,generation_birth
+1552,nostalgic,drummer,LINE ART,badge,2,True,generation_birth
+1553,FUNNY,metalhead,vintage,badge,1,True,generation_birth
+1554,CHILL,vinyl_collector,Vintage,scattered,6,False,generation_birth
+1555,chill,producer,retro,centered stack,2,True,generation_birth
+1556,nostalgic,country fan,bold graphic,full bleed,4,True,generation_birth
+1557,CHILL,vinyl collector,watercolor,scattered,3,False,generation_birth
+1558,proud,PRODUCER,line art,full bleed,2,False,generation_birth
+1559,proud,GUITARIST,bold graphic,centered stack,3,False,generation_birth
+1560,proud,classical_musician,bold_graphic,centered stack,4,True,generation_birth
+1561,rebellious,VINYL COLLECTOR,watercolor,scattered,3,True,generation_birth
+1562,nostalgic,Producer,Retro,scattered,3,True,generation_birth
+1563,chill,VINYL COLLECTOR,bold_graphic,scattered,4,True,generation_birth
+1564,Nostalgic,Guitarist,Bold Graphic,scattered,3,True,generation_birth
+1565,CHILL,metalhead,Line Art,centered stack,1,True,generation_birth
+1566,funny,drummer,WATERCOLOR,full bleed,1,True,generation_birth
+1567,funny,COUNTRY FAN,watercolor,badge,6,True,generation_birth
+1568,Proud,country fan,DISTRESSED,badge,5,False,generation_birth
+1569,Nostalgic,Drummer,bold graphic,full bleed,4,True,generation_birth
+1570,Funny,Guitarist,retro,badge,4,False,generation_birth
+1571,FUNNY,COUNTRY FAN,distressed,full bleed,4,True,generation_birth
+1572,nostalgic,saxophonist,watercolor,badge,3,True,generation_birth
+1573,proud,classical musician,retro,badge,2,True,generation_birth
+1574,funny,producer,watercolor,centered stack,5,False,generation_birth
+1575,chill,drummer,RETRO,badge,4,True,generation_birth
+1576,rebellious,Country Fan,DISTRESSED,centered stack,2,True,generation_birth
+1577,nostalgic,METALHEAD,vintage,centered stack,6,True,generation_birth
+1578,proud,Vinyl Collector,vintage,centered stack,3,True,generation_birth
+1579,CHILL,Classical Musician,retro,full bleed,6,False,generation_birth
+1580,FUNNY,Classical Musician,retro,scattered,6,True,generation_birth
+1581,Proud,Guitarist,vintage,centered stack,6,True,generation_birth
+1582,chill,saxophonist,vintage,scattered,6,True,generation_birth
+1583,chill,classical musician,bold graphic,scattered,2,True,generation_birth
+1584,Funny,classical musician,Vintage,full bleed,2,True,generation_birth
+1585,proud,classical musician,bold graphic,full bleed,2,True,generation_birth
+1586,Rebellious,guitarist,LINE ART,scattered,6,True,generation_birth
+1587,rebellious,metalhead,watercolor,full bleed,5,False,generation_birth
+1588,rebellious,Country Fan,vintage,centered stack,3,True,generation_birth
+1589,rebellious,guitarist,watercolor,badge,1,True,generation_birth
+1590,CHILL,COUNTRY FAN,distressed,full bleed,3,True,generation_birth
+1591,NOSTALGIC,metalhead,line art,centered stack,3,False,generation_birth
+1592,proud,Metalhead,watercolor,full bleed,4,True,generation_birth
+1593,funny,Vinyl Collector,retro,full bleed,4,True,generation_birth
+1594,nostalgic,country fan,Distressed,centered stack,2,True,generation_birth
+1595,nostalgic,Producer,line art,full bleed,6,True,generation_birth
+1596,proud,metalhead,VINTAGE,badge,3,False,generation_birth
+1597,nostalgic,drummer,watercolor,scattered,5,True,generation_birth
+1598,funny,producer,retro,full bleed,3,False,generation_birth
+1599,FUNNY,vinyl_collector,bold graphic,scattered,5,True,generation_birth
+1600,proud,DRUMMER,distressed,centered stack,2,True,generation_birth
+1601,chill,guitarist,Bold Graphic,full bleed,2,False,generation_birth
+1602,FUNNY,vinyl collector,distressed,scattered,4,True,generation_birth
+1603,PROUD,drummer,watercolor,centered stack,3,False,generation_birth
+1604,rebellious,guitarist,LINE ART,badge,6,True,generation_birth
+1605,REBELLIOUS,Country Fan,retro,scattered,6,True,generation_birth
+1606,funny,producer,retro,full bleed,2,True,generation_birth
+1607,rebellious,vinyl collector,Line Art,centered stack,1,True,generation_birth
+1608,FUNNY,drummer,VINTAGE,scattered,3,False,generation_birth
+1609,proud,vinyl collector,distressed,scattered,2,True,generation_birth
+1610,nostalgic,producer,watercolor,badge,3,True,generation_birth
+1611,nostalgic,drummer,bold graphic,full bleed,5,True,generation_birth
+1612,nostalgic,guitarist,retro,centered stack,6,True,generation_birth
+1613,Chill,SAXOPHONIST,watercolor,scattered,3,True,generation_birth
+1614,Rebellious,producer,vintage,scattered,4,True,generation_birth
+1615,funny,guitarist,watercolor,full bleed,4,True,generation_birth
+1616,nostalgic,metalhead,bold graphic,centered stack,1,True,generation_birth
+1617,rebellious,vinyl collector,watercolor,badge,5,True,generation_birth
+1618,CHILL,VINYL COLLECTOR,retro,scattered,3,True,generation_birth
+1619,proud,guitarist,distressed,badge,3,True,generation_birth
+1620,FUNNY,country fan,retro,centered stack,5,True,generation_birth
+1621,funny,vinyl_collector,bold graphic,scattered,3,True,generation_birth
+1622,REBELLIOUS,country fan,Bold Graphic,scattered,3,True,generation_birth
+1623,FUNNY,drummer,line art,badge,2,False,generation_birth
+1624,chill,country_fan,Watercolor,badge,6,True,generation_birth
+1625,chill,Metalhead,vintage,full bleed,2,True,generation_birth
+1626,funny,metalhead,distressed,full bleed,4,True,generation_birth
+1627,chill,producer,watercolor,scattered,2,False,generation_birth
+1628,chill,vinyl collector,line_art,badge,4,True,generation_birth
+1629,CHILL,metalhead,distressed,full bleed,4,False,generation_birth
+1630,nostalgic,vinyl collector,line art,scattered,5,True,generation_birth
+1631,proud,drummer,bold_graphic,full bleed,5,False,generation_birth
+1632,FUNNY,guitarist,LINE ART,badge,5,True,generation_birth
+1633,chill,drummer,Watercolor,full bleed,3,True,generation_birth
+1634,nostalgic,Vinyl Collector,Line Art,centered stack,5,True,generation_birth
+1635,Funny,metalhead,line art,scattered,3,True,generation_birth
+1636,rebellious,guitarist,VINTAGE,scattered,3,False,generation_birth
+1637,CHILL,country fan,watercolor,scattered,2,True,generation_birth
+1638,FUNNY,metalhead,bold graphic,centered stack,2,True,generation_birth
+1639,rebellious,classical musician,Vintage,full bleed,2,False,generation_birth
+1640,Funny,CLASSICAL MUSICIAN,line_art,centered stack,4,True,generation_birth
+1641,rebellious,metalhead,retro,scattered,3,True,generation_birth
+1642,funny,metalhead,RETRO,badge,5,True,generation_birth
+1643,nostalgic,saxophonist,retro,scattered,2,True,generation_birth
+1644,funny,Producer,distressed,badge,1,True,generation_birth
+1645,rebellious,producer,line art,full bleed,3,True,generation_birth
+1646,PROUD,vinyl collector,bold graphic,badge,6,True,generation_birth
+1647,rebellious,guitarist,Watercolor,badge,3,True,generation_birth
+1648,rebellious,DRUMMER,watercolor,badge,4,True,generation_birth
+1649,funny,DRUMMER,vintage,centered stack,4,True,generation_birth
+1650,funny,vinyl collector,bold graphic,badge,1,True,generation_birth
+1651,nostalgic,drummer,line art,full bleed,3,True,generation_birth
+1652,nostalgic,saxophonist,vintage,badge,6,True,generation_birth
+1653,rebellious,vinyl collector,watercolor,centered stack,2,False,generation_birth
+1654,nostalgic,VINYL COLLECTOR,bold graphic,scattered,5,True,generation_birth
+1655,chill,metalhead,RETRO,full bleed,3,True,generation_birth
+1656,chill,vinyl collector,retro,full bleed,4,True,generation_birth
+1657,CHILL,DRUMMER,DISTRESSED,full bleed,3,True,generation_birth
+1658,proud,saxophonist,watercolor,centered stack,5,False,generation_birth
+1659,rebellious,producer,watercolor,full bleed,3,False,generation_birth
+1660,nostalgic,guitarist,vintage,badge,3,True,generation_birth
+1661,proud,country fan,watercolor,centered stack,2,True,generation_birth
+1662,proud,classical_musician,retro,badge,2,True,generation_birth
+1663,funny,SAXOPHONIST,watercolor,badge,2,False,generation_birth
+1664,nostalgic,CLASSICAL MUSICIAN,bold graphic,centered stack,4,True,generation_birth
+1665,Proud,metalhead,DISTRESSED,badge,4,False,generation_birth
+1666,rebellious,Drummer,vintage,badge,3,False,generation_birth
+1667,Rebellious,guitarist,watercolor,centered stack,2,True,generation_birth
+1668,rebellious,country fan,bold_graphic,centered stack,6,True,generation_birth
+1669,Funny,Classical Musician,Watercolor,centered stack,5,True,generation_birth
+1670,rebellious,Drummer,distressed,centered stack,3,False,generation_birth
+1671,CHILL,vinyl collector,LINE ART,centered stack,3,True,generation_birth
+1672,rebellious,producer,bold_graphic,centered stack,3,True,generation_birth
+1673,rebellious,Vinyl Collector,Bold Graphic,centered stack,3,True,generation_birth
+1674,funny,producer,retro,full bleed,6,True,generation_birth
+1675,proud,vinyl collector,VINTAGE,full bleed,1,True,generation_birth
+1676,funny,vinyl collector,watercolor,scattered,6,True,generation_birth
+1677,funny,vinyl collector,vintage,full bleed,6,True,generation_birth
+1678,chill,guitarist,distressed,centered stack,4,False,generation_birth
+1679,nostalgic,drummer,DISTRESSED,centered stack,6,True,generation_birth
+1680,rebellious,Metalhead,distressed,scattered,6,True,generation_birth
+1681,FUNNY,guitarist,bold graphic,badge,2,True,generation_birth
+1682,Nostalgic,metalhead,Distressed,scattered,3,True,generation_birth
+1683,funny,Country Fan,line art,full bleed,3,True,generation_birth
+1684,nostalgic,metalhead,retro,scattered,6,True,generation_birth
+1685,Chill,guitarist,retro,badge,5,True,generation_birth
+1686,chill,Vinyl Collector,BOLD GRAPHIC,full bleed,4,False,generation_birth
+1687,rebellious,producer,retro,full bleed,5,True,generation_birth
+1688,rebellious,classical musician,watercolor,scattered,3,False,generation_birth
+1689,CHILL,Drummer,watercolor,full bleed,5,True,generation_birth
+1690,proud,producer,vintage,full bleed,4,False,generation_birth
+1691,proud,metalhead,Vintage,full bleed,1,True,generation_birth
+1692,Nostalgic,guitarist,line art,scattered,3,True,generation_birth
+1693,proud,producer,retro,badge,2,True,generation_birth
+1694,nostalgic,drummer,bold graphic,badge,1,True,generation_birth
+1695,proud,Metalhead,distressed,full bleed,5,True,generation_birth
+1696,rebellious,vinyl collector,watercolor,badge,1,True,generation_birth
+1697,Nostalgic,Drummer,Line Art,full bleed,5,False,generation_birth
+1698,funny,country fan,bold graphic,centered stack,2,False,generation_birth
+1699,rebellious,producer,retro,centered stack,5,False,generation_birth
+1700,FUNNY,metalhead,watercolor,badge,2,True,generation_birth
+1701,proud,country fan,vintage,centered stack,4,False,generation_birth
+1702,NOSTALGIC,saxophonist,watercolor,full bleed,4,True,generation_birth
+1703,rebellious,metalhead,line_art,full bleed,2,False,generation_birth
+1704,proud,saxophonist,distressed,centered stack,1,False,generation_birth
+1705,PROUD,Classical Musician,bold_graphic,scattered,4,True,generation_birth
+1706,proud,COUNTRY FAN,retro,full bleed,5,False,generation_birth
+1707,rebellious,metalhead,retro,centered stack,4,False,generation_birth
+1708,PROUD,saxophonist,distressed,full bleed,3,True,generation_birth
+1709,funny,Saxophonist,bold graphic,centered stack,2,False,generation_birth
+1710,funny,metalhead,watercolor,full bleed,5,False,generation_birth
+1711,funny,country fan,bold_graphic,full bleed,4,False,generation_birth
+1712,proud,Saxophonist,VINTAGE,badge,2,True,generation_birth
+1713,Chill,guitarist,WATERCOLOR,badge,4,True,generation_birth
+1714,rebellious,DRUMMER,Line Art,centered stack,3,True,generation_birth
+1715,rebellious,guitarist,vintage,centered stack,3,True,generation_birth
+1716,proud,drummer,WATERCOLOR,scattered,3,True,generation_birth
+1717,nostalgic,metalhead,retro,centered stack,6,True,generation_birth
+1718,proud,Producer,vintage,scattered,3,True,generation_birth
+1719,funny,guitarist,vintage,full bleed,4,True,generation_birth
+1720,chill,country fan,retro,full bleed,5,False,generation_birth
+1721,nostalgic,classical_musician,line_art,full bleed,5,False,generation_birth
+1722,chill,classical musician,distressed,centered stack,3,True,generation_birth
+1723,rebellious,metalhead,distressed,centered stack,4,True,generation_birth
+1724,funny,metalhead,vintage,scattered,4,True,generation_birth
+1725,Nostalgic,country fan,WATERCOLOR,badge,4,True,generation_birth
+1726,rebellious,metalhead,vintage,scattered,2,True,generation_birth
+1727,funny,Classical Musician,line_art,full bleed,2,False,generation_birth
+1728,rebellious,metalhead,line_art,centered stack,4,True,generation_birth
+1729,PROUD,country_fan,RETRO,badge,6,True,generation_birth
+1730,funny,guitarist,bold graphic,full bleed,5,True,generation_birth
+1731,Nostalgic,metalhead,watercolor,scattered,1,True,generation_birth
+1732,CHILL,COUNTRY FAN,Watercolor,full bleed,4,False,generation_birth
+1733,proud,drummer,vintage,scattered,4,True,generation_birth
+1734,chill,country_fan,BOLD GRAPHIC,full bleed,3,True,generation_birth
+1735,funny,guitarist,Vintage,badge,4,False,generation_birth
+1736,chill,classical musician,line art,scattered,4,False,generation_birth
+1737,chill,guitarist,line art,badge,4,True,generation_birth
+1738,proud,saxophonist,vintage,full bleed,2,True,generation_birth
+1739,REBELLIOUS,country_fan,bold graphic,full bleed,3,True,generation_birth
+1740,proud,vinyl_collector,WATERCOLOR,scattered,2,True,generation_birth
+1741,Nostalgic,VINYL COLLECTOR,line art,scattered,3,False,generation_birth
+1742,FUNNY,Guitarist,WATERCOLOR,scattered,5,False,generation_birth
+1743,chill,guitarist,bold_graphic,full bleed,6,True,generation_birth
+1744,nostalgic,Country Fan,LINE ART,badge,2,False,generation_birth
+1745,Chill,classical musician,vintage,badge,6,True,generation_birth
+1746,proud,producer,distressed,full bleed,2,True,generation_birth
+1747,rebellious,vinyl collector,vintage,scattered,3,False,generation_birth
+1748,rebellious,saxophonist,watercolor,centered stack,3,True,generation_birth
+1749,NOSTALGIC,METALHEAD,distressed,full bleed,5,True,generation_birth
+1750,chill,producer,bold graphic,full bleed,2,False,generation_birth
+1751,proud,country fan,Retro,badge,3,False,generation_birth
+1752,nostalgic,Guitarist,watercolor,full bleed,4,False,generation_birth
+1753,nostalgic,drummer,BOLD GRAPHIC,full bleed,4,False,generation_birth
+1754,rebellious,METALHEAD,vintage,full bleed,3,True,generation_birth
+1755,rebellious,guitarist,Watercolor,badge,2,False,generation_birth
+1756,funny,metalhead,retro,scattered,3,True,generation_birth
+1757,proud,guitarist,Distressed,centered stack,3,True,generation_birth
+1758,chill,classical musician,VINTAGE,scattered,3,True,generation_birth
+1759,Chill,metalhead,bold_graphic,centered stack,4,True,generation_birth
+1760,chill,vinyl collector,retro,scattered,6,True,generation_birth
+1761,chill,drummer,VINTAGE,badge,6,True,generation_birth
+1762,chill,guitarist,vintage,full bleed,3,False,generation_birth
+1763,PROUD,producer,WATERCOLOR,scattered,5,True,generation_birth
+1764,rebellious,drummer,Watercolor,badge,2,True,generation_birth
+1765,nostalgic,PRODUCER,Watercolor,scattered,3,True,generation_birth
+1766,proud,SAXOPHONIST,bold graphic,centered stack,3,False,generation_birth
+1767,Proud,Classical Musician,vintage,badge,5,True,generation_birth
+1768,rebellious,metalhead,retro,badge,6,False,generation_birth
+1769,chill,guitarist,distressed,scattered,2,False,generation_birth
+1770,NOSTALGIC,saxophonist,retro,scattered,2,True,generation_birth
+1771,nostalgic,SAXOPHONIST,retro,scattered,4,True,generation_birth
+1772,Nostalgic,Producer,RETRO,full bleed,6,True,generation_birth
+1773,FUNNY,guitarist,line art,scattered,5,True,generation_birth
+1774,proud,vinyl collector,distressed,full bleed,6,True,generation_birth
+1775,nostalgic,GUITARIST,vintage,full bleed,3,False,generation_birth
+1776,CHILL,VINYL COLLECTOR,WATERCOLOR,badge,3,False,generation_birth
+1777,rebellious,saxophonist,line_art,centered stack,2,True,generation_birth
+1778,funny,vinyl collector,bold graphic,badge,2,False,generation_birth
+1779,nostalgic,SAXOPHONIST,BOLD GRAPHIC,badge,3,False,generation_birth
+1780,chill,VINYL COLLECTOR,retro,centered stack,4,True,generation_birth
+1781,proud,Country Fan,distressed,centered stack,3,True,generation_birth
+1782,rebellious,metalhead,line_art,full bleed,4,True,generation_birth
+1783,PROUD,vinyl collector,bold_graphic,centered stack,4,True,generation_birth
+1784,nostalgic,METALHEAD,retro,full bleed,1,False,generation_birth
+1785,nostalgic,country fan,Watercolor,full bleed,2,True,generation_birth
+1786,CHILL,guitarist,Watercolor,badge,2,False,generation_birth
+1787,chill,metalhead,distressed,centered stack,5,True,generation_birth
+1788,funny,Producer,watercolor,scattered,4,True,generation_birth
+1789,proud,SAXOPHONIST,bold graphic,full bleed,5,True,generation_birth
+1790,chill,classical_musician,Vintage,scattered,3,True,generation_birth
+1791,Proud,guitarist,RETRO,centered stack,3,True,generation_birth
+1792,REBELLIOUS,classical_musician,WATERCOLOR,full bleed,6,True,generation_birth
+1793,chill,metalhead,line art,scattered,5,True,generation_birth
+1794,chill,vinyl collector,VINTAGE,badge,1,True,generation_birth
+1795,nostalgic,classical musician,retro,scattered,2,False,generation_birth
+1796,nostalgic,COUNTRY FAN,distressed,scattered,3,False,generation_birth
+1797,Chill,drummer,distressed,centered stack,2,False,generation_birth
+1798,funny,Metalhead,Bold Graphic,centered stack,3,True,generation_birth
+1799,rebellious,drummer,retro,badge,6,False,generation_birth
+1800,chill,guitarist,bold_graphic,scattered,4,True,generation_birth
+1801,NOSTALGIC,drummer,Bold Graphic,badge,2,True,generation_birth
+1802,Proud,vinyl_collector,vintage,centered stack,2,True,generation_birth
+1803,Chill,Producer,distressed,full bleed,5,True,generation_birth
+1804,NOSTALGIC,vinyl_collector,watercolor,centered stack,4,True,generation_birth
+1805,proud,vinyl_collector,retro,centered stack,2,True,generation_birth
+1806,nostalgic,guitarist,watercolor,scattered,2,True,generation_birth
+1807,nostalgic,PRODUCER,WATERCOLOR,scattered,6,False,generation_birth
+1808,funny,Guitarist,WATERCOLOR,badge,3,True,generation_birth
+1809,chill,drummer,watercolor,centered stack,2,False,generation_birth
+1810,chill,saxophonist,bold graphic,centered stack,3,False,generation_birth
+1811,proud,Metalhead,watercolor,badge,6,True,generation_birth
+1812,REBELLIOUS,saxophonist,bold graphic,scattered,3,False,generation_birth
+1813,rebellious,SAXOPHONIST,retro,centered stack,3,True,generation_birth
+1814,chill,drummer,retro,full bleed,2,True,generation_birth
+1815,REBELLIOUS,country fan,Watercolor,centered stack,4,True,generation_birth
+1816,Rebellious,classical musician,bold graphic,full bleed,5,True,generation_birth
+1817,nostalgic,VINYL COLLECTOR,watercolor,scattered,4,True,generation_birth
+1818,chill,drummer,line art,full bleed,5,True,generation_birth
+1819,nostalgic,saxophonist,WATERCOLOR,badge,5,True,generation_birth
+1820,Nostalgic,METALHEAD,retro,full bleed,2,False,generation_birth
+1821,proud,vinyl collector,RETRO,full bleed,5,True,generation_birth
+1822,chill,producer,distressed,scattered,4,False,generation_birth
+1823,Funny,classical musician,bold graphic,scattered,6,True,generation_birth
+1824,proud,classical_musician,line_art,centered stack,3,True,generation_birth
+1825,chill,metalhead,watercolor,badge,6,False,generation_birth
+1826,nostalgic,vinyl collector,vintage,scattered,4,True,generation_birth
+1827,CHILL,country_fan,distressed,centered stack,4,True,generation_birth
+1828,chill,classical_musician,watercolor,full bleed,4,True,generation_birth
+1829,chill,METALHEAD,watercolor,badge,6,False,generation_birth
+1830,nostalgic,drummer,bold graphic,full bleed,4,True,generation_birth
+1831,rebellious,GUITARIST,watercolor,centered stack,2,True,generation_birth
+1832,rebellious,guitarist,Retro,full bleed,3,True,generation_birth
+1833,proud,classical musician,Distressed,full bleed,1,True,generation_birth
+1834,Funny,country fan,watercolor,full bleed,2,True,generation_birth
+1835,rebellious,Drummer,watercolor,scattered,2,True,generation_birth
+1836,nostalgic,GUITARIST,bold graphic,centered stack,3,False,generation_birth
+1837,rebellious,saxophonist,RETRO,full bleed,5,True,generation_birth
+1838,Nostalgic,producer,Distressed,centered stack,3,True,generation_birth
+1839,nostalgic,country fan,Watercolor,scattered,2,True,generation_birth
+1840,rebellious,classical musician,vintage,centered stack,2,False,generation_birth
+1841,funny,Guitarist,DISTRESSED,centered stack,3,False,generation_birth
+1842,rebellious,vinyl collector,RETRO,badge,2,True,generation_birth
+1843,proud,guitarist,bold graphic,full bleed,2,True,generation_birth
+1844,nostalgic,producer,vintage,scattered,4,True,generation_birth
+1845,proud,classical musician,vintage,badge,4,False,generation_birth
+1846,Chill,VINYL COLLECTOR,BOLD GRAPHIC,scattered,3,False,generation_birth
+1847,Funny,GUITARIST,line art,scattered,3,True,generation_birth
+1848,nostalgic,producer,distressed,badge,1,False,generation_birth
+1849,funny,Metalhead,distressed,badge,5,True,generation_birth
+1850,chill,classical musician,distressed,full bleed,2,True,generation_birth
+1851,chill,Guitarist,bold graphic,badge,2,True,generation_birth
+1852,REBELLIOUS,metalhead,vintage,centered stack,1,True,generation_birth
+1853,proud,classical musician,retro,badge,2,True,generation_birth
+1854,rebellious,guitarist,DISTRESSED,badge,5,True,generation_birth
+1855,nostalgic,classical musician,vintage,full bleed,2,True,generation_birth
+1856,Proud,vinyl collector,RETRO,centered stack,5,True,generation_birth
+1857,chill,country_fan,line art,centered stack,4,True,generation_birth
+1858,chill,guitarist,watercolor,badge,3,True,generation_birth
+1859,FUNNY,Country Fan,bold graphic,full bleed,2,True,generation_birth
+1860,chill,producer,retro,centered stack,2,False,generation_birth
+1861,proud,Metalhead,retro,scattered,4,False,generation_birth
+1862,rebellious,country fan,watercolor,full bleed,4,True,generation_birth
+1863,rebellious,VINYL COLLECTOR,Watercolor,full bleed,5,False,generation_birth
+1864,Funny,producer,line_art,scattered,5,True,generation_birth
+1865,funny,saxophonist,bold graphic,full bleed,3,False,generation_birth
+1866,rebellious,classical_musician,retro,scattered,2,True,generation_birth
+1867,proud,country fan,WATERCOLOR,badge,5,True,generation_birth
+1868,funny,country fan,watercolor,centered stack,3,True,generation_birth
+1869,NOSTALGIC,classical musician,retro,badge,4,True,generation_birth
+1870,chill,Producer,distressed,badge,2,True,generation_birth
+1871,nostalgic,saxophonist,LINE ART,badge,2,True,generation_birth
+1872,Rebellious,guitarist,RETRO,full bleed,4,True,generation_birth
+1873,Rebellious,country fan,retro,badge,3,False,generation_birth
+1874,NOSTALGIC,country fan,bold graphic,centered stack,6,True,generation_birth
+1875,Nostalgic,saxophonist,DISTRESSED,scattered,3,True,generation_birth
+1876,REBELLIOUS,country fan,LINE ART,full bleed,4,False,generation_birth
+1877,rebellious,guitarist,WATERCOLOR,scattered,3,True,generation_birth
+1878,proud,metalhead,BOLD GRAPHIC,centered stack,4,True,generation_birth
+1879,rebellious,country fan,LINE ART,centered stack,4,False,generation_birth
+1880,rebellious,Country Fan,watercolor,scattered,4,True,generation_birth
+1881,chill,guitarist,DISTRESSED,full bleed,6,False,generation_birth
+1882,funny,GUITARIST,Retro,badge,4,True,generation_birth
+1883,funny,SAXOPHONIST,retro,badge,3,True,generation_birth
+1884,chill,DRUMMER,line art,full bleed,5,True,generation_birth
+1885,funny,drummer,vintage,full bleed,5,True,generation_birth
+1886,chill,saxophonist,distressed,badge,3,True,generation_birth
+1887,funny,classical musician,watercolor,full bleed,4,True,generation_birth
+1888,nostalgic,Country Fan,Watercolor,centered stack,2,False,generation_birth
+1889,PROUD,Country Fan,WATERCOLOR,badge,5,False,generation_birth
+1890,chill,Metalhead,distressed,scattered,2,True,generation_birth
+1891,NOSTALGIC,drummer,vintage,scattered,5,False,generation_birth
+1892,FUNNY,vinyl_collector,watercolor,full bleed,2,True,generation_birth
+1893,FUNNY,classical musician,Watercolor,full bleed,3,False,generation_birth
+1894,PROUD,vinyl_collector,BOLD GRAPHIC,scattered,4,False,generation_birth
+1895,chill,drummer,retro,full bleed,1,False,generation_birth
+1896,PROUD,classical musician,retro,full bleed,1,True,generation_birth
+1897,chill,Guitarist,retro,badge,5,True,generation_birth
+1898,Rebellious,drummer,Watercolor,scattered,3,True,generation_birth
+1899,Proud,Drummer,WATERCOLOR,full bleed,4,False,generation_birth
+1900,Proud,METALHEAD,watercolor,badge,4,False,generation_birth
+1901,Chill,classical musician,distressed,centered stack,3,True,generation_birth
+1902,Chill,classical musician,Watercolor,badge,5,True,generation_birth
+1903,funny,metalhead,distressed,scattered,2,True,generation_birth
+1904,nostalgic,metalhead,Vintage,badge,5,True,generation_birth
+1905,Funny,SAXOPHONIST,retro,full bleed,3,False,generation_birth
+1906,Chill,country fan,BOLD GRAPHIC,centered stack,5,False,generation_birth
+1907,rebellious,producer,line_art,badge,4,True,generation_birth
+1908,funny,classical_musician,Watercolor,full bleed,3,True,generation_birth
+1909,rebellious,saxophonist,Watercolor,scattered,3,False,generation_birth
+1910,nostalgic,producer,WATERCOLOR,scattered,4,False,generation_birth
+1911,nostalgic,vinyl collector,DISTRESSED,full bleed,3,False,generation_birth
+1912,chill,Producer,Retro,scattered,3,False,generation_birth
+1913,nostalgic,metalhead,vintage,full bleed,5,False,generation_birth
+1914,nostalgic,guitarist,line art,full bleed,4,True,generation_birth
+1915,nostalgic,drummer,RETRO,full bleed,4,True,generation_birth
+1916,funny,Metalhead,DISTRESSED,centered stack,2,True,generation_birth
+1917,Nostalgic,Drummer,retro,full bleed,2,False,generation_birth
+1918,chill,classical musician,Watercolor,centered stack,1,False,generation_birth
+1919,NOSTALGIC,Guitarist,bold graphic,centered stack,4,False,generation_birth
+1920,Funny,Drummer,distressed,scattered,6,True,generation_birth
+1921,funny,classical musician,bold graphic,centered stack,2,True,generation_birth
+1922,funny,vinyl collector,retro,scattered,2,True,generation_birth
+1923,nostalgic,PRODUCER,Retro,scattered,5,True,generation_birth
+1924,proud,country fan,Watercolor,scattered,6,True,generation_birth
+1925,REBELLIOUS,PRODUCER,WATERCOLOR,badge,2,True,generation_birth
+1926,Rebellious,VINYL COLLECTOR,bold graphic,full bleed,4,True,generation_birth
+1927,Chill,producer,watercolor,centered stack,2,True,generation_birth
+1928,nostalgic,PRODUCER,watercolor,centered stack,6,True,generation_birth
+1929,Funny,METALHEAD,watercolor,centered stack,3,True,generation_birth
+1930,nostalgic,Producer,retro,full bleed,3,True,generation_birth
+1931,funny,Producer,bold_graphic,badge,5,True,generation_birth
+1932,NOSTALGIC,vinyl_collector,retro,badge,2,True,generation_birth
+1933,Chill,vinyl_collector,bold graphic,scattered,2,True,generation_birth
+1934,Proud,Metalhead,watercolor,full bleed,2,False,generation_birth
+1935,rebellious,drummer,vintage,full bleed,4,True,generation_birth
+1936,chill,producer,watercolor,badge,2,True,generation_birth
+1937,Nostalgic,classical musician,watercolor,scattered,3,True,generation_birth
+1938,funny,saxophonist,retro,badge,2,True,generation_birth
+1939,funny,saxophonist,retro,centered stack,2,True,generation_birth
+1940,funny,producer,watercolor,centered stack,3,False,generation_birth
+1941,rebellious,GUITARIST,line art,centered stack,4,True,generation_birth
+1942,CHILL,Drummer,Watercolor,full bleed,1,True,generation_birth
+1943,nostalgic,vinyl collector,bold graphic,scattered,2,True,generation_birth
+1944,funny,vinyl collector,distressed,scattered,2,True,generation_birth
+1945,nostalgic,country_fan,watercolor,badge,3,False,generation_birth
+1946,Funny,producer,distressed,badge,5,True,generation_birth
+1947,funny,CLASSICAL MUSICIAN,vintage,badge,2,True,generation_birth
+1948,funny,Guitarist,bold_graphic,badge,6,True,generation_birth
+1949,nostalgic,vinyl collector,retro,badge,6,True,generation_birth
+1950,Chill,VINYL COLLECTOR,BOLD GRAPHIC,scattered,4,True,generation_birth
+1951,Chill,drummer,Vintage,centered stack,6,True,generation_birth
+1952,FUNNY,classical musician,distressed,scattered,3,True,generation_birth
+1953,chill,PRODUCER,distressed,full bleed,5,True,generation_birth
+1954,nostalgic,metalhead,VINTAGE,scattered,4,True,generation_birth
+1955,nostalgic,saxophonist,RETRO,centered stack,3,False,generation_birth
+1956,proud,Guitarist,LINE ART,badge,5,False,generation_birth
+1957,proud,metalhead,Vintage,badge,5,False,generation_birth
+1958,CHILL,producer,retro,scattered,3,False,generation_birth
+1959,nostalgic,metalhead,watercolor,centered stack,2,True,generation_birth
+1960,NOSTALGIC,SAXOPHONIST,distressed,full bleed,3,True,generation_birth
+1961,proud,metalhead,line_art,centered stack,4,True,generation_birth
+1962,Proud,classical musician,Distressed,centered stack,2,False,generation_birth
+1963,chill,Saxophonist,Bold Graphic,centered stack,4,False,generation_birth
+1964,FUNNY,country fan,line art,full bleed,2,False,generation_birth
+1965,proud,country fan,bold_graphic,full bleed,5,True,generation_birth
+1966,chill,Guitarist,retro,centered stack,3,False,generation_birth
+1967,nostalgic,vinyl collector,bold graphic,badge,2,True,generation_birth
+1968,rebellious,country_fan,WATERCOLOR,badge,3,True,generation_birth
+1969,proud,metalhead,Line Art,full bleed,4,True,generation_birth
+1970,nostalgic,CLASSICAL MUSICIAN,WATERCOLOR,centered stack,4,True,generation_birth
+1971,funny,vinyl collector,Line Art,badge,1,False,generation_birth
+1972,chill,COUNTRY FAN,retro,badge,4,True,generation_birth
+1973,rebellious,Vinyl Collector,RETRO,full bleed,3,False,generation_birth
+1974,rebellious,CLASSICAL MUSICIAN,Retro,badge,2,True,generation_birth
+1975,REBELLIOUS,Metalhead,DISTRESSED,centered stack,2,False,generation_birth
+1976,funny,DRUMMER,vintage,badge,2,True,generation_birth
+1977,FUNNY,VINYL COLLECTOR,distressed,badge,5,False,generation_birth
+1978,funny,METALHEAD,vintage,scattered,5,True,generation_birth
+1979,nostalgic,vinyl_collector,VINTAGE,scattered,5,False,generation_birth
+1980,nostalgic,classical musician,Retro,centered stack,3,False,generation_birth
+1981,funny,drummer,RETRO,centered stack,1,True,generation_birth
+1982,NOSTALGIC,METALHEAD,DISTRESSED,centered stack,2,True,generation_birth
+1983,proud,Drummer,distressed,badge,5,True,generation_birth
+1984,rebellious,Country Fan,retro,scattered,1,False,generation_birth
+1985,Rebellious,drummer,bold_graphic,badge,2,True,generation_birth
+1986,rebellious,COUNTRY FAN,LINE ART,badge,4,False,generation_birth
+1987,nostalgic,vinyl collector,watercolor,centered stack,4,False,generation_birth
+1988,PROUD,saxophonist,line art,badge,4,False,generation_birth
+1989,Chill,GUITARIST,distressed,scattered,6,False,generation_birth
+1990,rebellious,VINYL COLLECTOR,Distressed,badge,4,True,generation_birth
+1991,funny,guitarist,bold graphic,badge,3,True,generation_birth
+1992,chill,Vinyl Collector,line art,badge,3,False,generation_birth
+1993,Nostalgic,classical_musician,distressed,scattered,3,True,generation_birth
+1994,proud,classical musician,bold graphic,centered stack,4,False,generation_birth
+1995,nostalgic,saxophonist,bold graphic,badge,3,True,generation_birth
+1996,rebellious,Saxophonist,line art,badge,4,True,generation_birth
+1997,funny,guitarist,watercolor,scattered,2,True,generation_birth
+1998,proud,saxophonist,vintage,centered stack,5,True,generation_birth
+1999,proud,METALHEAD,Line Art,full bleed,4,True,generation_birth
+2000,Nostalgic,drummer,line art,full bleed,3,False,generation_birth
+2001,rebellious,saxophonist,WATERCOLOR,scattered,3,True,generation_birth
+2002,chill,vinyl_collector,VINTAGE,full bleed,5,True,generation_birth
+2003,nostalgic,producer,distressed,full bleed,5,False,generation_birth
+2004,Proud,guitarist,bold_graphic,centered stack,2,True,generation_birth
+2005,nostalgic,Guitarist,watercolor,full bleed,3,False,generation_birth
+2006,Rebellious,VINYL COLLECTOR,VINTAGE,badge,2,True,generation_birth
+2007,Proud,producer,bold graphic,badge,3,True,generation_birth
+2008,funny,producer,watercolor,full bleed,2,False,generation_birth
+2009,funny,country fan,Vintage,scattered,3,True,generation_birth
+2010,funny,producer,Watercolor,full bleed,3,True,generation_birth
+2011,REBELLIOUS,saxophonist,distressed,scattered,4,True,generation_birth
+2012,proud,Vinyl Collector,watercolor,badge,2,True,generation_birth
+2013,nostalgic,drummer,vintage,full bleed,6,True,generation_birth
+2014,chill,saxophonist,line art,full bleed,3,True,generation_birth
+2015,proud,Drummer,line art,centered stack,5,False,generation_birth
+2016,Funny,producer,distressed,badge,4,False,generation_birth
+2017,Chill,Classical Musician,retro,badge,5,False,generation_birth
+2018,CHILL,classical_musician,line art,scattered,6,True,generation_birth
+2019,Proud,drummer,bold_graphic,scattered,3,True,generation_birth
+2020,nostalgic,producer,bold graphic,centered stack,4,True,generation_birth
+2021,chill,classical musician,watercolor,full bleed,3,True,generation_birth
+2022,nostalgic,Guitarist,line art,badge,4,True,generation_birth
+2023,nostalgic,country fan,watercolor,centered stack,3,True,generation_birth
+2024,nostalgic,metalhead,vintage,badge,2,True,generation_birth
+2025,Funny,producer,DISTRESSED,badge,4,True,generation_birth
+2026,proud,metalhead,retro,full bleed,2,True,generation_birth
+2027,proud,guitarist,watercolor,scattered,2,True,generation_birth
+2028,nostalgic,COUNTRY FAN,watercolor,badge,2,True,generation_birth
+2029,chill,PRODUCER,DISTRESSED,scattered,4,False,generation_birth
+2030,rebellious,Classical Musician,retro,full bleed,1,False,generation_birth
+2031,chill,metalhead,distressed,centered stack,6,True,generation_birth
+2032,chill,country fan,line art,centered stack,4,False,generation_birth
+2033,CHILL,drummer,Distressed,scattered,3,True,generation_birth
+2034,nostalgic,vinyl collector,vintage,centered stack,3,True,generation_birth
+2035,proud,Drummer,distressed,badge,4,False,generation_birth
+2036,rebellious,saxophonist,line art,badge,6,True,generation_birth
+2037,nostalgic,vinyl collector,watercolor,centered stack,6,True,generation_birth
+2038,rebellious,vinyl_collector,vintage,centered stack,2,True,generation_birth
+2039,chill,Saxophonist,bold graphic,scattered,2,True,generation_birth
+2040,nostalgic,metalhead,retro,full bleed,3,False,generation_birth
+2041,funny,vinyl collector,line art,centered stack,3,True,generation_birth
+2042,Proud,Country Fan,BOLD GRAPHIC,full bleed,3,False,generation_birth
+2043,nostalgic,drummer,WATERCOLOR,scattered,5,False,generation_birth
+2044,NOSTALGIC,Metalhead,RETRO,centered stack,2,True,generation_birth
+2045,chill,classical musician,RETRO,scattered,2,True,generation_birth
+2046,NOSTALGIC,country_fan,line art,badge,5,True,generation_birth
+2047,funny,Metalhead,distressed,full bleed,2,True,generation_birth
+2048,chill,country_fan,line art,badge,2,False,generation_birth
+2049,proud,classical_musician,Bold Graphic,badge,4,True,generation_birth
+2050,chill,Guitarist,line_art,scattered,5,False,generation_birth
+2051,proud,SAXOPHONIST,retro,badge,5,True,generation_birth
+2052,proud,country fan,bold graphic,centered stack,4,True,generation_birth
+2053,rebellious,drummer,bold graphic,badge,2,True,generation_birth
+2054,funny,Saxophonist,line art,full bleed,1,False,generation_birth
+2055,rebellious,metalhead,retro,scattered,3,True,generation_birth
+2056,Chill,drummer,retro,badge,3,True,generation_birth
+2057,proud,producer,BOLD GRAPHIC,scattered,5,True,generation_birth
+2058,proud,country fan,vintage,full bleed,5,True,generation_birth
+2059,funny,Metalhead,VINTAGE,scattered,1,False,generation_birth
+2060,Proud,Saxophonist,LINE ART,badge,2,True,generation_birth
+2061,funny,guitarist,distressed,badge,4,True,generation_birth
+2062,chill,SAXOPHONIST,watercolor,full bleed,6,True,generation_birth
+2063,funny,guitarist,Bold Graphic,scattered,4,True,generation_birth
+2064,Nostalgic,GUITARIST,RETRO,centered stack,3,False,generation_birth
+2065,rebellious,vinyl_collector,line art,full bleed,1,True,generation_birth
+2066,nostalgic,guitarist,watercolor,full bleed,4,True,generation_birth
+2067,chill,Country Fan,bold graphic,scattered,4,True,generation_birth
+2068,nostalgic,GUITARIST,retro,badge,2,True,generation_birth
+2069,funny,Drummer,watercolor,full bleed,3,True,generation_birth
+2070,chill,drummer,bold graphic,full bleed,2,True,generation_birth
+2071,Chill,METALHEAD,retro,full bleed,5,True,generation_birth
+2072,nostalgic,Vinyl Collector,watercolor,centered stack,4,True,generation_birth
+2073,rebellious,guitarist,Bold Graphic,centered stack,3,True,generation_birth
+2074,Nostalgic,vinyl collector,distressed,full bleed,5,True,generation_birth
+2075,rebellious,classical_musician,Watercolor,scattered,4,True,generation_birth
+2076,funny,saxophonist,distressed,scattered,4,True,generation_birth
+2077,chill,saxophonist,Distressed,scattered,3,True,generation_birth
+2078,nostalgic,drummer,retro,centered stack,1,True,generation_birth
+2079,proud,VINYL COLLECTOR,vintage,badge,2,True,generation_birth
+2080,chill,guitarist,bold graphic,centered stack,2,True,generation_birth
+2081,proud,country fan,watercolor,centered stack,3,True,generation_birth
+2082,FUNNY,Classical Musician,line art,badge,3,True,generation_birth
+2083,proud,metalhead,retro,scattered,3,True,generation_birth
+2084,CHILL,producer,Line Art,centered stack,3,False,generation_birth
+2085,NOSTALGIC,producer,line art,centered stack,6,True,generation_birth
+2086,NOSTALGIC,guitarist,line art,scattered,3,True,generation_birth
+2087,REBELLIOUS,Classical Musician,bold graphic,centered stack,4,False,generation_birth
+2088,proud,drummer,distressed,badge,6,True,generation_birth
+2089,rebellious,country fan,bold graphic,scattered,3,False,generation_birth
+2090,proud,guitarist,BOLD GRAPHIC,badge,2,False,generation_birth
+2091,nostalgic,vinyl collector,line art,badge,3,True,generation_birth
+2092,proud,COUNTRY FAN,Line Art,full bleed,5,True,generation_birth
+2093,nostalgic,classical musician,watercolor,full bleed,5,True,generation_birth
+2094,funny,VINYL COLLECTOR,distressed,centered stack,4,True,generation_birth
+2095,funny,saxophonist,line art,scattered,3,True,generation_birth
+2096,REBELLIOUS,producer,bold graphic,scattered,4,True,generation_birth
+2097,Nostalgic,vinyl collector,distressed,badge,4,False,generation_birth
+2098,nostalgic,drummer,retro,centered stack,2,False,generation_birth
+2099,nostalgic,DRUMMER,Bold Graphic,centered stack,4,False,generation_birth
+2100,rebellious,Guitarist,line art,centered stack,2,True,generation_birth
+2101,proud,Vinyl Collector,WATERCOLOR,badge,2,False,generation_birth
+2102,Chill,drummer,distressed,badge,2,False,generation_birth
+2103,rebellious,saxophonist,vintage,badge,2,False,generation_birth
+2104,Proud,metalhead,line_art,scattered,5,True,generation_birth
+2105,rebellious,country_fan,RETRO,centered stack,4,True,generation_birth
+2106,rebellious,classical musician,line art,centered stack,3,False,generation_birth
+2107,rebellious,country fan,WATERCOLOR,scattered,4,True,generation_birth
+2108,rebellious,guitarist,Retro,centered stack,4,True,generation_birth
+2109,nostalgic,classical musician,distressed,scattered,4,False,generation_birth
+2110,funny,producer,distressed,badge,2,True,generation_birth
+2111,nostalgic,drummer,bold_graphic,full bleed,6,True,generation_birth
+2112,nostalgic,guitarist,line_art,scattered,5,True,generation_birth
+2113,nostalgic,producer,bold graphic,centered stack,3,True,generation_birth
+2114,Proud,classical_musician,Bold Graphic,centered stack,4,True,generation_birth
+2115,Rebellious,metalhead,retro,full bleed,4,True,generation_birth
+2116,nostalgic,vinyl collector,Distressed,scattered,6,True,generation_birth
+2117,chill,country fan,Watercolor,scattered,6,True,generation_birth
+2118,proud,country fan,distressed,centered stack,2,False,generation_birth
+2119,PROUD,producer,DISTRESSED,scattered,4,True,generation_birth
+2120,Nostalgic,Metalhead,Vintage,centered stack,5,True,generation_birth
+2121,nostalgic,Country Fan,retro,full bleed,6,True,generation_birth
+2122,rebellious,guitarist,line art,centered stack,5,True,generation_birth
+2123,nostalgic,classical musician,vintage,centered stack,3,False,generation_birth
+2124,rebellious,metalhead,Vintage,full bleed,3,True,generation_birth
+2125,Rebellious,drummer,vintage,badge,3,True,generation_birth
+2126,chill,PRODUCER,line art,full bleed,5,False,generation_birth
+2127,funny,DRUMMER,vintage,full bleed,2,False,generation_birth
+2128,funny,classical musician,retro,centered stack,2,True,generation_birth
+2129,nostalgic,guitarist,LINE ART,scattered,4,False,generation_birth
+2130,proud,country fan,retro,scattered,3,True,generation_birth
+2131,nostalgic,drummer,VINTAGE,centered stack,5,True,generation_birth
+2132,chill,drummer,retro,badge,4,True,generation_birth
+2133,chill,DRUMMER,distressed,centered stack,2,False,generation_birth
+2134,proud,producer,retro,scattered,5,True,generation_birth
+2135,rebellious,Saxophonist,RETRO,full bleed,2,False,generation_birth
+2136,proud,country fan,retro,badge,3,False,generation_birth
+2137,nostalgic,Vinyl Collector,Bold Graphic,badge,4,True,generation_birth
+2138,Proud,producer,line art,full bleed,2,False,generation_birth
+2139,Chill,classical musician,retro,scattered,4,False,generation_birth
+2140,proud,producer,line art,badge,5,True,generation_birth
+2141,FUNNY,metalhead,line art,badge,2,True,generation_birth
+2142,funny,vinyl collector,vintage,badge,5,False,generation_birth
+2143,proud,Classical Musician,distressed,scattered,3,True,generation_birth
+2144,PROUD,vinyl_collector,bold graphic,centered stack,4,True,generation_birth
+2145,rebellious,saxophonist,retro,centered stack,3,True,generation_birth
+2146,FUNNY,Guitarist,distressed,badge,2,False,generation_birth
+2147,FUNNY,DRUMMER,distressed,scattered,4,True,generation_birth
+2148,rebellious,vinyl_collector,vintage,centered stack,3,False,generation_birth
+2149,nostalgic,vinyl collector,distressed,badge,5,True,generation_birth
+2150,proud,Classical Musician,distressed,full bleed,5,True,generation_birth
+2151,nostalgic,guitarist,BOLD GRAPHIC,scattered,2,False,generation_birth
+2152,nostalgic,saxophonist,VINTAGE,centered stack,4,True,generation_birth
+2153,Chill,Producer,watercolor,centered stack,3,True,generation_birth
+2154,nostalgic,GUITARIST,watercolor,badge,6,False,generation_birth
+2155,funny,guitarist,vintage,scattered,6,True,generation_birth
+2156,rebellious,guitarist,Vintage,centered stack,2,True,generation_birth
+2157,nostalgic,producer,line art,full bleed,2,True,generation_birth
+2158,NOSTALGIC,DRUMMER,RETRO,badge,4,True,generation_birth
+2159,chill,saxophonist,line art,full bleed,4,False,generation_birth
+2160,Proud,metalhead,LINE ART,centered stack,6,False,generation_birth
+2161,proud,classical musician,distressed,full bleed,1,True,generation_birth
+2162,nostalgic,Drummer,DISTRESSED,centered stack,3,False,generation_birth
+2163,proud,vinyl collector,Retro,centered stack,2,True,generation_birth
+2164,chill,CLASSICAL MUSICIAN,Vintage,full bleed,6,False,generation_birth
+2165,Funny,producer,retro,centered stack,2,True,generation_birth
+2166,nostalgic,guitarist,line_art,badge,2,True,generation_birth
+2167,Funny,guitarist,VINTAGE,scattered,2,True,generation_birth
+2168,NOSTALGIC,Saxophonist,line art,centered stack,2,True,generation_birth
+2169,Proud,Classical Musician,RETRO,centered stack,3,True,generation_birth
+2170,CHILL,saxophonist,bold graphic,scattered,5,True,generation_birth
+2171,rebellious,producer,retro,centered stack,6,True,generation_birth
+2172,chill,guitarist,WATERCOLOR,scattered,5,True,generation_birth
+2173,nostalgic,guitarist,VINTAGE,centered stack,5,True,generation_birth
+2174,rebellious,guitarist,VINTAGE,full bleed,2,True,generation_birth
+2175,nostalgic,classical musician,line art,badge,6,True,generation_birth
+2176,rebellious,DRUMMER,vintage,full bleed,5,True,generation_birth
+2177,CHILL,VINYL COLLECTOR,vintage,scattered,3,True,generation_birth
+2178,rebellious,Producer,distressed,centered stack,2,True,generation_birth
+2179,chill,saxophonist,Line Art,centered stack,4,True,generation_birth
+2180,proud,DRUMMER,bold_graphic,centered stack,2,False,generation_birth
+2181,FUNNY,vinyl collector,Bold Graphic,badge,3,True,generation_birth
+2182,Funny,vinyl collector,Retro,badge,3,False,generation_birth
+2183,proud,drummer,line art,centered stack,2,True,generation_birth
+2184,funny,country fan,DISTRESSED,scattered,5,True,generation_birth
+2185,Rebellious,country fan,BOLD GRAPHIC,full bleed,1,True,generation_birth
+2186,proud,Saxophonist,BOLD GRAPHIC,centered stack,5,True,generation_birth
+2187,rebellious,drummer,retro,badge,4,True,generation_birth
+2188,nostalgic,guitarist,Vintage,centered stack,2,True,generation_birth
+2189,REBELLIOUS,guitarist,line art,scattered,1,False,generation_birth
+2190,rebellious,country fan,vintage,badge,3,True,generation_birth
+2191,chill,Drummer,BOLD GRAPHIC,centered stack,4,True,generation_birth
+2192,CHILL,METALHEAD,vintage,scattered,3,False,generation_birth
+2193,REBELLIOUS,producer,BOLD GRAPHIC,centered stack,5,True,generation_birth
+2194,chill,CLASSICAL MUSICIAN,watercolor,centered stack,5,False,generation_birth
+2195,funny,saxophonist,distressed,full bleed,5,True,generation_birth
+2196,rebellious,vinyl_collector,LINE ART,badge,4,True,generation_birth
+2197,rebellious,VINYL COLLECTOR,bold graphic,centered stack,2,True,generation_birth
+2198,funny,guitarist,retro,centered stack,2,True,generation_birth
+2199,nostalgic,drummer,vintage,centered stack,4,True,generation_birth
+2200,proud,COUNTRY FAN,Line Art,scattered,2,True,generation_birth
+2201,nostalgic,guitarist,DISTRESSED,centered stack,1,True,generation_birth
+2202,nostalgic,drummer,bold graphic,centered stack,4,False,generation_birth
+2203,PROUD,guitarist,Distressed,scattered,5,True,generation_birth
+2204,rebellious,classical musician,vintage,scattered,3,False,generation_birth
+2205,proud,drummer,Distressed,badge,2,True,generation_birth
+2206,chill,country fan,LINE ART,full bleed,2,False,generation_birth
+2207,PROUD,producer,VINTAGE,scattered,4,True,generation_birth
+2208,Proud,country fan,retro,badge,2,True,generation_birth
+2209,chill,guitarist,distressed,badge,4,True,generation_birth
+2210,proud,metalhead,retro,full bleed,1,True,generation_birth
+2211,proud,classical musician,DISTRESSED,badge,3,True,generation_birth
+2212,chill,producer,watercolor,centered stack,6,True,generation_birth
+2213,rebellious,Drummer,distressed,centered stack,3,True,generation_birth
+2214,PROUD,METALHEAD,retro,scattered,4,False,generation_birth
+2215,NOSTALGIC,metalhead,Distressed,centered stack,4,True,generation_birth
+2216,nostalgic,vinyl collector,vintage,badge,6,True,generation_birth
+2217,Nostalgic,vinyl collector,bold graphic,full bleed,6,True,generation_birth
+2218,rebellious,Classical Musician,RETRO,badge,6,False,generation_birth
+2219,nostalgic,Country Fan,distressed,scattered,4,True,generation_birth
+2220,nostalgic,guitarist,watercolor,scattered,4,True,generation_birth
+2221,nostalgic,guitarist,watercolor,full bleed,6,False,generation_birth
+2222,CHILL,PRODUCER,line art,centered stack,3,True,generation_birth
+2223,Proud,country fan,bold graphic,centered stack,4,False,generation_birth
+2224,Funny,guitarist,retro,badge,3,True,generation_birth
+2225,chill,vinyl collector,retro,full bleed,2,True,generation_birth
+2226,CHILL,SAXOPHONIST,watercolor,badge,3,True,generation_birth
+2227,funny,classical_musician,line art,centered stack,3,True,generation_birth
+2228,rebellious,GUITARIST,vintage,centered stack,4,False,generation_birth
+2229,Nostalgic,classical musician,LINE ART,badge,3,True,generation_birth
+2230,nostalgic,producer,bold graphic,centered stack,2,False,generation_birth
+2231,CHILL,classical musician,vintage,full bleed,6,True,generation_birth
+2232,proud,country fan,vintage,scattered,5,False,generation_birth
+2233,nostalgic,producer,watercolor,badge,2,False,generation_birth
+2234,Nostalgic,classical musician,line_art,full bleed,2,True,generation_birth
+2235,funny,country fan,WATERCOLOR,badge,3,False,generation_birth
+2236,Funny,METALHEAD,bold graphic,scattered,5,True,generation_birth
+2237,nostalgic,drummer,retro,centered stack,5,True,generation_birth
+2238,proud,SAXOPHONIST,vintage,centered stack,6,True,generation_birth
+2239,rebellious,vinyl collector,bold graphic,centered stack,3,True,generation_birth
+2240,Nostalgic,metalhead,retro,badge,2,False,generation_birth
+2241,funny,COUNTRY FAN,distressed,full bleed,4,False,generation_birth
+2242,rebellious,metalhead,bold graphic,full bleed,3,True,generation_birth
+2243,proud,drummer,DISTRESSED,full bleed,2,True,generation_birth
+2244,nostalgic,classical musician,line art,centered stack,4,True,generation_birth
+2245,Proud,Guitarist,retro,scattered,4,True,generation_birth
+2246,Chill,DRUMMER,bold graphic,scattered,3,True,generation_birth
+2247,proud,saxophonist,bold graphic,scattered,4,False,generation_birth
+2248,proud,country fan,watercolor,full bleed,3,False,generation_birth
+2249,FUNNY,country_fan,bold graphic,centered stack,4,False,generation_birth
+2250,chill,metalhead,Line Art,centered stack,3,False,generation_birth
+2251,funny,country_fan,distressed,centered stack,5,True,generation_birth
+2252,Funny,guitarist,vintage,centered stack,5,False,generation_birth
+2253,Rebellious,country fan,VINTAGE,full bleed,2,False,generation_birth
+2254,proud,drummer,RETRO,scattered,4,False,generation_birth
+2255,proud,metalhead,VINTAGE,centered stack,3,True,generation_birth
+2256,nostalgic,Vinyl Collector,Watercolor,full bleed,4,True,generation_birth
+2257,proud,classical musician,vintage,scattered,2,False,generation_birth
+2258,funny,PRODUCER,distressed,scattered,4,False,generation_birth
+2259,rebellious,producer,retro,scattered,4,True,generation_birth
+2260,funny,country_fan,line art,badge,6,True,generation_birth
+2261,funny,GUITARIST,vintage,scattered,5,True,generation_birth
+2262,proud,guitarist,vintage,badge,2,True,generation_birth
+2263,Nostalgic,metalhead,Bold Graphic,scattered,2,False,generation_birth
+2264,nostalgic,producer,vintage,scattered,2,True,generation_birth
+2265,chill,CLASSICAL MUSICIAN,watercolor,badge,4,True,generation_birth
+2266,funny,guitarist,watercolor,badge,3,False,generation_birth
+2267,Rebellious,vinyl collector,distressed,scattered,6,False,generation_birth
+2268,proud,saxophonist,distressed,centered stack,5,True,generation_birth
+2269,Rebellious,Producer,distressed,scattered,3,True,generation_birth
+2270,funny,DRUMMER,Watercolor,scattered,6,True,generation_birth
+2271,funny,guitarist,vintage,badge,3,False,generation_birth
+2272,Nostalgic,saxophonist,line art,scattered,3,False,generation_birth
+2273,nostalgic,Metalhead,retro,full bleed,6,True,generation_birth
+2274,proud,guitarist,distressed,scattered,1,True,generation_birth
+2275,funny,CLASSICAL MUSICIAN,line art,badge,3,True,generation_birth
+2276,PROUD,SAXOPHONIST,BOLD GRAPHIC,full bleed,6,True,generation_birth
+2277,nostalgic,drummer,line art,badge,6,False,generation_birth
+2278,proud,guitarist,Line Art,centered stack,4,True,generation_birth
+2279,chill,classical musician,distressed,centered stack,4,True,generation_birth
+2280,proud,drummer,distressed,centered stack,4,True,generation_birth
+2281,nostalgic,Metalhead,bold graphic,centered stack,6,True,generation_birth
+2282,proud,metalhead,distressed,scattered,4,False,generation_birth
+2283,FUNNY,SAXOPHONIST,vintage,badge,3,True,generation_birth
+2284,NOSTALGIC,saxophonist,bold graphic,scattered,2,True,generation_birth
+2285,funny,metalhead,line art,badge,3,True,generation_birth
+2286,proud,COUNTRY FAN,VINTAGE,badge,6,False,generation_birth
+2287,nostalgic,producer,WATERCOLOR,badge,3,True,generation_birth
+2288,funny,drummer,retro,scattered,5,True,generation_birth
+2289,REBELLIOUS,metalhead,retro,centered stack,4,False,generation_birth
+2290,proud,METALHEAD,distressed,centered stack,1,True,generation_birth
+2291,funny,drummer,line art,centered stack,3,True,generation_birth
+2292,chill,producer,vintage,badge,1,True,generation_birth
+2293,funny,Metalhead,Vintage,scattered,3,True,generation_birth
+2294,rebellious,PRODUCER,watercolor,badge,6,False,generation_birth
+2295,proud,drummer,BOLD GRAPHIC,badge,3,False,generation_birth
+2296,chill,vinyl collector,watercolor,badge,2,False,generation_birth
+2297,proud,drummer,distressed,centered stack,2,True,generation_birth
+2298,proud,drummer,watercolor,scattered,3,True,generation_birth
+2299,rebellious,Classical Musician,DISTRESSED,centered stack,4,True,generation_birth
+2300,proud,producer,retro,badge,4,True,generation_birth
+2301,nostalgic,SAXOPHONIST,retro,scattered,3,True,generation_birth
+2302,PROUD,guitarist,bold graphic,full bleed,5,True,generation_birth
+2303,rebellious,metalhead,line art,centered stack,5,True,generation_birth
+2304,funny,SAXOPHONIST,bold graphic,full bleed,3,True,generation_birth
+2305,chill,SAXOPHONIST,watercolor,badge,3,True,generation_birth
+2306,Rebellious,guitarist,distressed,full bleed,2,True,generation_birth
+2307,rebellious,saxophonist,watercolor,scattered,2,True,generation_birth
+2308,REBELLIOUS,Drummer,bold graphic,scattered,5,True,generation_birth
+2309,chill,saxophonist,Retro,full bleed,2,True,generation_birth
+2310,CHILL,classical musician,vintage,badge,2,True,generation_birth
+2311,Chill,producer,distressed,full bleed,3,True,generation_birth
+2312,funny,Classical Musician,watercolor,badge,6,True,generation_birth
+2313,chill,vinyl collector,bold graphic,full bleed,5,False,generation_birth
+2314,rebellious,Producer,vintage,full bleed,5,False,generation_birth
+2315,REBELLIOUS,guitarist,retro,badge,3,False,generation_birth
+2316,REBELLIOUS,guitarist,Line Art,centered stack,2,True,generation_birth
+2317,rebellious,country fan,bold graphic,centered stack,3,True,generation_birth
+2318,Chill,DRUMMER,vintage,full bleed,5,True,generation_birth
+2319,rebellious,saxophonist,distressed,centered stack,3,True,generation_birth
+2320,proud,producer,vintage,centered stack,2,True,generation_birth
+2321,nostalgic,Producer,watercolor,full bleed,2,True,generation_birth
+2322,Funny,guitarist,WATERCOLOR,badge,2,True,generation_birth
+2323,rebellious,Producer,watercolor,full bleed,4,True,generation_birth
+2324,chill,guitarist,BOLD GRAPHIC,full bleed,3,False,generation_birth
+2325,nostalgic,producer,LINE ART,full bleed,2,False,generation_birth
+2326,funny,country fan,line art,full bleed,3,False,generation_birth
+2327,Rebellious,classical musician,retro,scattered,2,True,generation_birth
+2328,rebellious,DRUMMER,watercolor,badge,4,True,generation_birth
+2329,rebellious,country fan,Line Art,badge,6,True,generation_birth
+2330,nostalgic,saxophonist,watercolor,centered stack,2,True,generation_birth
+2331,proud,SAXOPHONIST,vintage,full bleed,3,True,generation_birth
+2332,rebellious,saxophonist,LINE ART,badge,3,True,generation_birth
+2333,nostalgic,classical musician,RETRO,badge,6,False,generation_birth
+2334,funny,Drummer,line art,centered stack,6,False,generation_birth
+2335,FUNNY,CLASSICAL MUSICIAN,Line Art,scattered,4,True,generation_birth
+2336,nostalgic,metalhead,distressed,full bleed,4,False,generation_birth
+2337,Proud,metalhead,Distressed,scattered,5,True,generation_birth
+2338,chill,vinyl collector,distressed,centered stack,1,False,generation_birth
+2339,chill,Producer,distressed,scattered,3,False,generation_birth
+2340,proud,guitarist,retro,centered stack,4,True,generation_birth
+2341,proud,SAXOPHONIST,line art,full bleed,3,True,generation_birth
+2342,REBELLIOUS,country fan,RETRO,badge,6,False,generation_birth
+2343,Chill,VINYL COLLECTOR,vintage,scattered,5,True,generation_birth
+2344,chill,producer,line art,full bleed,4,True,generation_birth
+2345,CHILL,Country Fan,bold_graphic,full bleed,4,False,generation_birth
+2346,rebellious,Metalhead,bold graphic,centered stack,4,True,generation_birth
+2347,rebellious,country fan,retro,full bleed,3,True,generation_birth
+2348,rebellious,guitarist,watercolor,full bleed,1,True,generation_birth
+2349,chill,metalhead,bold graphic,centered stack,4,False,generation_birth
+2350,CHILL,country fan,line art,centered stack,6,True,generation_birth
+2351,chill,country fan,distressed,badge,2,True,generation_birth
+2352,proud,country fan,bold graphic,scattered,3,False,generation_birth
+2353,proud,drummer,watercolor,centered stack,5,True,generation_birth
+2354,funny,classical musician,Vintage,centered stack,3,True,generation_birth
+2355,proud,saxophonist,line_art,full bleed,3,True,generation_birth
+2356,nostalgic,metalhead,line art,scattered,2,False,generation_birth
+2357,proud,vinyl collector,RETRO,full bleed,5,True,generation_birth
+2358,proud,saxophonist,BOLD GRAPHIC,centered stack,3,True,generation_birth
+2359,funny,vinyl collector,retro,scattered,5,True,generation_birth
+2360,PROUD,Metalhead,BOLD GRAPHIC,full bleed,3,True,generation_birth
+2361,funny,drummer,line art,full bleed,5,True,generation_birth
+2362,Nostalgic,Vinyl Collector,watercolor,scattered,1,True,generation_birth
+2363,nostalgic,classical musician,retro,centered stack,1,False,generation_birth
+2364,proud,CLASSICAL MUSICIAN,Bold Graphic,full bleed,6,True,generation_birth
+2365,chill,metalhead,WATERCOLOR,scattered,4,True,generation_birth
+2366,chill,GUITARIST,BOLD GRAPHIC,badge,6,True,generation_birth
+2367,rebellious,guitarist,vintage,scattered,3,True,generation_birth
+2368,funny,classical musician,bold graphic,centered stack,4,False,generation_birth
+2369,chill,Vinyl Collector,watercolor,full bleed,2,True,generation_birth
+2370,Chill,saxophonist,Line Art,full bleed,4,True,generation_birth
+2371,funny,metalhead,DISTRESSED,scattered,4,True,generation_birth
+2372,CHILL,producer,bold_graphic,scattered,3,True,generation_birth
+2373,funny,country_fan,bold graphic,badge,2,True,generation_birth
+2374,Proud,saxophonist,watercolor,scattered,4,True,generation_birth
+2375,NOSTALGIC,metalhead,distressed,full bleed,4,True,generation_birth
+2376,CHILL,COUNTRY FAN,retro,badge,6,True,generation_birth
+2377,REBELLIOUS,Drummer,bold graphic,badge,2,False,generation_birth
+2378,proud,producer,BOLD GRAPHIC,full bleed,3,True,generation_birth
+2379,REBELLIOUS,producer,bold graphic,centered stack,6,True,generation_birth
+2380,funny,classical_musician,vintage,centered stack,4,True,generation_birth
+2381,funny,VINYL COLLECTOR,vintage,badge,3,True,generation_birth
+2382,REBELLIOUS,drummer,watercolor,badge,2,True,generation_birth
+2383,nostalgic,CLASSICAL MUSICIAN,WATERCOLOR,centered stack,3,True,generation_birth
+2384,CHILL,vinyl collector,vintage,badge,2,True,generation_birth
+2385,proud,Producer,LINE ART,badge,5,False,generation_birth
+2386,Proud,Saxophonist,bold graphic,centered stack,4,False,generation_birth
+2387,Funny,COUNTRY FAN,watercolor,full bleed,1,True,generation_birth
+2388,PROUD,vinyl collector,bold graphic,badge,2,False,generation_birth
+2389,proud,drummer,distressed,scattered,5,True,generation_birth
+2390,chill,VINYL COLLECTOR,WATERCOLOR,scattered,3,True,generation_birth
+2391,rebellious,Country Fan,retro,badge,2,True,generation_birth
+2392,chill,DRUMMER,line_art,scattered,3,True,generation_birth
+2393,chill,classical musician,line art,badge,2,True,generation_birth
+2394,proud,classical_musician,WATERCOLOR,badge,3,True,generation_birth
+2395,Chill,PRODUCER,line art,full bleed,3,True,generation_birth
+2396,FUNNY,guitarist,Bold Graphic,full bleed,3,True,generation_birth
+2397,REBELLIOUS,vinyl collector,Watercolor,badge,4,True,generation_birth
+2398,chill,Producer,DISTRESSED,scattered,5,False,generation_birth
+2399,FUNNY,drummer,DISTRESSED,badge,4,True,generation_birth
+2400,FUNNY,METALHEAD,vintage,badge,1,True,generation_birth
+2401,Proud,Guitarist,RETRO,scattered,2,False,generation_birth
+2402,Rebellious,guitarist,VINTAGE,full bleed,1,True,generation_birth
+2403,rebellious,metalhead,retro,centered stack,2,True,generation_birth
+2404,funny,country fan,watercolor,full bleed,3,False,generation_birth
+2405,funny,drummer,bold_graphic,scattered,3,True,generation_birth
+2406,rebellious,Country Fan,bold graphic,full bleed,3,True,generation_birth
+2407,proud,saxophonist,distressed,scattered,4,True,generation_birth
+2408,chill,producer,watercolor,scattered,5,True,generation_birth
+2409,Proud,guitarist,BOLD GRAPHIC,badge,1,True,generation_birth
+2410,nostalgic,producer,DISTRESSED,scattered,5,True,generation_birth
+2411,funny,classical musician,Vintage,centered stack,1,True,generation_birth
+2412,nostalgic,Metalhead,watercolor,centered stack,6,True,generation_birth
+2413,proud,guitarist,distressed,scattered,5,True,generation_birth
+2414,nostalgic,producer,vintage,scattered,3,False,generation_birth
+2415,nostalgic,guitarist,retro,scattered,3,True,generation_birth
+2416,Proud,metalhead,distressed,full bleed,2,True,generation_birth
+2417,proud,DRUMMER,line_art,centered stack,3,False,generation_birth
+2418,Funny,saxophonist,retro,centered stack,5,True,generation_birth
+2419,Chill,Producer,bold graphic,full bleed,5,False,generation_birth
+2420,rebellious,metalhead,vintage,centered stack,4,True,generation_birth
+2421,nostalgic,country fan,watercolor,scattered,5,True,generation_birth
+2422,Rebellious,guitarist,distressed,scattered,4,False,generation_birth
+2423,proud,SAXOPHONIST,retro,centered stack,2,True,generation_birth
+2424,proud,classical musician,line art,scattered,2,True,generation_birth
+2425,funny,saxophonist,Line Art,badge,1,False,generation_birth
+2426,chill,country fan,distressed,centered stack,5,False,generation_birth
+2427,proud,saxophonist,Distressed,scattered,3,False,generation_birth
+2428,PROUD,Drummer,watercolor,scattered,6,False,generation_birth
+2429,proud,classical_musician,vintage,badge,2,True,generation_birth
+2430,chill,vinyl collector,Line Art,scattered,3,False,generation_birth
+2431,funny,guitarist,line art,full bleed,3,True,generation_birth
+2432,funny,COUNTRY FAN,retro,centered stack,4,True,generation_birth
+2433,NOSTALGIC,classical musician,bold graphic,scattered,4,True,generation_birth
+2434,chill,saxophonist,retro,scattered,3,True,generation_birth
+2435,proud,guitarist,VINTAGE,full bleed,6,True,generation_birth
+2436,proud,country fan,WATERCOLOR,scattered,3,True,generation_birth
+2437,Proud,classical musician,distressed,badge,2,True,generation_birth
+2438,Rebellious,drummer,vintage,full bleed,4,True,generation_birth
+2439,chill,guitarist,retro,scattered,4,True,generation_birth
+2440,rebellious,classical musician,VINTAGE,centered stack,3,False,generation_birth
+2441,nostalgic,country fan,distressed,full bleed,6,True,generation_birth
+2442,proud,classical musician,distressed,scattered,3,True,generation_birth
+2443,nostalgic,drummer,watercolor,centered stack,4,True,generation_birth
+2444,nostalgic,country fan,watercolor,badge,5,True,generation_birth
+2445,nostalgic,Classical Musician,line_art,full bleed,6,False,generation_birth
+2446,nostalgic,country fan,watercolor,badge,3,False,generation_birth
+2447,chill,VINYL COLLECTOR,distressed,centered stack,6,True,generation_birth
+2448,nostalgic,drummer,retro,scattered,1,True,generation_birth
+2449,funny,metalhead,retro,centered stack,3,True,generation_birth
+2450,funny,guitarist,Distressed,full bleed,5,False,generation_birth
+2451,chill,METALHEAD,retro,badge,3,True,generation_birth
+2452,CHILL,producer,VINTAGE,full bleed,6,True,generation_birth
+2453,chill,producer,Bold Graphic,scattered,5,True,generation_birth
+2454,Funny,saxophonist,line_art,centered stack,2,True,generation_birth
+2455,proud,producer,distressed,scattered,6,True,generation_birth
+2456,proud,saxophonist,distressed,scattered,4,False,generation_birth
+2457,rebellious,guitarist,line art,scattered,1,True,generation_birth
+2458,rebellious,drummer,bold graphic,scattered,4,True,generation_birth
+2459,NOSTALGIC,drummer,RETRO,full bleed,4,False,generation_birth
+2460,funny,metalhead,line art,scattered,4,True,generation_birth
+2461,proud,Vinyl Collector,bold graphic,full bleed,2,True,generation_birth
+2462,funny,CLASSICAL MUSICIAN,BOLD GRAPHIC,full bleed,3,True,generation_birth
+2463,Chill,VINYL COLLECTOR,distressed,centered stack,5,True,generation_birth
+2464,Rebellious,CLASSICAL MUSICIAN,Retro,scattered,5,False,generation_birth
+2465,funny,classical musician,Line Art,full bleed,3,True,generation_birth
+2466,chill,vinyl collector,WATERCOLOR,scattered,4,True,generation_birth
+2467,funny,metalhead,VINTAGE,scattered,4,False,generation_birth
+2468,proud,COUNTRY FAN,watercolor,full bleed,3,True,generation_birth
+2469,nostalgic,drummer,vintage,scattered,2,False,generation_birth
+2470,chill,SAXOPHONIST,vintage,centered stack,5,True,generation_birth
+2471,chill,saxophonist,bold graphic,scattered,1,False,generation_birth
+2472,chill,guitarist,vintage,full bleed,4,False,generation_birth
+2473,rebellious,classical musician,retro,scattered,4,False,generation_birth
+2474,Nostalgic,metalhead,RETRO,full bleed,6,True,generation_birth
+2475,nostalgic,saxophonist,line art,badge,1,True,generation_birth
+2476,nostalgic,Drummer,Retro,centered stack,2,True,generation_birth
+2477,chill,Guitarist,watercolor,scattered,3,False,generation_birth
+2478,nostalgic,saxophonist,retro,centered stack,4,True,generation_birth
+2479,FUNNY,metalhead,bold graphic,full bleed,5,False,generation_birth
+2480,NOSTALGIC,classical musician,Watercolor,scattered,2,False,generation_birth
+2481,rebellious,metalhead,retro,badge,5,False,generation_birth
+2482,rebellious,country fan,DISTRESSED,badge,4,True,generation_birth
+2483,chill,drummer,bold graphic,scattered,1,True,generation_birth
+2484,Chill,country_fan,BOLD GRAPHIC,full bleed,6,True,generation_birth
+2485,funny,vinyl collector,watercolor,scattered,3,False,generation_birth
+2486,nostalgic,classical musician,watercolor,centered stack,2,True,generation_birth
+2487,chill,saxophonist,bold graphic,badge,6,True,generation_birth
+2488,chill,CLASSICAL MUSICIAN,bold_graphic,full bleed,2,True,generation_birth
+2489,rebellious,producer,RETRO,badge,2,False,generation_birth
+2490,chill,Vinyl Collector,line art,scattered,4,True,generation_birth
+2491,rebellious,guitarist,vintage,scattered,5,True,generation_birth
+2492,rebellious,COUNTRY FAN,distressed,scattered,4,True,generation_birth
+2493,proud,Producer,bold graphic,scattered,5,True,generation_birth
+2494,nostalgic,DRUMMER,watercolor,centered stack,6,True,generation_birth
+2495,rebellious,country fan,bold graphic,badge,3,True,generation_birth
+2496,rebellious,vinyl collector,vintage,full bleed,1,False,generation_birth
+2497,Chill,Producer,retro,badge,4,True,generation_birth
+2498,rebellious,metalhead,Vintage,centered stack,5,False,generation_birth
+2499,REBELLIOUS,producer,WATERCOLOR,badge,3,False,generation_birth
+2500,Funny,guitarist,Line Art,scattered,4,True,generation_birth
+2501,rebellious,country fan,vintage,badge,6,True,generation_birth
+2502,CHILL,producer,watercolor,badge,4,True,generation_birth
+2503,funny,country fan,vintage,full bleed,3,False,generation_birth
+2504,chill,vinyl collector,Retro,centered stack,5,True,generation_birth
+2505,chill,classical musician,VINTAGE,centered stack,6,False,generation_birth
+2506,Rebellious,PRODUCER,retro,full bleed,2,True,generation_birth
+2507,Nostalgic,PRODUCER,distressed,full bleed,2,True,generation_birth
+2508,rebellious,producer,LINE ART,badge,3,False,generation_birth
+2509,chill,saxophonist,vintage,scattered,5,False,generation_birth
+2510,NOSTALGIC,classical_musician,Vintage,centered stack,2,True,generation_birth
+2511,rebellious,country_fan,bold graphic,centered stack,4,True,generation_birth
+2512,Proud,saxophonist,bold graphic,badge,4,False,generation_birth
+2513,rebellious,METALHEAD,Vintage,full bleed,3,False,generation_birth
+2514,PROUD,producer,vintage,scattered,2,True,generation_birth
+2515,PROUD,Saxophonist,bold graphic,badge,3,True,generation_birth
+2516,nostalgic,drummer,Retro,scattered,3,True,generation_birth
+2517,nostalgic,classical musician,distressed,full bleed,5,True,generation_birth
+2518,chill,metalhead,bold graphic,scattered,3,True,generation_birth
+2519,nostalgic,country fan,bold graphic,scattered,3,True,generation_birth
+2520,rebellious,GUITARIST,vintage,centered stack,4,True,generation_birth
+2521,rebellious,COUNTRY FAN,bold graphic,scattered,4,True,generation_birth
+2522,CHILL,guitarist,line_art,centered stack,3,False,generation_birth
+2523,proud,Guitarist,distressed,badge,5,False,generation_birth
+2524,chill,producer,retro,full bleed,3,True,generation_birth
+2525,nostalgic,saxophonist,vintage,centered stack,3,True,generation_birth
+2526,chill,drummer,Bold Graphic,badge,4,False,generation_birth
+2527,proud,drummer,Line Art,full bleed,5,True,generation_birth
+2528,proud,classical musician,bold_graphic,scattered,2,True,generation_birth
+2529,chill,guitarist,LINE ART,centered stack,4,True,generation_birth
+2530,PROUD,classical musician,BOLD GRAPHIC,full bleed,2,True,generation_birth
+2531,funny,metalhead,LINE ART,scattered,3,True,generation_birth
+2532,rebellious,drummer,retro,full bleed,4,True,generation_birth
+2533,rebellious,vinyl collector,vintage,full bleed,3,False,generation_birth
+2534,funny,Classical Musician,VINTAGE,scattered,4,True,generation_birth
+2535,rebellious,country fan,retro,centered stack,5,False,generation_birth
+2536,funny,drummer,watercolor,full bleed,4,True,generation_birth
+2537,Proud,metalhead,watercolor,badge,5,False,generation_birth
+2538,nostalgic,metalhead,distressed,centered stack,4,True,generation_birth
+2539,nostalgic,Vinyl Collector,retro,badge,5,False,generation_birth
+2540,chill,metalhead,vintage,badge,5,False,generation_birth
+2541,funny,CLASSICAL MUSICIAN,Distressed,full bleed,3,False,generation_birth
+2542,chill,producer,line art,centered stack,3,True,generation_birth
+2543,funny,saxophonist,watercolor,centered stack,3,True,generation_birth
+2544,nostalgic,Vinyl Collector,LINE ART,badge,6,False,generation_birth
+2545,funny,drummer,LINE ART,full bleed,4,False,generation_birth
+2546,NOSTALGIC,GUITARIST,Retro,scattered,6,True,generation_birth
+2547,nostalgic,metalhead,distressed,centered stack,6,False,generation_birth
+2548,Rebellious,country fan,BOLD GRAPHIC,badge,5,True,generation_birth
+2549,rebellious,producer,distressed,centered stack,4,False,generation_birth
+2550,funny,classical musician,line art,full bleed,1,True,generation_birth
+2551,rebellious,Drummer,distressed,badge,5,True,generation_birth
+2552,proud,saxophonist,watercolor,full bleed,3,False,generation_birth
+2553,Proud,Classical Musician,bold_graphic,centered stack,2,True,generation_birth
+2554,REBELLIOUS,drummer,LINE ART,full bleed,3,True,generation_birth
+2555,nostalgic,Guitarist,retro,scattered,3,True,generation_birth
+2556,FUNNY,DRUMMER,watercolor,centered stack,5,True,generation_birth
+2557,FUNNY,metalhead,LINE ART,badge,4,False,generation_birth
+2558,Nostalgic,CLASSICAL MUSICIAN,bold graphic,full bleed,2,True,generation_birth
+2559,chill,metalhead,Bold Graphic,full bleed,2,True,generation_birth
+2560,nostalgic,drummer,line art,full bleed,5,False,generation_birth
+2561,Proud,producer,distressed,centered stack,2,True,generation_birth
+2562,nostalgic,metalhead,watercolor,centered stack,3,True,generation_birth
+2563,rebellious,COUNTRY FAN,watercolor,scattered,2,True,generation_birth
+2564,FUNNY,saxophonist,LINE ART,badge,2,False,generation_birth
+2565,REBELLIOUS,classical musician,distressed,full bleed,3,False,generation_birth
+2566,CHILL,COUNTRY FAN,Vintage,full bleed,2,True,generation_birth
+2567,nostalgic,guitarist,vintage,scattered,2,False,generation_birth
+2568,REBELLIOUS,DRUMMER,Distressed,scattered,2,False,generation_birth
+2569,chill,country fan,vintage,centered stack,6,True,generation_birth
+2570,proud,guitarist,retro,badge,2,True,generation_birth
+2571,chill,classical_musician,LINE ART,scattered,4,False,generation_birth
+2572,CHILL,saxophonist,Watercolor,scattered,6,True,generation_birth
+2573,REBELLIOUS,vinyl collector,WATERCOLOR,centered stack,4,True,generation_birth
+2574,funny,drummer,DISTRESSED,badge,2,False,generation_birth
+2575,CHILL,drummer,line art,full bleed,3,True,generation_birth
+2576,proud,saxophonist,bold graphic,full bleed,3,False,generation_birth
+2577,REBELLIOUS,Classical Musician,DISTRESSED,badge,1,True,generation_birth
+2578,rebellious,VINYL COLLECTOR,vintage,scattered,6,False,generation_birth
+2579,REBELLIOUS,SAXOPHONIST,vintage,scattered,4,True,generation_birth
+2580,Nostalgic,country_fan,Line Art,full bleed,4,True,generation_birth
+2581,chill,saxophonist,line art,scattered,2,True,generation_birth
+2582,CHILL,producer,WATERCOLOR,scattered,1,True,generation_birth
+2583,PROUD,drummer,distressed,centered stack,3,False,generation_birth
+2584,funny,drummer,bold graphic,badge,4,True,generation_birth
+2585,rebellious,classical musician,watercolor,badge,3,False,generation_birth
+2586,nostalgic,GUITARIST,line art,scattered,6,True,generation_birth
+2587,proud,country fan,retro,centered stack,6,True,generation_birth
+2588,NOSTALGIC,Producer,line art,full bleed,6,False,generation_birth
+2589,rebellious,SAXOPHONIST,vintage,full bleed,1,False,generation_birth
+2590,chill,producer,retro,full bleed,4,True,generation_birth
+2591,funny,classical_musician,bold_graphic,badge,4,True,generation_birth
+2592,nostalgic,Drummer,line art,centered stack,6,True,generation_birth
+2593,rebellious,CLASSICAL MUSICIAN,retro,centered stack,4,True,generation_birth
+2594,chill,Saxophonist,distressed,badge,2,True,generation_birth
+2595,PROUD,COUNTRY FAN,vintage,centered stack,5,True,generation_birth
+2596,nostalgic,guitarist,retro,full bleed,1,True,generation_birth
+2597,proud,VINYL COLLECTOR,watercolor,full bleed,3,True,generation_birth
+2598,rebellious,drummer,distressed,centered stack,2,False,generation_birth
+2599,chill,saxophonist,watercolor,badge,5,True,generation_birth
+2600,rebellious,drummer,bold graphic,full bleed,3,True,generation_birth
+2601,FUNNY,producer,Retro,full bleed,3,True,generation_birth
+2602,proud,classical musician,Bold Graphic,full bleed,2,True,generation_birth
+2603,Funny,classical_musician,Retro,badge,5,True,generation_birth
+2604,Funny,PRODUCER,retro,badge,2,False,generation_birth
+2605,funny,CLASSICAL MUSICIAN,WATERCOLOR,scattered,2,True,generation_birth
+2606,nostalgic,vinyl collector,retro,badge,4,False,generation_birth
+2607,funny,country fan,Retro,scattered,3,True,generation_birth
+2608,FUNNY,classical musician,bold graphic,centered stack,4,True,generation_birth
+2609,rebellious,guitarist,vintage,full bleed,2,True,generation_birth
+2610,chill,vinyl collector,Vintage,scattered,2,True,generation_birth
+2611,rebellious,country fan,bold graphic,scattered,4,False,generation_birth
+2612,chill,metalhead,watercolor,full bleed,4,False,generation_birth
+2613,proud,saxophonist,bold graphic,full bleed,3,True,generation_birth
+2614,funny,saxophonist,watercolor,centered stack,5,False,generation_birth
+2615,REBELLIOUS,guitarist,DISTRESSED,full bleed,2,True,generation_birth
+2616,chill,Producer,RETRO,badge,6,True,generation_birth
+2617,proud,drummer,WATERCOLOR,scattered,1,True,generation_birth
+2618,REBELLIOUS,country fan,distressed,centered stack,3,True,generation_birth
+2619,chill,CLASSICAL MUSICIAN,line art,centered stack,4,True,generation_birth
+2620,Nostalgic,GUITARIST,distressed,full bleed,2,True,generation_birth
+2621,nostalgic,Saxophonist,VINTAGE,scattered,3,True,generation_birth
+2622,nostalgic,metalhead,DISTRESSED,centered stack,5,True,generation_birth
+2623,chill,saxophonist,vintage,badge,2,True,generation_birth
+2624,funny,classical musician,retro,badge,3,True,generation_birth
+2625,funny,drummer,BOLD GRAPHIC,badge,2,False,generation_birth
+2626,rebellious,Drummer,bold_graphic,full bleed,4,True,generation_birth
+2627,Proud,VINYL COLLECTOR,retro,centered stack,5,True,generation_birth
+2628,proud,CLASSICAL MUSICIAN,VINTAGE,centered stack,4,True,generation_birth
+2629,NOSTALGIC,saxophonist,DISTRESSED,centered stack,4,True,generation_birth
+2630,proud,vinyl collector,RETRO,badge,4,False,generation_birth
+2631,chill,producer,RETRO,scattered,6,True,generation_birth
+2632,chill,country fan,line art,scattered,2,True,generation_birth
+2633,funny,guitarist,distressed,centered stack,1,False,generation_birth
+2634,REBELLIOUS,METALHEAD,Vintage,centered stack,4,False,generation_birth
+2635,proud,saxophonist,distressed,full bleed,5,True,generation_birth
+2636,funny,metalhead,Distressed,centered stack,5,True,generation_birth
+2637,chill,vinyl collector,distressed,badge,2,True,generation_birth
+2638,rebellious,SAXOPHONIST,Distressed,scattered,3,True,generation_birth
+2639,rebellious,drummer,BOLD GRAPHIC,scattered,4,True,generation_birth
+2640,proud,vinyl collector,VINTAGE,badge,1,False,generation_birth
+2641,FUNNY,Saxophonist,vintage,full bleed,3,True,generation_birth
+2642,Nostalgic,classical_musician,line art,badge,4,True,generation_birth
+2643,FUNNY,drummer,distressed,full bleed,3,False,generation_birth
+2644,funny,VINYL COLLECTOR,bold graphic,scattered,6,True,generation_birth
+2645,chill,classical musician,Distressed,scattered,3,False,generation_birth
+2646,chill,SAXOPHONIST,WATERCOLOR,scattered,3,True,generation_birth
+2647,proud,CLASSICAL MUSICIAN,bold graphic,centered stack,6,True,generation_birth
+2648,chill,classical musician,bold graphic,badge,3,True,generation_birth
+2649,proud,metalhead,line art,centered stack,6,True,generation_birth
+2650,proud,Guitarist,watercolor,badge,4,False,generation_birth
+2651,rebellious,drummer,watercolor,scattered,2,True,generation_birth
+2652,rebellious,saxophonist,retro,full bleed,6,True,generation_birth
+2653,CHILL,producer,line art,scattered,4,True,generation_birth
+2654,rebellious,country fan,watercolor,badge,2,False,generation_birth
+2655,chill,PRODUCER,Retro,centered stack,3,True,generation_birth
+2656,Rebellious,guitarist,line_art,full bleed,1,True,generation_birth
+2657,proud,classical musician,watercolor,scattered,6,True,generation_birth
+2658,chill,METALHEAD,Retro,scattered,3,True,generation_birth
+2659,Chill,Producer,RETRO,badge,2,True,generation_birth
+2660,proud,producer,vintage,scattered,3,True,generation_birth
+2661,Proud,GUITARIST,retro,centered stack,4,True,generation_birth
+2662,FUNNY,metalhead,distressed,full bleed,5,True,generation_birth
+2663,Nostalgic,saxophonist,LINE ART,full bleed,4,True,generation_birth
+2664,Chill,classical musician,distressed,centered stack,4,True,generation_birth
+2665,Rebellious,metalhead,line art,badge,2,False,generation_birth
+2666,chill,producer,Bold Graphic,scattered,3,True,generation_birth
+2667,chill,METALHEAD,Watercolor,full bleed,2,True,generation_birth
+2668,proud,producer,Retro,full bleed,1,True,generation_birth
+2669,FUNNY,PRODUCER,distressed,centered stack,3,True,generation_birth
+2670,funny,metalhead,bold graphic,full bleed,4,True,generation_birth
+2671,chill,Guitarist,Line Art,scattered,3,True,generation_birth
+2672,nostalgic,metalhead,VINTAGE,scattered,4,False,generation_birth
+2673,chill,country fan,LINE ART,centered stack,4,True,generation_birth
+2674,chill,producer,line art,scattered,6,True,generation_birth
+2675,proud,country fan,bold graphic,scattered,4,True,generation_birth
+2676,chill,Producer,Vintage,badge,6,False,generation_birth
+2677,rebellious,Guitarist,BOLD GRAPHIC,scattered,3,True,generation_birth
+2678,nostalgic,classical musician,RETRO,full bleed,1,True,generation_birth
+2679,rebellious,producer,retro,badge,4,True,generation_birth
+2680,funny,Guitarist,retro,centered stack,5,False,generation_birth
+2681,proud,classical musician,bold_graphic,centered stack,2,False,generation_birth
+2682,FUNNY,drummer,LINE ART,centered stack,3,False,generation_birth
+2683,funny,producer,retro,badge,6,True,generation_birth
+2684,chill,CLASSICAL MUSICIAN,Distressed,scattered,3,True,generation_birth
+2685,rebellious,guitarist,vintage,scattered,3,True,generation_birth
+2686,nostalgic,saxophonist,RETRO,scattered,2,True,generation_birth
+2687,proud,drummer,watercolor,scattered,4,False,generation_birth
+2688,proud,Metalhead,bold graphic,badge,6,True,generation_birth
+2689,chill,country fan,distressed,badge,3,False,generation_birth
+2690,proud,VINYL COLLECTOR,DISTRESSED,centered stack,2,True,generation_birth
+2691,chill,producer,Vintage,centered stack,3,True,generation_birth
+2692,rebellious,VINYL COLLECTOR,retro,badge,5,True,generation_birth
+2693,Nostalgic,drummer,vintage,badge,5,True,generation_birth
+2694,Nostalgic,producer,bold graphic,centered stack,6,True,generation_birth
+2695,chill,Classical Musician,Line Art,full bleed,4,True,generation_birth
+2696,nostalgic,classical_musician,bold graphic,scattered,4,True,generation_birth
+2697,chill,guitarist,bold graphic,badge,2,True,generation_birth
+2698,funny,saxophonist,RETRO,centered stack,2,True,generation_birth
+2699,nostalgic,producer,retro,badge,3,True,generation_birth
+2700,proud,classical musician,Retro,badge,3,False,generation_birth
+2701,Rebellious,guitarist,Watercolor,badge,4,True,generation_birth
+2702,Proud,Metalhead,Line Art,badge,5,True,generation_birth
+2703,funny,GUITARIST,BOLD GRAPHIC,scattered,1,True,generation_birth
+2704,rebellious,producer,retro,centered stack,4,True,generation_birth
+2705,chill,drummer,bold graphic,full bleed,3,False,generation_birth
+2706,PROUD,saxophonist,line art,full bleed,4,True,generation_birth
+2707,funny,guitarist,bold graphic,scattered,2,True,generation_birth
+2708,funny,guitarist,vintage,full bleed,4,True,generation_birth
+2709,NOSTALGIC,vinyl collector,watercolor,scattered,3,False,generation_birth
+2710,FUNNY,saxophonist,WATERCOLOR,full bleed,5,True,generation_birth
+2711,rebellious,drummer,distressed,scattered,4,True,generation_birth
+2712,funny,CLASSICAL MUSICIAN,DISTRESSED,scattered,3,True,generation_birth
+2713,chill,vinyl collector,retro,centered stack,4,False,generation_birth
+2714,REBELLIOUS,classical musician,watercolor,full bleed,2,True,generation_birth
+2715,rebellious,Vinyl Collector,retro,badge,5,True,generation_birth
+2716,proud,classical musician,vintage,scattered,5,True,generation_birth
+2717,proud,classical musician,Retro,full bleed,3,True,generation_birth
+2718,CHILL,producer,watercolor,scattered,2,False,generation_birth
+2719,funny,producer,vintage,full bleed,6,True,generation_birth
+2720,Rebellious,vinyl collector,vintage,full bleed,3,True,generation_birth
+2721,nostalgic,country fan,retro,centered stack,2,True,generation_birth
+2722,CHILL,guitarist,line art,badge,2,False,generation_birth
+2723,funny,classical musician,Line Art,badge,3,True,generation_birth
+2724,nostalgic,guitarist,line_art,centered stack,2,True,generation_birth
+2725,rebellious,guitarist,bold graphic,full bleed,2,True,generation_birth
+2726,chill,classical musician,LINE ART,badge,2,False,generation_birth
+2727,CHILL,country fan,LINE ART,badge,3,False,generation_birth
+2728,funny,guitarist,distressed,full bleed,4,True,generation_birth
+2729,funny,COUNTRY FAN,Bold Graphic,full bleed,2,True,generation_birth
+2730,Funny,Saxophonist,vintage,badge,3,True,generation_birth
+2731,proud,metalhead,bold graphic,badge,3,True,generation_birth
+2732,nostalgic,vinyl collector,Retro,full bleed,6,True,generation_birth
+2733,proud,VINYL COLLECTOR,watercolor,centered stack,5,True,generation_birth
+2734,rebellious,producer,WATERCOLOR,scattered,4,True,generation_birth
+2735,nostalgic,classical musician,BOLD GRAPHIC,badge,2,True,generation_birth
+2736,funny,classical musician,Distressed,badge,2,True,generation_birth
+2737,Rebellious,Producer,Retro,centered stack,2,True,generation_birth
+2738,rebellious,country_fan,distressed,full bleed,5,False,generation_birth
+2739,funny,saxophonist,Retro,scattered,3,True,generation_birth
+2740,proud,producer,VINTAGE,badge,6,True,generation_birth
+2741,PROUD,guitarist,Watercolor,scattered,3,True,generation_birth
+2742,proud,vinyl collector,vintage,scattered,2,True,generation_birth
+2743,chill,country fan,retro,badge,3,False,generation_birth
+2744,proud,producer,vintage,scattered,3,True,generation_birth
+2745,Chill,metalhead,watercolor,badge,3,True,generation_birth
+2746,Funny,metalhead,DISTRESSED,full bleed,1,True,generation_birth
+2747,Nostalgic,Vinyl Collector,Watercolor,badge,5,False,generation_birth
+2748,proud,GUITARIST,retro,scattered,3,True,generation_birth
+2749,nostalgic,Guitarist,vintage,scattered,3,True,generation_birth
+2750,funny,vinyl_collector,line art,badge,4,False,generation_birth
+2751,nostalgic,saxophonist,retro,centered stack,4,False,generation_birth
+2752,CHILL,drummer,bold_graphic,full bleed,4,True,generation_birth
+2753,proud,producer,distressed,centered stack,4,True,generation_birth
+2754,rebellious,vinyl collector,distressed,scattered,2,True,generation_birth
+2755,nostalgic,guitarist,watercolor,centered stack,4,False,generation_birth
+2756,chill,Metalhead,distressed,full bleed,6,True,generation_birth
+2757,proud,metalhead,distressed,centered stack,3,True,generation_birth
+2758,proud,DRUMMER,bold_graphic,badge,2,True,generation_birth
+2759,NOSTALGIC,country fan,line art,badge,4,False,generation_birth
+2760,proud,vinyl collector,vintage,badge,1,True,generation_birth
+2761,Nostalgic,saxophonist,bold graphic,scattered,2,True,generation_birth
+2762,nostalgic,Producer,watercolor,full bleed,4,True,generation_birth
+2763,rebellious,vinyl collector,line art,centered stack,3,True,generation_birth
+2764,Chill,METALHEAD,line art,badge,2,True,generation_birth
+2765,funny,VINYL COLLECTOR,bold_graphic,full bleed,3,False,generation_birth
+2766,NOSTALGIC,METALHEAD,retro,scattered,3,True,generation_birth
+2767,NOSTALGIC,Country Fan,LINE ART,centered stack,4,False,generation_birth
+2768,funny,drummer,bold graphic,full bleed,3,True,generation_birth
+2769,funny,saxophonist,retro,full bleed,3,False,generation_birth
+2770,proud,COUNTRY FAN,watercolor,centered stack,5,False,generation_birth
+2771,funny,Saxophonist,vintage,centered stack,4,False,generation_birth
+2772,funny,metalhead,bold_graphic,centered stack,1,False,generation_birth
+2773,nostalgic,vinyl collector,retro,badge,6,True,generation_birth
+2774,chill,classical musician,LINE ART,centered stack,2,True,generation_birth
+2775,PROUD,COUNTRY FAN,RETRO,scattered,3,True,generation_birth
+2776,proud,metalhead,retro,badge,4,True,generation_birth
+2777,rebellious,guitarist,distressed,centered stack,6,True,generation_birth
+2778,nostalgic,saxophonist,vintage,scattered,3,True,generation_birth
+2779,funny,metalhead,vintage,centered stack,6,True,generation_birth
+2780,chill,Country Fan,Retro,badge,2,False,generation_birth
+2781,proud,country fan,vintage,full bleed,2,False,generation_birth
+2782,proud,country fan,Line Art,badge,3,True,generation_birth
+2783,FUNNY,PRODUCER,watercolor,badge,4,True,generation_birth
+2784,funny,classical musician,Watercolor,centered stack,5,True,generation_birth
+2785,Chill,classical_musician,WATERCOLOR,badge,6,False,generation_birth
+2786,rebellious,saxophonist,bold_graphic,scattered,2,False,generation_birth
+2787,chill,metalhead,VINTAGE,full bleed,4,True,generation_birth
+2788,nostalgic,Drummer,bold graphic,centered stack,3,True,generation_birth
+2789,funny,country fan,LINE ART,badge,3,True,generation_birth
+2790,Nostalgic,CLASSICAL MUSICIAN,bold graphic,centered stack,4,False,generation_birth
+2791,nostalgic,guitarist,retro,scattered,3,True,generation_birth
+2792,funny,metalhead,retro,badge,6,True,generation_birth
+2793,nostalgic,classical musician,retro,full bleed,3,False,generation_birth
+2794,funny,metalhead,distressed,badge,3,True,generation_birth
+2795,funny,drummer,retro,centered stack,3,True,generation_birth
+2796,FUNNY,saxophonist,vintage,full bleed,6,False,generation_birth
+2797,chill,country fan,Vintage,centered stack,2,True,generation_birth
+2798,nostalgic,country_fan,line art,full bleed,3,True,generation_birth
+2799,REBELLIOUS,Metalhead,bold graphic,centered stack,6,False,generation_birth
+2800,nostalgic,metalhead,retro,full bleed,4,False,generation_birth
+2801,Proud,classical musician,distressed,full bleed,4,True,generation_birth
+2802,nostalgic,SAXOPHONIST,Distressed,centered stack,5,True,generation_birth
+2803,rebellious,country_fan,watercolor,badge,6,True,generation_birth
+2804,nostalgic,country fan,watercolor,centered stack,5,True,generation_birth
+2805,funny,CLASSICAL MUSICIAN,vintage,badge,1,True,generation_birth
+2806,nostalgic,GUITARIST,BOLD GRAPHIC,centered stack,5,True,generation_birth
+2807,nostalgic,Saxophonist,VINTAGE,centered stack,1,False,generation_birth
+2808,FUNNY,SAXOPHONIST,bold graphic,centered stack,3,True,generation_birth
+2809,funny,METALHEAD,LINE ART,full bleed,2,False,generation_birth
+2810,FUNNY,COUNTRY FAN,vintage,centered stack,4,True,generation_birth
+2811,nostalgic,VINYL COLLECTOR,vintage,scattered,4,True,generation_birth
+2812,chill,vinyl_collector,bold graphic,centered stack,6,False,generation_birth
+2813,proud,producer,Watercolor,full bleed,6,True,generation_birth
+2814,Nostalgic,DRUMMER,line art,full bleed,3,False,generation_birth
+2815,nostalgic,producer,line_art,badge,3,True,generation_birth
+2816,chill,Producer,vintage,scattered,2,True,generation_birth
+2817,nostalgic,metalhead,LINE ART,centered stack,2,True,generation_birth
+2818,chill,classical musician,watercolor,badge,4,True,generation_birth
+2819,proud,Producer,distressed,full bleed,4,True,generation_birth
+2820,chill,Saxophonist,Watercolor,full bleed,4,True,generation_birth
+2821,nostalgic,metalhead,BOLD GRAPHIC,full bleed,2,True,generation_birth
+2822,proud,classical musician,retro,scattered,2,True,generation_birth
+2823,funny,Producer,line art,badge,4,True,generation_birth
+2824,REBELLIOUS,VINYL COLLECTOR,vintage,centered stack,5,True,generation_birth
+2825,nostalgic,metalhead,Line Art,badge,4,True,generation_birth
+2826,Nostalgic,metalhead,line art,scattered,3,True,generation_birth
+2827,proud,drummer,distressed,centered stack,3,True,generation_birth
+2828,chill,metalhead,Line Art,full bleed,3,True,generation_birth
+2829,FUNNY,drummer,BOLD GRAPHIC,full bleed,3,True,generation_birth
+2830,NOSTALGIC,Producer,vintage,centered stack,2,True,generation_birth
+2831,chill,metalhead,vintage,scattered,2,True,generation_birth
+2832,Chill,SAXOPHONIST,Distressed,full bleed,3,True,generation_birth
+2833,funny,saxophonist,LINE ART,badge,2,False,generation_birth
+2834,rebellious,country fan,BOLD GRAPHIC,centered stack,5,True,generation_birth
+2835,rebellious,drummer,line art,centered stack,4,True,generation_birth
+2836,REBELLIOUS,classical musician,WATERCOLOR,scattered,2,True,generation_birth
+2837,funny,Drummer,line art,full bleed,2,True,generation_birth
+2838,NOSTALGIC,saxophonist,line art,full bleed,1,False,generation_birth
+2839,Chill,GUITARIST,Distressed,badge,3,False,generation_birth
+2840,PROUD,country fan,retro,full bleed,3,True,generation_birth
+2841,funny,vinyl collector,distressed,scattered,2,True,generation_birth
+2842,rebellious,Guitarist,distressed,scattered,2,True,generation_birth
+2843,proud,classical musician,bold graphic,badge,5,True,generation_birth
+2844,nostalgic,metalhead,vintage,centered stack,4,True,generation_birth
+2845,Chill,METALHEAD,WATERCOLOR,scattered,3,True,generation_birth
+2846,rebellious,vinyl collector,DISTRESSED,badge,3,False,generation_birth
+2847,proud,guitarist,WATERCOLOR,centered stack,3,False,generation_birth
+2848,chill,drummer,watercolor,full bleed,1,True,generation_birth
+2849,chill,drummer,watercolor,centered stack,1,True,generation_birth
+2850,proud,saxophonist,bold graphic,full bleed,4,True,generation_birth
+2851,chill,CLASSICAL MUSICIAN,watercolor,full bleed,3,True,generation_birth
+2852,chill,classical musician,watercolor,centered stack,6,False,generation_birth
+2853,rebellious,Drummer,WATERCOLOR,full bleed,4,True,generation_birth
+2854,NOSTALGIC,country fan,VINTAGE,full bleed,6,True,generation_birth
+2855,Proud,drummer,VINTAGE,full bleed,6,True,generation_birth
+2856,Rebellious,Metalhead,watercolor,scattered,2,True,generation_birth
+2857,nostalgic,classical musician,line art,centered stack,4,False,generation_birth
+2858,rebellious,metalhead,Distressed,scattered,3,False,generation_birth
+2859,chill,Vinyl Collector,WATERCOLOR,badge,5,False,generation_birth
+2860,Nostalgic,vinyl collector,VINTAGE,centered stack,2,False,generation_birth
+2861,REBELLIOUS,saxophonist,distressed,full bleed,4,True,generation_birth
+2862,rebellious,drummer,bold graphic,badge,4,True,generation_birth
+2863,nostalgic,saxophonist,line art,badge,2,True,generation_birth
+2864,REBELLIOUS,PRODUCER,watercolor,scattered,5,True,generation_birth
+2865,Chill,vinyl collector,line art,full bleed,1,True,generation_birth
+2866,Chill,classical_musician,bold graphic,scattered,6,True,generation_birth
+2867,funny,drummer,line art,full bleed,6,True,generation_birth
+2868,nostalgic,drummer,retro,scattered,4,False,generation_birth
+2869,proud,Producer,retro,centered stack,6,False,generation_birth
+2870,rebellious,guitarist,retro,badge,2,False,generation_birth
+2871,funny,classical musician,distressed,badge,2,True,generation_birth
+2872,rebellious,Country Fan,RETRO,badge,3,False,generation_birth
+2873,Proud,SAXOPHONIST,WATERCOLOR,scattered,2,True,generation_birth
+2874,nostalgic,metalhead,distressed,badge,4,True,generation_birth
+2875,chill,producer,retro,scattered,2,True,generation_birth
+2876,NOSTALGIC,vinyl collector,vintage,badge,5,True,generation_birth
+2877,chill,classical_musician,distressed,badge,2,False,generation_birth
+2878,Funny,metalhead,line art,centered stack,5,True,generation_birth
+2879,proud,drummer,bold_graphic,badge,6,True,generation_birth
+2880,rebellious,METALHEAD,RETRO,full bleed,4,False,generation_birth
+2881,funny,saxophonist,watercolor,scattered,6,True,generation_birth
+2882,rebellious,saxophonist,VINTAGE,centered stack,6,False,generation_birth
+2883,funny,metalhead,bold graphic,badge,2,False,generation_birth
+2884,rebellious,metalhead,distressed,badge,6,True,generation_birth
+2885,chill,country_fan,Line Art,centered stack,1,False,generation_birth
+2886,NOSTALGIC,PRODUCER,Watercolor,centered stack,5,True,generation_birth
+2887,funny,Guitarist,line art,badge,5,True,generation_birth
+2888,nostalgic,producer,DISTRESSED,full bleed,5,True,generation_birth
+2889,nostalgic,DRUMMER,Watercolor,centered stack,5,True,generation_birth
+2890,proud,country fan,Retro,scattered,3,True,generation_birth
+2891,nostalgic,vinyl_collector,vintage,scattered,4,False,generation_birth
+2892,nostalgic,vinyl_collector,Distressed,scattered,2,False,generation_birth
+2893,CHILL,country fan,retro,scattered,5,True,generation_birth
+2894,proud,Producer,retro,full bleed,5,True,generation_birth
+2895,Nostalgic,GUITARIST,distressed,badge,2,False,generation_birth
+2896,Proud,guitarist,watercolor,scattered,3,True,generation_birth
+2897,FUNNY,Metalhead,Retro,scattered,3,True,generation_birth
+2898,rebellious,guitarist,line art,badge,3,False,generation_birth
+2899,REBELLIOUS,drummer,watercolor,badge,4,False,generation_birth
+2900,chill,GUITARIST,BOLD GRAPHIC,centered stack,1,True,generation_birth
+2901,rebellious,PRODUCER,VINTAGE,badge,2,False,generation_birth
+2902,chill,VINYL COLLECTOR,bold graphic,scattered,3,False,generation_birth
+2903,nostalgic,saxophonist,bold graphic,centered stack,3,True,generation_birth
+2904,chill,Saxophonist,Distressed,centered stack,5,False,generation_birth
+2905,rebellious,metalhead,line art,scattered,2,True,generation_birth
+2906,nostalgic,producer,retro,centered stack,2,False,generation_birth
+2907,rebellious,saxophonist,distressed,badge,5,False,generation_birth
+2908,proud,guitarist,line art,centered stack,5,True,generation_birth
+2909,proud,producer,line art,centered stack,4,False,generation_birth
+2910,FUNNY,vinyl collector,line art,badge,3,True,generation_birth
+2911,REBELLIOUS,Saxophonist,retro,badge,2,False,generation_birth
+2912,nostalgic,vinyl collector,line art,scattered,3,True,generation_birth
+2913,chill,vinyl collector,vintage,badge,2,True,generation_birth
+2914,PROUD,CLASSICAL MUSICIAN,DISTRESSED,centered stack,5,True,generation_birth
+2915,proud,Drummer,vintage,full bleed,2,True,generation_birth
+2916,rebellious,Metalhead,watercolor,badge,4,True,generation_birth
+2917,proud,saxophonist,BOLD GRAPHIC,full bleed,4,True,generation_birth
+2918,PROUD,guitarist,line_art,full bleed,5,True,generation_birth
+2919,proud,saxophonist,watercolor,scattered,4,False,generation_birth
+2920,funny,COUNTRY FAN,RETRO,centered stack,4,True,generation_birth
+2921,REBELLIOUS,producer,bold_graphic,centered stack,4,True,generation_birth
+2922,nostalgic,producer,vintage,badge,3,True,generation_birth
+2923,CHILL,Drummer,Bold Graphic,scattered,3,True,generation_birth
+2924,chill,COUNTRY FAN,distressed,scattered,3,False,generation_birth
+2925,nostalgic,saxophonist,watercolor,badge,3,True,generation_birth
+2926,Rebellious,drummer,VINTAGE,full bleed,5,False,generation_birth
+2927,proud,guitarist,line art,full bleed,4,False,generation_birth
+2928,nostalgic,drummer,distressed,full bleed,3,True,generation_birth
+2929,proud,Country Fan,line art,full bleed,1,False,generation_birth
+2930,nostalgic,saxophonist,RETRO,full bleed,1,True,generation_birth
+2931,nostalgic,GUITARIST,distressed,full bleed,3,True,generation_birth
+2932,nostalgic,guitarist,watercolor,full bleed,3,False,generation_birth
+2933,proud,country_fan,distressed,full bleed,4,True,generation_birth
+2934,proud,saxophonist,retro,full bleed,3,False,generation_birth
+2935,Nostalgic,saxophonist,Line Art,badge,3,False,generation_birth
+2936,Funny,drummer,vintage,full bleed,3,False,generation_birth
+2937,nostalgic,producer,Distressed,full bleed,4,False,generation_birth
+2938,chill,saxophonist,BOLD GRAPHIC,full bleed,1,False,generation_birth
+2939,funny,producer,LINE ART,scattered,3,True,generation_birth
+2940,funny,drummer,line art,full bleed,2,True,generation_birth
+2941,chill,metalhead,DISTRESSED,scattered,3,False,generation_birth
+2942,PROUD,producer,retro,full bleed,4,False,generation_birth
+2943,rebellious,country_fan,distressed,badge,3,True,generation_birth
+2944,chill,drummer,distressed,centered stack,2,True,generation_birth
+2945,Rebellious,producer,distressed,scattered,4,True,generation_birth
+2946,Chill,country fan,BOLD GRAPHIC,badge,3,False,generation_birth
+2947,nostalgic,drummer,retro,badge,3,True,generation_birth
+2948,rebellious,Guitarist,vintage,scattered,6,False,generation_birth
+2949,proud,saxophonist,Line Art,badge,2,False,generation_birth
+2950,nostalgic,vinyl collector,line_art,full bleed,4,False,generation_birth
+2951,funny,VINYL COLLECTOR,watercolor,scattered,2,True,generation_birth
+2952,rebellious,Classical Musician,line art,full bleed,4,True,generation_birth
+2953,nostalgic,guitarist,LINE ART,centered stack,3,True,generation_birth
+2954,Chill,Metalhead,vintage,badge,3,True,generation_birth
+2955,proud,classical musician,retro,scattered,3,True,generation_birth
+2956,NOSTALGIC,drummer,bold graphic,centered stack,4,False,generation_birth
+2957,proud,classical musician,line art,full bleed,6,True,generation_birth
+2958,REBELLIOUS,Guitarist,line art,scattered,4,True,generation_birth
+2959,NOSTALGIC,classical musician,vintage,scattered,2,True,generation_birth
+2960,nostalgic,METALHEAD,VINTAGE,scattered,3,True,generation_birth
+2961,funny,saxophonist,distressed,full bleed,3,True,generation_birth
+2962,CHILL,Country Fan,line art,badge,6,False,generation_birth
+2963,Proud,producer,bold graphic,centered stack,2,True,generation_birth
+2964,funny,classical musician,watercolor,scattered,1,True,generation_birth
+2965,nostalgic,vinyl collector,Line Art,centered stack,3,True,generation_birth
+2966,proud,country fan,VINTAGE,full bleed,3,True,generation_birth
+2967,Rebellious,country fan,DISTRESSED,badge,4,True,generation_birth
+2968,Nostalgic,saxophonist,vintage,badge,5,False,generation_birth
+2969,funny,PRODUCER,vintage,centered stack,3,False,generation_birth
+2970,CHILL,metalhead,line art,badge,3,False,generation_birth
+2971,nostalgic,metalhead,Watercolor,centered stack,6,True,generation_birth
+2972,nostalgic,Vinyl Collector,bold graphic,centered stack,5,True,generation_birth
+2973,rebellious,Classical Musician,vintage,full bleed,3,False,generation_birth
+2974,FUNNY,Guitarist,WATERCOLOR,badge,6,True,generation_birth
+2975,funny,vinyl collector,Retro,full bleed,4,False,generation_birth
+2976,rebellious,drummer,bold_graphic,badge,1,True,generation_birth
+2977,nostalgic,drummer,distressed,scattered,5,True,generation_birth
+2978,proud,classical musician,line art,scattered,4,True,generation_birth
+2979,chill,Saxophonist,distressed,full bleed,2,False,generation_birth
+2980,chill,guitarist,distressed,full bleed,5,True,generation_birth
+2981,funny,vinyl_collector,watercolor,full bleed,3,True,generation_birth
+2982,nostalgic,Classical Musician,BOLD GRAPHIC,full bleed,5,True,generation_birth
+2983,proud,Guitarist,LINE ART,badge,2,True,generation_birth
+2984,rebellious,Classical Musician,vintage,badge,2,True,generation_birth
+2985,proud,Drummer,line art,full bleed,4,True,generation_birth
+2986,chill,COUNTRY FAN,line art,full bleed,4,True,generation_birth
+2987,rebellious,metalhead,bold graphic,centered stack,2,False,generation_birth
+2988,rebellious,vinyl collector,bold graphic,scattered,4,True,generation_birth
+2989,chill,GUITARIST,Line Art,centered stack,3,False,generation_birth
+2990,Chill,country fan,line art,centered stack,5,True,generation_birth
+2991,Proud,drummer,distressed,scattered,3,True,generation_birth
+2992,Nostalgic,metalhead,watercolor,full bleed,4,True,generation_birth
+2993,proud,drummer,vintage,badge,2,True,generation_birth
+2994,proud,METALHEAD,vintage,badge,3,True,generation_birth
+2995,chill,Vinyl Collector,LINE ART,scattered,3,False,generation_birth
+2996,chill,Vinyl Collector,Vintage,centered stack,6,False,generation_birth
+2997,proud,metalhead,BOLD GRAPHIC,badge,5,True,generation_birth
+2998,chill,producer,Bold Graphic,full bleed,2,True,generation_birth
+2999,Proud,saxophonist,watercolor,badge,2,False,generation_birth
+3000,REBELLIOUS,Classical Musician,distressed,scattered,3,True,generation_birth
+3001,Rebellious,producer,line_art,centered stack,4,False,generation_birth
+3002,nostalgic,classical_musician,bold graphic,full bleed,2,True,generation_birth
+3003,NOSTALGIC,classical_musician,RETRO,badge,1,True,generation_birth
+3004,proud,saxophonist,watercolor,scattered,3,True,generation_birth
+3005,Funny,PRODUCER,vintage,full bleed,4,False,generation_birth
+3006,CHILL,producer,distressed,centered stack,3,False,generation_birth
+3007,chill,saxophonist,Vintage,full bleed,5,True,generation_birth
+3008,FUNNY,classical musician,Distressed,full bleed,6,True,generation_birth
+3009,nostalgic,drummer,Watercolor,centered stack,4,True,generation_birth
+3010,CHILL,VINYL COLLECTOR,retro,badge,3,True,generation_birth
+3011,Nostalgic,Drummer,watercolor,badge,3,True,generation_birth
+3012,proud,guitarist,VINTAGE,full bleed,5,False,generation_birth
+3013,chill,Country Fan,line art,scattered,3,True,generation_birth
+3014,chill,SAXOPHONIST,BOLD GRAPHIC,scattered,3,True,generation_birth
+3015,PROUD,COUNTRY FAN,WATERCOLOR,badge,1,True,generation_birth
+3016,proud,classical musician,retro,full bleed,3,True,generation_birth
+3017,funny,Metalhead,vintage,centered stack,3,False,generation_birth
+3018,nostalgic,producer,vintage,centered stack,4,True,generation_birth
+3019,funny,metalhead,Bold Graphic,badge,3,False,generation_birth
+3020,rebellious,classical musician,WATERCOLOR,badge,2,False,generation_birth
+3021,proud,GUITARIST,distressed,centered stack,1,False,generation_birth
+3022,Rebellious,drummer,Bold Graphic,full bleed,2,True,generation_birth
+3023,REBELLIOUS,metalhead,bold graphic,full bleed,4,True,generation_birth
+3024,NOSTALGIC,SAXOPHONIST,VINTAGE,full bleed,3,True,generation_birth
+3025,rebellious,COUNTRY FAN,bold graphic,scattered,4,False,generation_birth
+3026,rebellious,country fan,retro,scattered,6,False,generation_birth
+3027,rebellious,CLASSICAL MUSICIAN,DISTRESSED,scattered,3,True,generation_birth
+3028,FUNNY,saxophonist,distressed,centered stack,1,False,generation_birth
+3029,proud,GUITARIST,WATERCOLOR,badge,2,True,generation_birth
+3030,nostalgic,producer,watercolor,full bleed,3,True,generation_birth
+3031,nostalgic,drummer,line art,scattered,6,True,generation_birth
+3032,chill,SAXOPHONIST,VINTAGE,badge,5,True,generation_birth
+3033,Nostalgic,metalhead,retro,full bleed,3,True,generation_birth
+3034,proud,producer,Bold Graphic,scattered,3,False,generation_birth
+3035,proud,CLASSICAL MUSICIAN,Bold Graphic,scattered,2,True,generation_birth
+3036,Chill,drummer,line art,scattered,5,True,generation_birth
+3037,Proud,metalhead,retro,full bleed,2,False,generation_birth
+3038,chill,saxophonist,Vintage,scattered,2,False,generation_birth
+3039,nostalgic,PRODUCER,vintage,full bleed,3,True,generation_birth
+3040,PROUD,country fan,Bold Graphic,full bleed,4,True,generation_birth
+3041,proud,metalhead,line art,full bleed,1,True,generation_birth
+3042,proud,country_fan,RETRO,scattered,4,True,generation_birth
+3043,chill,SAXOPHONIST,bold_graphic,full bleed,4,False,generation_birth
+3044,proud,saxophonist,distressed,badge,6,True,generation_birth
+3045,rebellious,producer,retro,full bleed,6,True,generation_birth
+3046,rebellious,vinyl collector,WATERCOLOR,badge,5,True,generation_birth
+3047,CHILL,drummer,line art,full bleed,1,True,generation_birth
+3048,proud,producer,vintage,centered stack,3,True,generation_birth
+3049,CHILL,guitarist,RETRO,badge,6,True,generation_birth
+3050,rebellious,guitarist,vintage,scattered,5,False,generation_birth
+3051,proud,DRUMMER,bold_graphic,full bleed,5,True,generation_birth
+3052,nostalgic,country fan,distressed,badge,5,True,generation_birth
+3053,chill,Guitarist,distressed,badge,5,False,generation_birth
+3054,chill,metalhead,bold graphic,centered stack,4,True,generation_birth
+3055,PROUD,Metalhead,watercolor,full bleed,3,True,generation_birth
+3056,PROUD,METALHEAD,Vintage,badge,4,True,generation_birth
+3057,chill,saxophonist,Retro,centered stack,3,True,generation_birth
+3058,chill,drummer,vintage,badge,5,False,generation_birth
+3059,chill,drummer,VINTAGE,badge,5,True,generation_birth
+3060,PROUD,PRODUCER,distressed,centered stack,2,True,generation_birth
+3061,chill,vinyl collector,bold graphic,scattered,2,True,generation_birth
+3062,rebellious,classical musician,DISTRESSED,centered stack,2,True,generation_birth
+3063,nostalgic,COUNTRY FAN,Line Art,scattered,3,True,generation_birth
+3064,chill,drummer,Watercolor,badge,4,True,generation_birth
+3065,proud,metalhead,watercolor,full bleed,5,True,generation_birth
+3066,proud,Country Fan,line art,badge,4,False,generation_birth
+3067,proud,Classical Musician,LINE ART,full bleed,2,True,generation_birth
+3068,nostalgic,vinyl collector,bold graphic,badge,2,True,generation_birth
+3069,PROUD,metalhead,line art,centered stack,3,False,generation_birth
+3070,nostalgic,country fan,Retro,centered stack,4,True,generation_birth
+3071,REBELLIOUS,Metalhead,RETRO,scattered,3,True,generation_birth
+3072,PROUD,metalhead,Bold Graphic,badge,2,False,generation_birth
+3073,chill,Producer,watercolor,badge,5,True,generation_birth
+3074,PROUD,classical musician,distressed,centered stack,2,False,generation_birth
+3075,funny,metalhead,retro,scattered,3,False,generation_birth
+3076,rebellious,CLASSICAL MUSICIAN,LINE ART,scattered,3,True,generation_birth
+3077,proud,classical musician,retro,centered stack,2,True,generation_birth
+3078,proud,producer,distressed,scattered,6,True,generation_birth
+3079,Nostalgic,classical musician,LINE ART,full bleed,3,True,generation_birth
+3080,CHILL,guitarist,distressed,full bleed,1,True,generation_birth
+3081,chill,Producer,vintage,scattered,3,True,generation_birth
+3082,nostalgic,Guitarist,bold graphic,badge,6,True,generation_birth
+3083,rebellious,country fan,vintage,badge,2,False,generation_birth
+3084,proud,saxophonist,bold graphic,badge,6,True,generation_birth
+3085,funny,Guitarist,watercolor,centered stack,2,True,generation_birth
+3086,PROUD,vinyl collector,Bold Graphic,centered stack,3,True,generation_birth
+3087,chill,metalhead,DISTRESSED,full bleed,6,True,generation_birth
+3088,funny,producer,Bold Graphic,badge,5,True,generation_birth
+3089,chill,producer,DISTRESSED,badge,3,True,generation_birth
+3090,rebellious,classical musician,Vintage,scattered,6,True,generation_birth
+3091,nostalgic,drummer,distressed,full bleed,5,False,generation_birth
+3092,nostalgic,VINYL COLLECTOR,Retro,full bleed,2,False,generation_birth
+3093,funny,Metalhead,bold graphic,scattered,3,False,generation_birth
+3094,rebellious,country fan,watercolor,centered stack,3,True,generation_birth
+3095,Rebellious,guitarist,LINE ART,full bleed,6,True,generation_birth
+3096,rebellious,drummer,distressed,scattered,6,True,generation_birth
+3097,proud,classical musician,BOLD GRAPHIC,scattered,4,True,generation_birth
+3098,nostalgic,GUITARIST,retro,full bleed,3,False,generation_birth
+3099,proud,producer,distressed,badge,3,False,generation_birth
+3100,nostalgic,producer,line art,full bleed,6,True,generation_birth
+3101,PROUD,metalhead,distressed,scattered,3,True,generation_birth
+3102,rebellious,Vinyl Collector,retro,centered stack,5,False,generation_birth
+3103,nostalgic,Country Fan,retro,scattered,5,False,generation_birth
+3104,chill,Country Fan,VINTAGE,centered stack,2,True,generation_birth
+3105,NOSTALGIC,classical musician,VINTAGE,full bleed,3,False,generation_birth
+3106,funny,guitarist,line art,centered stack,5,True,generation_birth
+3107,CHILL,producer,distressed,badge,4,False,generation_birth
+3108,proud,vinyl_collector,Watercolor,badge,2,True,generation_birth
+3109,FUNNY,producer,watercolor,centered stack,5,False,generation_birth
+3110,CHILL,CLASSICAL MUSICIAN,line art,scattered,2,True,generation_birth
+3111,Rebellious,producer,WATERCOLOR,scattered,6,True,generation_birth
+3112,proud,PRODUCER,BOLD GRAPHIC,centered stack,3,True,generation_birth
+3113,Rebellious,metalhead,bold graphic,scattered,6,True,generation_birth
+3114,nostalgic,vinyl collector,BOLD GRAPHIC,full bleed,5,True,generation_birth
+3115,rebellious,METALHEAD,line art,centered stack,4,True,generation_birth
+3116,chill,Producer,Watercolor,badge,3,False,generation_birth
+3117,proud,vinyl collector,retro,centered stack,3,True,generation_birth
+3118,Funny,Classical Musician,vintage,full bleed,3,True,generation_birth
+3119,funny,Producer,Retro,full bleed,6,True,generation_birth
+3120,nostalgic,country_fan,distressed,scattered,3,True,generation_birth
+3121,rebellious,saxophonist,BOLD GRAPHIC,centered stack,3,True,generation_birth
+3122,rebellious,saxophonist,bold_graphic,badge,3,True,generation_birth
+3123,chill,drummer,Vintage,scattered,3,True,generation_birth
+3124,PROUD,vinyl collector,Watercolor,scattered,3,True,generation_birth
+3125,rebellious,classical musician,line art,badge,5,True,generation_birth
+3126,chill,classical musician,RETRO,centered stack,2,True,generation_birth
+3127,chill,saxophonist,RETRO,scattered,4,True,generation_birth
+3128,NOSTALGIC,drummer,Bold Graphic,badge,4,True,generation_birth
+3129,proud,guitarist,retro,full bleed,4,True,generation_birth
+3130,NOSTALGIC,guitarist,WATERCOLOR,scattered,2,True,generation_birth
+3131,proud,producer,retro,centered stack,3,True,generation_birth
+3132,Funny,country fan,retro,scattered,4,False,generation_birth
+3133,chill,Vinyl Collector,distressed,full bleed,2,False,generation_birth
+3134,funny,vinyl collector,VINTAGE,full bleed,2,False,generation_birth
+3135,proud,producer,retro,badge,5,True,generation_birth
+3136,NOSTALGIC,Producer,line art,full bleed,4,True,generation_birth
+3137,proud,vinyl collector,bold graphic,badge,2,False,generation_birth
+3138,Funny,CLASSICAL MUSICIAN,RETRO,centered stack,4,True,generation_birth
+3139,chill,Drummer,line art,badge,2,False,generation_birth
+3140,PROUD,metalhead,line art,scattered,3,True,generation_birth
+3141,proud,DRUMMER,line art,badge,5,False,generation_birth
+3142,REBELLIOUS,Drummer,VINTAGE,centered stack,5,True,generation_birth
+3143,chill,drummer,VINTAGE,centered stack,2,False,generation_birth
+3144,rebellious,VINYL COLLECTOR,bold graphic,scattered,1,False,generation_birth
+3145,funny,country_fan,Watercolor,full bleed,5,True,generation_birth
+3146,rebellious,country fan,VINTAGE,badge,2,True,generation_birth
+3147,Rebellious,vinyl collector,retro,scattered,6,False,generation_birth
+3148,proud,saxophonist,vintage,full bleed,4,True,generation_birth
+3149,chill,Vinyl Collector,retro,full bleed,3,True,generation_birth
+3150,proud,PRODUCER,watercolor,full bleed,3,True,generation_birth
+3151,rebellious,drummer,line art,scattered,2,False,generation_birth
+3152,nostalgic,DRUMMER,DISTRESSED,centered stack,5,True,generation_birth
+3153,proud,METALHEAD,watercolor,centered stack,3,False,generation_birth
+3154,rebellious,vinyl_collector,vintage,full bleed,5,True,generation_birth
+3155,rebellious,country_fan,distressed,full bleed,2,True,generation_birth
+3156,proud,producer,retro,scattered,2,True,generation_birth
+3157,chill,country fan,bold graphic,centered stack,2,True,generation_birth
+3158,funny,saxophonist,Line Art,full bleed,3,True,generation_birth
+3159,proud,vinyl collector,vintage,scattered,6,False,generation_birth
+3160,rebellious,guitarist,distressed,centered stack,5,False,generation_birth
+3161,funny,Country Fan,retro,centered stack,1,True,generation_birth
+3162,funny,saxophonist,line_art,badge,3,False,generation_birth
+3163,chill,Metalhead,watercolor,centered stack,4,False,generation_birth
+3164,nostalgic,METALHEAD,distressed,full bleed,1,False,generation_birth
+3165,nostalgic,metalhead,vintage,badge,5,True,generation_birth
+3166,funny,country fan,Line Art,scattered,4,False,generation_birth
+3167,proud,vinyl_collector,Watercolor,badge,2,True,generation_birth
+3168,funny,classical musician,Line Art,scattered,2,True,generation_birth
+3169,nostalgic,vinyl collector,Line Art,full bleed,5,True,generation_birth
+3170,rebellious,classical musician,line art,badge,2,True,generation_birth
+3171,proud,COUNTRY FAN,retro,centered stack,3,False,generation_birth
+3172,proud,PRODUCER,distressed,centered stack,6,True,generation_birth
+3173,Chill,country fan,line art,badge,3,False,generation_birth
+3174,nostalgic,guitarist,RETRO,badge,4,True,generation_birth
+3175,rebellious,country fan,watercolor,centered stack,5,True,generation_birth
+3176,funny,SAXOPHONIST,distressed,badge,5,True,generation_birth
+3177,REBELLIOUS,saxophonist,retro,centered stack,2,True,generation_birth
+3178,chill,vinyl_collector,vintage,scattered,6,True,generation_birth
+3179,funny,drummer,bold graphic,full bleed,2,True,generation_birth
+3180,NOSTALGIC,Guitarist,retro,full bleed,4,True,generation_birth
+3181,proud,classical_musician,distressed,badge,5,False,generation_birth
+3182,funny,vinyl collector,VINTAGE,badge,5,True,generation_birth
+3183,funny,classical musician,bold_graphic,centered stack,2,False,generation_birth
+3184,Funny,country fan,vintage,scattered,6,True,generation_birth
+3185,REBELLIOUS,COUNTRY FAN,bold graphic,scattered,2,True,generation_birth
+3186,chill,drummer,distressed,badge,4,False,generation_birth
+3187,PROUD,Metalhead,distressed,centered stack,2,True,generation_birth
+3188,chill,drummer,BOLD GRAPHIC,badge,4,False,generation_birth
+3189,rebellious,drummer,line art,scattered,5,False,generation_birth
+3190,Funny,vinyl collector,line art,badge,5,False,generation_birth
+3191,Funny,drummer,vintage,scattered,2,False,generation_birth
+3192,proud,drummer,RETRO,full bleed,2,True,generation_birth
+3193,Nostalgic,guitarist,vintage,full bleed,2,False,generation_birth
+3194,REBELLIOUS,drummer,retro,badge,5,True,generation_birth
+3195,proud,Producer,bold_graphic,scattered,3,True,generation_birth
+3196,rebellious,country fan,RETRO,badge,6,False,generation_birth
+3197,rebellious,drummer,watercolor,full bleed,2,True,generation_birth
+3198,NOSTALGIC,drummer,LINE ART,scattered,6,False,generation_birth
+3199,proud,DRUMMER,RETRO,scattered,3,False,generation_birth
+3200,PROUD,classical musician,WATERCOLOR,scattered,2,True,generation_birth
+3201,proud,Classical Musician,RETRO,full bleed,6,True,generation_birth
+3202,NOSTALGIC,COUNTRY FAN,retro,scattered,5,True,generation_birth
+3203,Nostalgic,guitarist,bold graphic,scattered,3,True,generation_birth
+3204,rebellious,drummer,Bold Graphic,scattered,3,False,generation_birth
+3205,chill,producer,vintage,full bleed,3,True,generation_birth
+3206,Nostalgic,guitarist,WATERCOLOR,scattered,2,False,generation_birth
+3207,funny,PRODUCER,line art,full bleed,3,True,generation_birth
+3208,Nostalgic,Vinyl Collector,line art,centered stack,4,False,generation_birth
+3209,REBELLIOUS,vinyl collector,Retro,centered stack,1,True,generation_birth
+3210,rebellious,GUITARIST,watercolor,full bleed,2,True,generation_birth
+3211,chill,Metalhead,WATERCOLOR,scattered,5,True,generation_birth
+3212,Chill,saxophonist,Retro,centered stack,2,False,generation_birth
+3213,funny,guitarist,Retro,scattered,3,True,generation_birth
+3214,CHILL,drummer,retro,centered stack,2,False,generation_birth
+3215,nostalgic,drummer,watercolor,scattered,3,True,generation_birth
+3216,REBELLIOUS,saxophonist,Vintage,full bleed,4,False,generation_birth
+3217,rebellious,Drummer,Vintage,full bleed,5,True,generation_birth
+3218,rebellious,guitarist,line art,full bleed,3,True,generation_birth
+3219,proud,metalhead,watercolor,full bleed,3,True,generation_birth
+3220,Proud,guitarist,vintage,badge,6,True,generation_birth
+3221,NOSTALGIC,Saxophonist,Retro,badge,2,True,generation_birth
+3222,nostalgic,producer,retro,badge,2,True,generation_birth
+3223,proud,country fan,VINTAGE,centered stack,3,True,generation_birth
+3224,PROUD,Vinyl Collector,bold graphic,full bleed,3,True,generation_birth
+3225,Chill,SAXOPHONIST,bold_graphic,badge,3,True,generation_birth
+3226,Rebellious,Guitarist,retro,full bleed,5,True,generation_birth
+3227,Nostalgic,producer,bold_graphic,full bleed,1,True,generation_birth
+3228,PROUD,metalhead,vintage,centered stack,6,True,generation_birth
+3229,Chill,classical musician,watercolor,badge,3,True,generation_birth
+3230,NOSTALGIC,vinyl collector,retro,centered stack,2,False,generation_birth
+3231,funny,COUNTRY FAN,Distressed,centered stack,3,True,generation_birth
+3232,Rebellious,vinyl_collector,watercolor,scattered,4,False,generation_birth
+3233,nostalgic,country_fan,RETRO,scattered,4,True,generation_birth
+3234,rebellious,classical musician,bold graphic,full bleed,5,True,generation_birth
+3235,funny,saxophonist,Line Art,full bleed,2,False,generation_birth
+3236,Proud,guitarist,vintage,centered stack,4,True,generation_birth
+3237,NOSTALGIC,metalhead,vintage,full bleed,5,False,generation_birth
+3238,proud,saxophonist,retro,centered stack,5,True,generation_birth
+3239,Nostalgic,saxophonist,Line Art,full bleed,5,True,generation_birth
+3240,proud,vinyl collector,retro,badge,5,True,generation_birth
+3241,chill,COUNTRY FAN,DISTRESSED,full bleed,2,True,generation_birth
+3242,funny,Metalhead,Distressed,badge,5,True,generation_birth
+3243,funny,country fan,Distressed,scattered,5,True,generation_birth
+3244,proud,guitarist,distressed,scattered,3,True,generation_birth
+3245,rebellious,country fan,watercolor,scattered,3,False,generation_birth
+3246,nostalgic,guitarist,watercolor,full bleed,4,True,generation_birth
+3247,rebellious,saxophonist,Line Art,centered stack,4,True,generation_birth
+3248,Chill,classical musician,VINTAGE,scattered,6,True,generation_birth
+3249,Chill,SAXOPHONIST,watercolor,centered stack,3,True,generation_birth
+3250,nostalgic,Guitarist,retro,badge,6,True,generation_birth
+3251,Nostalgic,Classical Musician,Vintage,badge,6,True,generation_birth
+3252,Chill,country_fan,Retro,centered stack,5,True,generation_birth
+3253,chill,COUNTRY FAN,distressed,scattered,2,True,generation_birth
+3254,Proud,Producer,RETRO,full bleed,3,False,generation_birth
+3255,proud,drummer,WATERCOLOR,badge,5,True,generation_birth
+3256,nostalgic,classical musician,Vintage,scattered,3,True,generation_birth
+3257,proud,guitarist,VINTAGE,full bleed,1,True,generation_birth
+3258,proud,saxophonist,retro,centered stack,3,True,generation_birth
+3259,proud,METALHEAD,BOLD GRAPHIC,badge,3,True,generation_birth
+3260,PROUD,Saxophonist,vintage,scattered,6,True,generation_birth
+3261,REBELLIOUS,vinyl collector,watercolor,full bleed,5,False,generation_birth
+3262,Rebellious,SAXOPHONIST,line art,scattered,1,True,generation_birth
+3263,chill,Country Fan,distressed,full bleed,6,True,generation_birth
+3264,chill,PRODUCER,Retro,centered stack,4,False,generation_birth
+3265,nostalgic,country_fan,line art,centered stack,5,True,generation_birth
+3266,Chill,classical musician,vintage,badge,2,True,generation_birth
+3267,funny,guitarist,Retro,full bleed,4,True,generation_birth
+3268,nostalgic,Saxophonist,BOLD GRAPHIC,full bleed,5,True,generation_birth
+3269,nostalgic,classical musician,vintage,badge,4,True,generation_birth
+3270,rebellious,VINYL COLLECTOR,DISTRESSED,badge,4,True,generation_birth
+3271,nostalgic,Drummer,LINE ART,full bleed,5,True,generation_birth
+3272,proud,SAXOPHONIST,RETRO,scattered,2,True,generation_birth
+3273,Rebellious,saxophonist,vintage,full bleed,2,True,generation_birth
+3274,proud,Guitarist,LINE ART,badge,3,True,generation_birth
+3275,proud,metalhead,bold graphic,badge,4,True,generation_birth
+3276,funny,Classical Musician,distressed,scattered,2,True,generation_birth
+3277,Nostalgic,saxophonist,DISTRESSED,scattered,5,False,generation_birth
+3278,funny,vinyl collector,vintage,centered stack,1,False,generation_birth
+3279,chill,metalhead,line_art,scattered,2,True,generation_birth
+3280,PROUD,metalhead,retro,scattered,5,False,generation_birth
+3281,proud,classical musician,VINTAGE,centered stack,2,True,generation_birth
+3282,rebellious,COUNTRY FAN,bold graphic,badge,2,False,generation_birth
+3283,CHILL,vinyl collector,line_art,centered stack,2,True,generation_birth
+3284,Proud,guitarist,watercolor,scattered,1,True,generation_birth
+3285,proud,vinyl_collector,Retro,badge,2,True,generation_birth
+3286,chill,VINYL COLLECTOR,line art,badge,2,False,generation_birth
+3287,rebellious,metalhead,WATERCOLOR,full bleed,6,True,generation_birth
+3288,nostalgic,country fan,vintage,badge,1,True,generation_birth
+3289,Funny,classical musician,Line Art,badge,2,True,generation_birth
+3290,Rebellious,country fan,retro,full bleed,2,False,generation_birth
+3291,Rebellious,drummer,bold graphic,badge,6,False,generation_birth
+3292,funny,guitarist,vintage,scattered,6,False,generation_birth
+3293,funny,guitarist,bold graphic,full bleed,2,False,generation_birth
+3294,Rebellious,guitarist,vintage,centered stack,3,True,generation_birth
+3295,chill,Metalhead,VINTAGE,badge,2,True,generation_birth
+3296,chill,PRODUCER,distressed,scattered,5,True,generation_birth
+3297,chill,drummer,retro,badge,1,True,generation_birth
+3298,proud,saxophonist,DISTRESSED,badge,2,True,generation_birth
+3299,Funny,Vinyl Collector,watercolor,full bleed,3,False,generation_birth
+3300,nostalgic,guitarist,retro,badge,3,True,generation_birth
+3301,nostalgic,guitarist,vintage,full bleed,6,True,generation_birth
+3302,rebellious,DRUMMER,VINTAGE,centered stack,3,True,generation_birth
+3303,rebellious,country_fan,WATERCOLOR,badge,3,True,generation_birth
+3304,rebellious,country fan,RETRO,badge,3,True,generation_birth
+3305,chill,country fan,retro,badge,1,True,generation_birth
+3306,chill,producer,RETRO,centered stack,2,True,generation_birth
+3307,nostalgic,CLASSICAL MUSICIAN,bold graphic,full bleed,6,False,generation_birth
+3308,FUNNY,Country Fan,retro,centered stack,2,True,generation_birth
+3309,rebellious,Drummer,distressed,scattered,2,True,generation_birth
+3310,nostalgic,vinyl collector,distressed,badge,6,True,generation_birth
+3311,FUNNY,country fan,retro,badge,4,True,generation_birth
+3312,chill,vinyl collector,line art,centered stack,2,True,generation_birth
+3313,chill,Saxophonist,bold graphic,centered stack,5,False,generation_birth
+3314,funny,metalhead,RETRO,centered stack,6,True,generation_birth
+3315,proud,classical musician,retro,scattered,3,True,generation_birth
+3316,Proud,vinyl collector,vintage,full bleed,2,False,generation_birth
+3317,FUNNY,saxophonist,line_art,full bleed,2,True,generation_birth
+3318,rebellious,Drummer,vintage,full bleed,1,True,generation_birth
+3319,funny,country fan,line_art,badge,2,True,generation_birth
+3320,funny,guitarist,retro,centered stack,5,True,generation_birth
+3321,PROUD,country fan,bold graphic,scattered,6,True,generation_birth
+3322,chill,metalhead,distressed,full bleed,2,False,generation_birth
+3323,chill,producer,watercolor,badge,2,True,generation_birth
+3324,nostalgic,producer,Vintage,badge,3,True,generation_birth
+3325,rebellious,drummer,LINE ART,badge,6,False,generation_birth
+3326,PROUD,GUITARIST,retro,badge,3,True,generation_birth
+3327,rebellious,guitarist,bold graphic,badge,5,False,generation_birth
+3328,Chill,classical musician,line_art,full bleed,6,True,generation_birth
+3329,chill,CLASSICAL MUSICIAN,Line Art,badge,2,False,generation_birth
+3330,funny,country_fan,watercolor,scattered,6,True,generation_birth
+3331,Proud,producer,distressed,centered stack,4,True,generation_birth
+3332,proud,drummer,retro,centered stack,6,True,generation_birth
+3333,proud,vinyl collector,watercolor,centered stack,3,False,generation_birth
+3334,rebellious,METALHEAD,line art,centered stack,2,True,generation_birth
+3335,rebellious,country_fan,VINTAGE,scattered,6,True,generation_birth
+3336,rebellious,drummer,bold graphic,scattered,2,True,generation_birth
+3337,chill,metalhead,watercolor,centered stack,5,True,generation_birth
+3338,funny,saxophonist,Line Art,centered stack,1,True,generation_birth
+3339,proud,guitarist,RETRO,badge,2,True,generation_birth
+3340,funny,vinyl collector,retro,badge,2,True,generation_birth
+3341,nostalgic,guitarist,retro,scattered,3,True,generation_birth
+3342,funny,COUNTRY FAN,distressed,centered stack,2,True,generation_birth
+3343,Rebellious,guitarist,line art,scattered,6,True,generation_birth
+3344,PROUD,Drummer,distressed,full bleed,5,True,generation_birth
+3345,nostalgic,Country Fan,DISTRESSED,full bleed,6,True,generation_birth
+3346,nostalgic,Classical Musician,distressed,centered stack,1,True,generation_birth
+3347,funny,vinyl_collector,Retro,centered stack,2,True,generation_birth
+3348,CHILL,VINYL COLLECTOR,bold graphic,scattered,3,True,generation_birth
+3349,nostalgic,metalhead,Line Art,badge,4,True,generation_birth
+3350,nostalgic,classical musician,Watercolor,full bleed,2,False,generation_birth
+3351,nostalgic,saxophonist,watercolor,scattered,2,True,generation_birth
+3352,rebellious,vinyl collector,line art,full bleed,3,False,generation_birth
+3353,nostalgic,metalhead,retro,centered stack,5,True,generation_birth
+3354,nostalgic,VINYL COLLECTOR,VINTAGE,badge,5,True,generation_birth
+3355,proud,country fan,line_art,scattered,4,False,generation_birth
+3356,Nostalgic,GUITARIST,vintage,full bleed,2,False,generation_birth
+3357,Funny,CLASSICAL MUSICIAN,distressed,full bleed,1,False,generation_birth
+3358,CHILL,metalhead,Line Art,scattered,5,True,generation_birth
+3359,rebellious,country fan,vintage,scattered,3,True,generation_birth
+3360,FUNNY,DRUMMER,vintage,full bleed,1,True,generation_birth
+3361,funny,saxophonist,vintage,centered stack,3,True,generation_birth
+3362,chill,producer,BOLD GRAPHIC,scattered,3,True,generation_birth
+3363,proud,SAXOPHONIST,Retro,badge,6,False,generation_birth
+3364,proud,producer,bold graphic,badge,5,True,generation_birth
+3365,rebellious,Guitarist,watercolor,badge,5,False,generation_birth
+3366,proud,VINYL COLLECTOR,RETRO,badge,3,True,generation_birth
+3367,proud,classical musician,retro,centered stack,2,False,generation_birth
+3368,rebellious,metalhead,distressed,badge,2,True,generation_birth
+3369,chill,drummer,watercolor,scattered,3,True,generation_birth
+3370,funny,metalhead,retro,full bleed,5,True,generation_birth
+3371,nostalgic,vinyl collector,line art,scattered,4,True,generation_birth
+3372,nostalgic,Vinyl Collector,bold graphic,centered stack,3,False,generation_birth
+3373,CHILL,country fan,retro,scattered,5,True,generation_birth
+3374,CHILL,metalhead,distressed,badge,3,True,generation_birth
+3375,Nostalgic,vinyl collector,DISTRESSED,scattered,3,True,generation_birth
+3376,nostalgic,vinyl collector,watercolor,badge,6,True,generation_birth
+3377,chill,classical_musician,vintage,badge,1,False,generation_birth
+3378,proud,country fan,Distressed,full bleed,4,True,generation_birth
+3379,chill,Metalhead,bold graphic,full bleed,2,True,generation_birth
+3380,chill,metalhead,Bold Graphic,scattered,5,True,generation_birth
+3381,rebellious,vinyl collector,RETRO,centered stack,2,True,generation_birth
+3382,Proud,SAXOPHONIST,vintage,badge,4,False,generation_birth
+3383,chill,metalhead,retro,scattered,2,True,generation_birth
+3384,Rebellious,guitarist,vintage,centered stack,6,True,generation_birth
+3385,REBELLIOUS,DRUMMER,watercolor,centered stack,2,True,generation_birth
+3386,funny,classical musician,Bold Graphic,badge,2,False,generation_birth
+3387,proud,CLASSICAL MUSICIAN,line art,badge,3,True,generation_birth
+3388,Nostalgic,vinyl collector,watercolor,centered stack,2,False,generation_birth
+3389,funny,CLASSICAL MUSICIAN,Retro,badge,3,True,generation_birth
+3390,NOSTALGIC,drummer,Distressed,full bleed,2,True,generation_birth
+3391,chill,country fan,vintage,scattered,2,False,generation_birth
+3392,funny,DRUMMER,retro,badge,2,True,generation_birth
+3393,funny,guitarist,vintage,badge,4,True,generation_birth
+3394,Funny,saxophonist,bold graphic,centered stack,6,False,generation_birth
+3395,PROUD,Country Fan,watercolor,full bleed,2,True,generation_birth
+3396,rebellious,Classical Musician,bold graphic,centered stack,2,True,generation_birth
+3397,funny,DRUMMER,Line Art,centered stack,2,False,generation_birth
+3398,proud,guitarist,VINTAGE,full bleed,2,False,generation_birth
+3399,chill,saxophonist,DISTRESSED,scattered,4,True,generation_birth

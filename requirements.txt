@@ -1,0 +1,4 @@
+# Opcional. Puedes resolver toda la prueba solo con la librería estándar de Python.
+# Si prefieres trabajar con estas librerías, instálalas con: pip install -r requirements.txt
+pandas
+scikit-learn

@@ -1,0 +1,3202 @@
+[
+{
+"brief_key": "brief_90000",
+"brief_id": 900001,
+"design_id": 90000,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on turntable for guitarist"
+},
+{
+"brief_key": "brief_90001",
+"brief_id": 900011,
+"design_id": 90001,
+"brief_type": "manual_backfill",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on guitar for country fan"
+},
+{
+"brief_key": "brief_90002",
+"brief_id": 900021,
+"design_id": 90002,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on vinyl record for guitarist"
+},
+{
+"brief_key": "brief_90003",
+"brief_id": 900031,
+"design_id": 90003,
+"brief_type": "strategist",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on amplifier for metalhead"
+},
+{
+"brief_key": "brief_90004",
+"brief_id": 900041,
+"design_id": 90004,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on music notes for guitarist"
+},
+{
+"brief_key": "brief_90005",
+"brief_id": 900051,
+"design_id": 90005,
+"brief_type": "strategist",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on guitar for guitarist"
+},
+{
+"brief_key": "brief_90006",
+"brief_id": 900061,
+"design_id": 90006,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on cassette for country fan"
+},
+{
+"brief_key": "brief_90007",
+"brief_id": 900071,
+"design_id": 90007,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on vinyl record for vinyl collector"
+},
+{
+"brief_key": "brief_90008",
+"brief_id": 900081,
+"design_id": 90008,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on amplifier for country fan"
+},
+{
+"brief_key": "brief_90009",
+"brief_id": 900091,
+"design_id": 90009,
+"brief_type": "strategist",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on vinyl record for country fan"
+},
+{
+"brief_key": "brief_90010",
+"brief_id": 900101,
+"design_id": 90010,
+"brief_type": "demand_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on headphones for guitarist"
+},
+{
+"brief_key": "brief_90011",
+"brief_id": 900111,
+"design_id": 90011,
+"brief_type": "batch_auto",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on guitar for saxophonist"
+},
+{
+"brief_key": "brief_90012",
+"brief_id": 900121,
+"design_id": 90012,
+"brief_type": "strategist",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on piano keys for guitarist"
+},
+{
+"brief_key": "brief_90013",
+"brief_id": 900131,
+"design_id": 90013,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on headphones for producer"
+},
+{
+"brief_key": "brief_90014",
+"brief_id": 900141,
+"design_id": 90014,
+"brief_type": "batch_auto",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on amplifier for classical musician"
+},
+{
+"brief_key": "brief_90015",
+"brief_id": 900151,
+"design_id": 90015,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on cassette for saxophonist"
+},
+{
+"brief_key": "brief_90016",
+"brief_id": 900161,
+"design_id": 90016,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on guitar for guitarist"
+},
+{
+"brief_key": "brief_90017",
+"brief_id": 900171,
+"design_id": 90017,
+"brief_type": "demand_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on vinyl record for guitarist"
+},
+{
+"brief_key": "brief_90018",
+"brief_id": 900181,
+"design_id": 90018,
+"brief_type": "demand_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on turntable for metalhead"
+},
+{
+"brief_key": "brief_90019",
+"brief_id": 900191,
+"design_id": 90019,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on headphones for vinyl collector"
+},
+{
+"brief_key": "brief_90020",
+"brief_id": 900201,
+"design_id": 90020,
+"brief_type": "manual_backfill",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on microphone for classical musician"
+},
+{
+"brief_key": "brief_90021",
+"brief_id": 900211,
+"design_id": 90021,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on vinyl record for vinyl collector"
+},
+{
+"brief_key": "brief_90022",
+"brief_id": 900221,
+"design_id": 90022,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on amplifier for guitarist"
+},
+{
+"brief_key": "brief_90023",
+"brief_id": 900231,
+"design_id": 90023,
+"brief_type": "manual_backfill",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on music notes for metalhead"
+},
+{
+"brief_key": "brief_90024",
+"brief_id": 900241,
+"design_id": 90024,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on piano keys for producer"
+},
+{
+"brief_key": "brief_90025",
+"brief_id": 900251,
+"design_id": 90025,
+"brief_type": "strategist",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on cassette for country fan"
+},
+{
+"brief_key": "brief_90026",
+"brief_id": 900261,
+"design_id": 90026,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on guitar for vinyl collector"
+},
+{
+"brief_key": "brief_90027",
+"brief_id": 900271,
+"design_id": 90027,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on microphone for metalhead"
+},
+{
+"brief_key": "brief_90028",
+"brief_id": 900281,
+"design_id": 90028,
+"brief_type": "strategist",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on headphones for producer"
+},
+{
+"brief_key": "brief_90029",
+"brief_id": 900291,
+"design_id": 90029,
+"brief_type": "strategist",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on vinyl record for saxophonist"
+},
+{
+"brief_key": "brief_90030",
+"brief_id": 900301,
+"design_id": 90030,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on turntable for drummer"
+},
+{
+"brief_key": "brief_90031",
+"brief_id": 900311,
+"design_id": 90031,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on cassette for vinyl collector"
+},
+{
+"brief_key": "brief_90032",
+"brief_id": 900321,
+"design_id": 90032,
+"brief_type": "manual_backfill",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on vinyl record for producer"
+},
+{
+"brief_key": "brief_90033",
+"brief_id": 900331,
+"design_id": 90033,
+"brief_type": "demand_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on cassette for vinyl collector"
+},
+{
+"brief_key": "brief_90034",
+"brief_id": 900341,
+"design_id": 90034,
+"brief_type": "manual_backfill",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on amplifier for vinyl collector"
+},
+{
+"brief_key": "brief_90035",
+"brief_id": 900351,
+"design_id": 90035,
+"brief_type": "manual_backfill",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on guitar for classical musician"
+},
+{
+"brief_key": "brief_90036",
+"brief_id": 900361,
+"design_id": 90036,
+"brief_type": "batch_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on piano keys for classical musician"
+},
+{
+"brief_key": "brief_90037",
+"brief_id": 900371,
+"design_id": 90037,
+"brief_type": "strategist",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on cassette for classical musician"
+},
+{
+"brief_key": "brief_90038",
+"brief_id": 900381,
+"design_id": 90038,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on cassette for metalhead"
+},
+{
+"brief_key": "brief_90039",
+"brief_id": 900391,
+"design_id": 90039,
+"brief_type": "manual_backfill",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on turntable for classical musician"
+},
+{
+"brief_key": "brief_90040",
+"brief_id": 900401,
+"design_id": 90040,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on turntable for saxophonist"
+},
+{
+"brief_key": "brief_90041",
+"brief_id": 900411,
+"design_id": 90041,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on amplifier for saxophonist"
+},
+{
+"brief_key": "brief_90042",
+"brief_id": 900421,
+"design_id": 90042,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on sheet music for classical musician"
+},
+{
+"brief_key": "brief_90043",
+"brief_id": 900431,
+"design_id": 90043,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on sheet music for metalhead"
+},
+{
+"brief_key": "brief_90044",
+"brief_id": 900441,
+"design_id": 90044,
+"brief_type": "manual_backfill",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on vinyl record for country fan"
+},
+{
+"brief_key": "brief_90045",
+"brief_id": 900451,
+"design_id": 90045,
+"brief_type": "manual_backfill",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on turntable for producer"
+},
+{
+"brief_key": "brief_90046",
+"brief_id": 900461,
+"design_id": 90046,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on vinyl record for saxophonist"
+},
+{
+"brief_key": "brief_90047",
+"brief_id": 900471,
+"design_id": 90047,
+"brief_type": "demand_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on cassette for vinyl collector"
+},
+{
+"brief_key": "brief_90048",
+"brief_id": 900481,
+"design_id": 90048,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on music notes for saxophonist"
+},
+{
+"brief_key": "brief_90049",
+"brief_id": 900491,
+"design_id": 90049,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on cassette for metalhead"
+},
+{
+"brief_key": "brief_90050",
+"brief_id": 900501,
+"design_id": 90050,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on guitar for saxophonist"
+},
+{
+"brief_key": "brief_90051",
+"brief_id": 900511,
+"design_id": 90051,
+"brief_type": "manual_backfill",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on headphones for drummer"
+},
+{
+"brief_key": "brief_90052",
+"brief_id": 900521,
+"design_id": 90052,
+"brief_type": "demand_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on cassette for guitarist"
+},
+{
+"brief_key": "brief_90053",
+"brief_id": 900531,
+"design_id": 90053,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on microphone for guitarist"
+},
+{
+"brief_key": "brief_90054",
+"brief_id": 900541,
+"design_id": 90054,
+"brief_type": "demand_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on vinyl record for producer"
+},
+{
+"brief_key": "brief_90055",
+"brief_id": 900551,
+"design_id": 90055,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on guitar for vinyl collector"
+},
+{
+"brief_key": "brief_90056",
+"brief_id": 900561,
+"design_id": 90056,
+"brief_type": "manual_backfill",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on cassette for saxophonist"
+},
+{
+"brief_key": "brief_90057",
+"brief_id": 900571,
+"design_id": 90057,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on piano keys for drummer"
+},
+{
+"brief_key": "brief_90058",
+"brief_id": 900581,
+"design_id": 90058,
+"brief_type": "batch_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on cassette for guitarist"
+},
+{
+"brief_key": "brief_90059",
+"brief_id": 900591,
+"design_id": 90059,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on cassette for vinyl collector"
+},
+{
+"brief_key": "brief_90060",
+"brief_id": 900601,
+"design_id": 90060,
+"brief_type": "batch_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on microphone for classical musician"
+},
+{
+"brief_key": "brief_90061",
+"brief_id": 900611,
+"design_id": 90061,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on sheet music for producer"
+},
+{
+"brief_key": "brief_90062",
+"brief_id": 900621,
+"design_id": 90062,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on turntable for vinyl collector"
+},
+{
+"brief_key": "brief_90063",
+"brief_id": 900631,
+"design_id": 90063,
+"brief_type": "batch_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on sheet music for vinyl collector"
+},
+{
+"brief_key": "brief_90064",
+"brief_id": 900641,
+"design_id": 90064,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on microphone for country fan"
+},
+{
+"brief_key": "brief_90065",
+"brief_id": 900651,
+"design_id": 90065,
+"brief_type": "demand_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on cassette for drummer"
+},
+{
+"brief_key": "brief_90066",
+"brief_id": 900661,
+"design_id": 90066,
+"brief_type": "strategist",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on turntable for saxophonist"
+},
+{
+"brief_key": "brief_90067",
+"brief_id": 900671,
+"design_id": 90067,
+"brief_type": "manual_backfill",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on headphones for metalhead"
+},
+{
+"brief_key": "brief_90068",
+"brief_id": 900681,
+"design_id": 90068,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on turntable for country fan"
+},
+{
+"brief_key": "brief_90069",
+"brief_id": 900691,
+"design_id": 90069,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on piano keys for saxophonist"
+},
+{
+"brief_key": "brief_90070",
+"brief_id": 900701,
+"design_id": 90070,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on guitar for drummer"
+},
+{
+"brief_key": "brief_90071",
+"brief_id": 900711,
+"design_id": 90071,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on amplifier for metalhead"
+},
+{
+"brief_key": "brief_90072",
+"brief_id": 900721,
+"design_id": 90072,
+"brief_type": "strategist",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on microphone for guitarist"
+},
+{
+"brief_key": "brief_90073",
+"brief_id": 900731,
+"design_id": 90073,
+"brief_type": "batch_auto",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on amplifier for drummer"
+},
+{
+"brief_key": "brief_90074",
+"brief_id": 900741,
+"design_id": 90074,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on piano keys for producer"
+},
+{
+"brief_key": "brief_90075",
+"brief_id": 900751,
+"design_id": 90075,
+"brief_type": "demand_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on headphones for producer"
+},
+{
+"brief_key": "brief_90076",
+"brief_id": 900761,
+"design_id": 90076,
+"brief_type": "strategist",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on piano keys for country fan"
+},
+{
+"brief_key": "brief_90077",
+"brief_id": 900771,
+"design_id": 90077,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on sheet music for classical musician"
+},
+{
+"brief_key": "brief_90078",
+"brief_id": 900781,
+"design_id": 90078,
+"brief_type": "batch_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on turntable for saxophonist"
+},
+{
+"brief_key": "brief_90079",
+"brief_id": 900791,
+"design_id": 90079,
+"brief_type": "strategist",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on cassette for metalhead"
+},
+{
+"brief_key": "brief_90080",
+"brief_id": 900801,
+"design_id": 90080,
+"brief_type": "manual_backfill",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on amplifier for producer"
+},
+{
+"brief_key": "brief_90081",
+"brief_id": 900811,
+"design_id": 90081,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on sheet music for metalhead"
+},
+{
+"brief_key": "brief_90082",
+"brief_id": 900821,
+"design_id": 90082,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on guitar for drummer"
+},
+{
+"brief_key": "brief_90083",
+"brief_id": 900831,
+"design_id": 90083,
+"brief_type": "strategist",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on vinyl record for country fan"
+},
+{
+"brief_key": "brief_90084",
+"brief_id": 900841,
+"design_id": 90084,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on microphone for saxophonist"
+},
+{
+"brief_key": "brief_90085",
+"brief_id": 900851,
+"design_id": 90085,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on cassette for drummer"
+},
+{
+"brief_key": "brief_90086",
+"brief_id": 900861,
+"design_id": 90086,
+"brief_type": "strategist",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on music notes for guitarist"
+},
+{
+"brief_key": "brief_90087",
+"brief_id": 900871,
+"design_id": 90087,
+"brief_type": "strategist",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on headphones for classical musician"
+},
+{
+"brief_key": "brief_90088",
+"brief_id": 900881,
+"design_id": 90088,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on cassette for country fan"
+},
+{
+"brief_key": "brief_90089",
+"brief_id": 900891,
+"design_id": 90089,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on vinyl record for country fan"
+},
+{
+"brief_key": "brief_90090",
+"brief_id": 900901,
+"design_id": 90090,
+"brief_type": "batch_auto",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on amplifier for drummer"
+},
+{
+"brief_key": "brief_90091",
+"brief_id": 900911,
+"design_id": 90091,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on turntable for guitarist"
+},
+{
+"brief_key": "brief_90092",
+"brief_id": 900921,
+"design_id": 90092,
+"brief_type": "demand_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on turntable for classical musician"
+},
+{
+"brief_key": "brief_90093",
+"brief_id": 900931,
+"design_id": 90093,
+"brief_type": "batch_auto",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on turntable for vinyl collector"
+},
+{
+"brief_key": "brief_90094",
+"brief_id": 900941,
+"design_id": 90094,
+"brief_type": "demand_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on amplifier for vinyl collector"
+},
+{
+"brief_key": "brief_90095",
+"brief_id": 900951,
+"design_id": 90095,
+"brief_type": "batch_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on sheet music for guitarist"
+},
+{
+"brief_key": "brief_90096",
+"brief_id": 900961,
+"design_id": 90096,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on piano keys for guitarist"
+},
+{
+"brief_key": "brief_90097",
+"brief_id": 900971,
+"design_id": 90097,
+"brief_type": "manual_backfill",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on piano keys for saxophonist"
+},
+{
+"brief_key": "brief_90098",
+"brief_id": 900981,
+"design_id": 90098,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on headphones for saxophonist"
+},
+{
+"brief_key": "brief_90099",
+"brief_id": 900991,
+"design_id": 90099,
+"brief_type": "batch_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on guitar for guitarist"
+},
+{
+"brief_key": "brief_90100",
+"brief_id": 901001,
+"design_id": 90100,
+"brief_type": "manual_backfill",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on vinyl record for vinyl collector"
+},
+{
+"brief_key": "brief_90101",
+"brief_id": 901011,
+"design_id": 90101,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on piano keys for metalhead"
+},
+{
+"brief_key": "brief_90102",
+"brief_id": 901021,
+"design_id": 90102,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on music notes for drummer"
+},
+{
+"brief_key": "brief_90103",
+"brief_id": 901031,
+"design_id": 90103,
+"brief_type": "demand_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on amplifier for saxophonist"
+},
+{
+"brief_key": "brief_90104",
+"brief_id": 901041,
+"design_id": 90104,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on amplifier for producer"
+},
+{
+"brief_key": "brief_90105",
+"brief_id": 901051,
+"design_id": 90105,
+"brief_type": "demand_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on turntable for vinyl collector"
+},
+{
+"brief_key": "brief_90106",
+"brief_id": 901061,
+"design_id": 90106,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on vinyl record for producer"
+},
+{
+"brief_key": "brief_90107",
+"brief_id": 901071,
+"design_id": 90107,
+"brief_type": "manual_backfill",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on headphones for classical musician"
+},
+{
+"brief_key": "brief_90108",
+"brief_id": 901081,
+"design_id": 90108,
+"brief_type": "batch_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on sheet music for metalhead"
+},
+{
+"brief_key": "brief_90109",
+"brief_id": 901091,
+"design_id": 90109,
+"brief_type": "strategist",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on piano keys for country fan"
+},
+{
+"brief_key": "brief_90110",
+"brief_id": 901101,
+"design_id": 90110,
+"brief_type": "strategist",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on headphones for guitarist"
+},
+{
+"brief_key": "brief_90111",
+"brief_id": 901111,
+"design_id": 90111,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on piano keys for producer"
+},
+{
+"brief_key": "brief_90112",
+"brief_id": 901121,
+"design_id": 90112,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on microphone for country fan"
+},
+{
+"brief_key": "brief_90113",
+"brief_id": 901131,
+"design_id": 90113,
+"brief_type": "demand_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on microphone for metalhead"
+},
+{
+"brief_key": "brief_90114",
+"brief_id": 901141,
+"design_id": 90114,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on music notes for saxophonist"
+},
+{
+"brief_key": "brief_90115",
+"brief_id": 901151,
+"design_id": 90115,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on piano keys for saxophonist"
+},
+{
+"brief_key": "brief_90116",
+"brief_id": 901161,
+"design_id": 90116,
+"brief_type": "strategist",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on sheet music for metalhead"
+},
+{
+"brief_key": "brief_90117",
+"brief_id": 901171,
+"design_id": 90117,
+"brief_type": "manual_backfill",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on cassette for producer"
+},
+{
+"brief_key": "brief_90118",
+"brief_id": 901181,
+"design_id": 90118,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on microphone for saxophonist"
+},
+{
+"brief_key": "brief_90119",
+"brief_id": 901191,
+"design_id": 90119,
+"brief_type": "manual_backfill",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on cassette for saxophonist"
+},
+{
+"brief_key": "brief_90120",
+"brief_id": 901201,
+"design_id": 90120,
+"brief_type": "strategist",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on amplifier for metalhead"
+},
+{
+"brief_key": "brief_90121",
+"brief_id": 901211,
+"design_id": 90121,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on amplifier for saxophonist"
+},
+{
+"brief_key": "brief_90122",
+"brief_id": 901221,
+"design_id": 90122,
+"brief_type": "strategist",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on piano keys for metalhead"
+},
+{
+"brief_key": "brief_90123",
+"brief_id": 901231,
+"design_id": 90123,
+"brief_type": "strategist",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on sheet music for guitarist"
+},
+{
+"brief_key": "brief_90124",
+"brief_id": 901241,
+"design_id": 90124,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on sheet music for country fan"
+},
+{
+"brief_key": "brief_90125",
+"brief_id": 901251,
+"design_id": 90125,
+"brief_type": "strategist",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on piano keys for drummer"
+},
+{
+"brief_key": "brief_90126",
+"brief_id": 901261,
+"design_id": 90126,
+"brief_type": "demand_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on music notes for classical musician"
+},
+{
+"brief_key": "brief_90127",
+"brief_id": 901271,
+"design_id": 90127,
+"brief_type": "strategist",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on sheet music for metalhead"
+},
+{
+"brief_key": "brief_90128",
+"brief_id": 901281,
+"design_id": 90128,
+"brief_type": "manual_backfill",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on vinyl record for saxophonist"
+},
+{
+"brief_key": "brief_90129",
+"brief_id": 901291,
+"design_id": 90129,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on music notes for classical musician"
+},
+{
+"brief_key": "brief_90130",
+"brief_id": 901301,
+"design_id": 90130,
+"brief_type": "manual_backfill",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on music notes for guitarist"
+},
+{
+"brief_key": "brief_90131",
+"brief_id": 901311,
+"design_id": 90131,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on cassette for drummer"
+},
+{
+"brief_key": "brief_90132",
+"brief_id": 901321,
+"design_id": 90132,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on microphone for guitarist"
+},
+{
+"brief_key": "brief_90133",
+"brief_id": 901331,
+"design_id": 90133,
+"brief_type": "strategist",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on amplifier for drummer"
+},
+{
+"brief_key": "brief_90134",
+"brief_id": 901341,
+"design_id": 90134,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on turntable for country fan"
+},
+{
+"brief_key": "brief_90135",
+"brief_id": 901351,
+"design_id": 90135,
+"brief_type": "demand_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on microphone for guitarist"
+},
+{
+"brief_key": "brief_90136",
+"brief_id": 901361,
+"design_id": 90136,
+"brief_type": "demand_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on amplifier for producer"
+},
+{
+"brief_key": "brief_90137",
+"brief_id": 901371,
+"design_id": 90137,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on guitar for country fan"
+},
+{
+"brief_key": "brief_90138",
+"brief_id": 901381,
+"design_id": 90138,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on headphones for metalhead"
+},
+{
+"brief_key": "brief_90139",
+"brief_id": 901391,
+"design_id": 90139,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on headphones for country fan"
+},
+{
+"brief_key": "brief_90140",
+"brief_id": 901401,
+"design_id": 90140,
+"brief_type": "batch_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on microphone for metalhead"
+},
+{
+"brief_key": "brief_90141",
+"brief_id": 901411,
+"design_id": 90141,
+"brief_type": "batch_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on sheet music for classical musician"
+},
+{
+"brief_key": "brief_90142",
+"brief_id": 901421,
+"design_id": 90142,
+"brief_type": "manual_backfill",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on cassette for guitarist"
+},
+{
+"brief_key": "brief_90143",
+"brief_id": 901431,
+"design_id": 90143,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on microphone for metalhead"
+},
+{
+"brief_key": "brief_90144",
+"brief_id": 901441,
+"design_id": 90144,
+"brief_type": "demand_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on amplifier for drummer"
+},
+{
+"brief_key": "brief_90145",
+"brief_id": 901451,
+"design_id": 90145,
+"brief_type": "batch_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on sheet music for producer"
+},
+{
+"brief_key": "brief_90146",
+"brief_id": 901461,
+"design_id": 90146,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on sheet music for guitarist"
+},
+{
+"brief_key": "brief_90147",
+"brief_id": 901471,
+"design_id": 90147,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on vinyl record for classical musician"
+},
+{
+"brief_key": "brief_90148",
+"brief_id": 901481,
+"design_id": 90148,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on amplifier for guitarist"
+},
+{
+"brief_key": "brief_90149",
+"brief_id": 901491,
+"design_id": 90149,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on piano keys for saxophonist"
+},
+{
+"brief_key": "brief_90150",
+"brief_id": 901501,
+"design_id": 90150,
+"brief_type": "batch_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on cassette for country fan"
+},
+{
+"brief_key": "brief_90151",
+"brief_id": 901511,
+"design_id": 90151,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on vinyl record for drummer"
+},
+{
+"brief_key": "brief_90152",
+"brief_id": 901521,
+"design_id": 90152,
+"brief_type": "demand_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on turntable for metalhead"
+},
+{
+"brief_key": "brief_90153",
+"brief_id": 901531,
+"design_id": 90153,
+"brief_type": "strategist",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on amplifier for country fan"
+},
+{
+"brief_key": "brief_90154",
+"brief_id": 901541,
+"design_id": 90154,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on cassette for metalhead"
+},
+{
+"brief_key": "brief_90155",
+"brief_id": 901551,
+"design_id": 90155,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on headphones for drummer"
+},
+{
+"brief_key": "brief_90156",
+"brief_id": 901561,
+"design_id": 90156,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on amplifier for country fan"
+},
+{
+"brief_key": "brief_90157",
+"brief_id": 901571,
+"design_id": 90157,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on cassette for producer"
+},
+{
+"brief_key": "brief_90158",
+"brief_id": 901581,
+"design_id": 90158,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on microphone for guitarist"
+},
+{
+"brief_key": "brief_90159",
+"brief_id": 901591,
+"design_id": 90159,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on music notes for metalhead"
+},
+{
+"brief_key": "brief_90160",
+"brief_id": 901601,
+"design_id": 90160,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on microphone for country fan"
+},
+{
+"brief_key": "brief_90161",
+"brief_id": 901611,
+"design_id": 90161,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on music notes for producer"
+},
+{
+"brief_key": "brief_90162",
+"brief_id": 901621,
+"design_id": 90162,
+"brief_type": "demand_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on sheet music for saxophonist"
+},
+{
+"brief_key": "brief_90163",
+"brief_id": 901631,
+"design_id": 90163,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on vinyl record for vinyl collector"
+},
+{
+"brief_key": "brief_90164",
+"brief_id": 901641,
+"design_id": 90164,
+"brief_type": "batch_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on piano keys for saxophonist"
+},
+{
+"brief_key": "brief_90165",
+"brief_id": 901651,
+"design_id": 90165,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on cassette for saxophonist"
+},
+{
+"brief_key": "brief_90166",
+"brief_id": 901661,
+"design_id": 90166,
+"brief_type": "batch_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on guitar for vinyl collector"
+},
+{
+"brief_key": "brief_90167",
+"brief_id": 901671,
+"design_id": 90167,
+"brief_type": "strategist",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on piano keys for classical musician"
+},
+{
+"brief_key": "brief_90168",
+"brief_id": 901681,
+"design_id": 90168,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on music notes for vinyl collector"
+},
+{
+"brief_key": "brief_90169",
+"brief_id": 901691,
+"design_id": 90169,
+"brief_type": "manual_backfill",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on turntable for producer"
+},
+{
+"brief_key": "brief_90170",
+"brief_id": 901701,
+"design_id": 90170,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on music notes for metalhead"
+},
+{
+"brief_key": "brief_90171",
+"brief_id": 901711,
+"design_id": 90171,
+"brief_type": "batch_auto",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on amplifier for saxophonist"
+},
+{
+"brief_key": "brief_90172",
+"brief_id": 901721,
+"design_id": 90172,
+"brief_type": "strategist",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on vinyl record for drummer"
+},
+{
+"brief_key": "brief_90173",
+"brief_id": 901731,
+"design_id": 90173,
+"brief_type": "manual_backfill",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on microphone for guitarist"
+},
+{
+"brief_key": "brief_90174",
+"brief_id": 901741,
+"design_id": 90174,
+"brief_type": "strategist",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on music notes for guitarist"
+},
+{
+"brief_key": "brief_90175",
+"brief_id": 901751,
+"design_id": 90175,
+"brief_type": "batch_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on microphone for producer"
+},
+{
+"brief_key": "brief_90176",
+"brief_id": 901761,
+"design_id": 90176,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on vinyl record for producer"
+},
+{
+"brief_key": "brief_90177",
+"brief_id": 901771,
+"design_id": 90177,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on vinyl record for guitarist"
+},
+{
+"brief_key": "brief_90178",
+"brief_id": 901781,
+"design_id": 90178,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on piano keys for country fan"
+},
+{
+"brief_key": "brief_90179",
+"brief_id": 901791,
+"design_id": 90179,
+"brief_type": "batch_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on sheet music for country fan"
+},
+{
+"brief_key": "brief_90180",
+"brief_id": 901801,
+"design_id": 90180,
+"brief_type": "strategist",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on turntable for vinyl collector"
+},
+{
+"brief_key": "brief_90181",
+"brief_id": 901811,
+"design_id": 90181,
+"brief_type": "demand_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on turntable for guitarist"
+},
+{
+"brief_key": "brief_90182",
+"brief_id": 901821,
+"design_id": 90182,
+"brief_type": "strategist",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on piano keys for country fan"
+},
+{
+"brief_key": "brief_90183",
+"brief_id": 901831,
+"design_id": 90183,
+"brief_type": "strategist",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on headphones for drummer"
+},
+{
+"brief_key": "brief_90184",
+"brief_id": 901841,
+"design_id": 90184,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on vinyl record for drummer"
+},
+{
+"brief_key": "brief_90185",
+"brief_id": 901851,
+"design_id": 90185,
+"brief_type": "batch_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on music notes for guitarist"
+},
+{
+"brief_key": "brief_90186",
+"brief_id": 901861,
+"design_id": 90186,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on microphone for vinyl collector"
+},
+{
+"brief_key": "brief_90187",
+"brief_id": 901871,
+"design_id": 90187,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on piano keys for vinyl collector"
+},
+{
+"brief_key": "brief_90188",
+"brief_id": 901881,
+"design_id": 90188,
+"brief_type": "manual_backfill",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on sheet music for metalhead"
+},
+{
+"brief_key": "brief_90189",
+"brief_id": 901891,
+"design_id": 90189,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on cassette for producer"
+},
+{
+"brief_key": "brief_90190",
+"brief_id": 901901,
+"design_id": 90190,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on amplifier for guitarist"
+},
+{
+"brief_key": "brief_90191",
+"brief_id": 901911,
+"design_id": 90191,
+"brief_type": "batch_auto",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on music notes for metalhead"
+},
+{
+"brief_key": "brief_90192",
+"brief_id": 901921,
+"design_id": 90192,
+"brief_type": "strategist",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on amplifier for producer"
+},
+{
+"brief_key": "brief_90193",
+"brief_id": 901931,
+"design_id": 90193,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on sheet music for country fan"
+},
+{
+"brief_key": "brief_90194",
+"brief_id": 901941,
+"design_id": 90194,
+"brief_type": "manual_backfill",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on cassette for drummer"
+},
+{
+"brief_key": "brief_90195",
+"brief_id": 901951,
+"design_id": 90195,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on microphone for guitarist"
+},
+{
+"brief_key": "brief_90196",
+"brief_id": 901961,
+"design_id": 90196,
+"brief_type": "batch_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on guitar for producer"
+},
+{
+"brief_key": "brief_90197",
+"brief_id": 901971,
+"design_id": 90197,
+"brief_type": "strategist",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on cassette for country fan"
+},
+{
+"brief_key": "brief_90198",
+"brief_id": 901981,
+"design_id": 90198,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on music notes for metalhead"
+},
+{
+"brief_key": "brief_90199",
+"brief_id": 901991,
+"design_id": 90199,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on microphone for classical musician"
+},
+{
+"brief_key": "brief_90200",
+"brief_id": 902001,
+"design_id": 90200,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on music notes for country fan"
+},
+{
+"brief_key": "brief_90201",
+"brief_id": 902011,
+"design_id": 90201,
+"brief_type": "batch_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on guitar for vinyl collector"
+},
+{
+"brief_key": "brief_90202",
+"brief_id": 902021,
+"design_id": 90202,
+"brief_type": "batch_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on music notes for guitarist"
+},
+{
+"brief_key": "brief_90203",
+"brief_id": 902031,
+"design_id": 90203,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on cassette for metalhead"
+},
+{
+"brief_key": "brief_90204",
+"brief_id": 902041,
+"design_id": 90204,
+"brief_type": "strategist",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on microphone for saxophonist"
+},
+{
+"brief_key": "brief_90205",
+"brief_id": 902051,
+"design_id": 90205,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on amplifier for country fan"
+},
+{
+"brief_key": "brief_90206",
+"brief_id": 902061,
+"design_id": 90206,
+"brief_type": "strategist",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on music notes for saxophonist"
+},
+{
+"brief_key": "brief_90207",
+"brief_id": 902071,
+"design_id": 90207,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on amplifier for vinyl collector"
+},
+{
+"brief_key": "brief_90208",
+"brief_id": 902081,
+"design_id": 90208,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on microphone for metalhead"
+},
+{
+"brief_key": "brief_90209",
+"brief_id": 902091,
+"design_id": 90209,
+"brief_type": "strategist",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on piano keys for guitarist"
+},
+{
+"brief_key": "brief_90210",
+"brief_id": 902101,
+"design_id": 90210,
+"brief_type": "strategist",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on sheet music for metalhead"
+},
+{
+"brief_key": "brief_90211",
+"brief_id": 902111,
+"design_id": 90211,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on vinyl record for drummer"
+},
+{
+"brief_key": "brief_90212",
+"brief_id": 902121,
+"design_id": 90212,
+"brief_type": "batch_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on microphone for saxophonist"
+},
+{
+"brief_key": "brief_90213",
+"brief_id": 902131,
+"design_id": 90213,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on piano keys for drummer"
+},
+{
+"brief_key": "brief_90214",
+"brief_id": 902141,
+"design_id": 90214,
+"brief_type": "manual_backfill",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on vinyl record for drummer"
+},
+{
+"brief_key": "brief_90215",
+"brief_id": 902151,
+"design_id": 90215,
+"brief_type": "demand_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on headphones for guitarist"
+},
+{
+"brief_key": "brief_90216",
+"brief_id": 902161,
+"design_id": 90216,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on cassette for metalhead"
+},
+{
+"brief_key": "brief_90217",
+"brief_id": 902171,
+"design_id": 90217,
+"brief_type": "strategist",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on microphone for saxophonist"
+},
+{
+"brief_key": "brief_90218",
+"brief_id": 902181,
+"design_id": 90218,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on sheet music for metalhead"
+},
+{
+"brief_key": "brief_90219",
+"brief_id": 902191,
+"design_id": 90219,
+"brief_type": "strategist",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on piano keys for drummer"
+},
+{
+"brief_key": "brief_90220",
+"brief_id": 902201,
+"design_id": 90220,
+"brief_type": "strategist",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on music notes for vinyl collector"
+},
+{
+"brief_key": "brief_90221",
+"brief_id": 902211,
+"design_id": 90221,
+"brief_type": "strategist",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on headphones for guitarist"
+},
+{
+"brief_key": "brief_90222",
+"brief_id": 902221,
+"design_id": 90222,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on amplifier for vinyl collector"
+},
+{
+"brief_key": "brief_90223",
+"brief_id": 902231,
+"design_id": 90223,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on guitar for country fan"
+},
+{
+"brief_key": "brief_90224",
+"brief_id": 902241,
+"design_id": 90224,
+"brief_type": "batch_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on turntable for saxophonist"
+},
+{
+"brief_key": "brief_90225",
+"brief_id": 902251,
+"design_id": 90225,
+"brief_type": "batch_auto",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on sheet music for producer"
+},
+{
+"brief_key": "brief_90226",
+"brief_id": 902261,
+"design_id": 90226,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on vinyl record for classical musician"
+},
+{
+"brief_key": "brief_90227",
+"brief_id": 902271,
+"design_id": 90227,
+"brief_type": "demand_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on headphones for drummer"
+},
+{
+"brief_key": "brief_90228",
+"brief_id": 902281,
+"design_id": 90228,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on amplifier for guitarist"
+},
+{
+"brief_key": "brief_90229",
+"brief_id": 902291,
+"design_id": 90229,
+"brief_type": "strategist",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on sheet music for vinyl collector"
+},
+{
+"brief_key": "brief_90230",
+"brief_id": 902301,
+"design_id": 90230,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on turntable for guitarist"
+},
+{
+"brief_key": "brief_90231",
+"brief_id": 902311,
+"design_id": 90231,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on music notes for classical musician"
+},
+{
+"brief_key": "brief_90232",
+"brief_id": 902321,
+"design_id": 90232,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on guitar for country fan"
+},
+{
+"brief_key": "brief_90233",
+"brief_id": 902331,
+"design_id": 90233,
+"brief_type": "strategist",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on turntable for saxophonist"
+},
+{
+"brief_key": "brief_90234",
+"brief_id": 902341,
+"design_id": 90234,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on piano keys for classical musician"
+},
+{
+"brief_key": "brief_90235",
+"brief_id": 902351,
+"design_id": 90235,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on turntable for country fan"
+},
+{
+"brief_key": "brief_90236",
+"brief_id": 902361,
+"design_id": 90236,
+"brief_type": "demand_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on cassette for producer"
+},
+{
+"brief_key": "brief_90237",
+"brief_id": 902371,
+"design_id": 90237,
+"brief_type": "strategist",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on sheet music for metalhead"
+},
+{
+"brief_key": "brief_90238",
+"brief_id": 902381,
+"design_id": 90238,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on piano keys for guitarist"
+},
+{
+"brief_key": "brief_90239",
+"brief_id": 902391,
+"design_id": 90239,
+"brief_type": "batch_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on piano keys for country fan"
+},
+{
+"brief_key": "brief_90240",
+"brief_id": 902401,
+"design_id": 90240,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on music notes for guitarist"
+},
+{
+"brief_key": "brief_90241",
+"brief_id": 902411,
+"design_id": 90241,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on sheet music for saxophonist"
+},
+{
+"brief_key": "brief_90242",
+"brief_id": 902421,
+"design_id": 90242,
+"brief_type": "demand_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on music notes for classical musician"
+},
+{
+"brief_key": "brief_90243",
+"brief_id": 902431,
+"design_id": 90243,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on sheet music for guitarist"
+},
+{
+"brief_key": "brief_90244",
+"brief_id": 902441,
+"design_id": 90244,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on cassette for saxophonist"
+},
+{
+"brief_key": "brief_90245",
+"brief_id": 902451,
+"design_id": 90245,
+"brief_type": "manual_backfill",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on guitar for metalhead"
+},
+{
+"brief_key": "brief_90246",
+"brief_id": 902461,
+"design_id": 90246,
+"brief_type": "strategist",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on amplifier for metalhead"
+},
+{
+"brief_key": "brief_90247",
+"brief_id": 902471,
+"design_id": 90247,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on vinyl record for producer"
+},
+{
+"brief_key": "brief_90248",
+"brief_id": 902481,
+"design_id": 90248,
+"brief_type": "manual_backfill",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on guitar for vinyl collector"
+},
+{
+"brief_key": "brief_90249",
+"brief_id": 902491,
+"design_id": 90249,
+"brief_type": "batch_auto",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on vinyl record for country fan"
+},
+{
+"brief_key": "brief_90250",
+"brief_id": 902501,
+"design_id": 90250,
+"brief_type": "batch_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on piano keys for producer"
+},
+{
+"brief_key": "brief_90251",
+"brief_id": 902511,
+"design_id": 90251,
+"brief_type": "demand_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on cassette for producer"
+},
+{
+"brief_key": "brief_90252",
+"brief_id": 902521,
+"design_id": 90252,
+"brief_type": "strategist",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on microphone for classical musician"
+},
+{
+"brief_key": "brief_90253",
+"brief_id": 902531,
+"design_id": 90253,
+"brief_type": "demand_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on music notes for saxophonist"
+},
+{
+"brief_key": "brief_90254",
+"brief_id": 902541,
+"design_id": 90254,
+"brief_type": "manual_backfill",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on vinyl record for metalhead"
+},
+{
+"brief_key": "brief_90255",
+"brief_id": 902551,
+"design_id": 90255,
+"brief_type": "strategist",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on guitar for metalhead"
+},
+{
+"brief_key": "brief_90256",
+"brief_id": 902561,
+"design_id": 90256,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on amplifier for guitarist"
+},
+{
+"brief_key": "brief_90257",
+"brief_id": 902571,
+"design_id": 90257,
+"brief_type": "strategist",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on headphones for country fan"
+},
+{
+"brief_key": "brief_90258",
+"brief_id": 902581,
+"design_id": 90258,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on cassette for saxophonist"
+},
+{
+"brief_key": "brief_90259",
+"brief_id": 902591,
+"design_id": 90259,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on sheet music for metalhead"
+},
+{
+"brief_key": "brief_90260",
+"brief_id": 902601,
+"design_id": 90260,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on sheet music for vinyl collector"
+},
+{
+"brief_key": "brief_90261",
+"brief_id": 902611,
+"design_id": 90261,
+"brief_type": "strategist",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on guitar for metalhead"
+},
+{
+"brief_key": "brief_90262",
+"brief_id": 902621,
+"design_id": 90262,
+"brief_type": "strategist",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on sheet music for saxophonist"
+},
+{
+"brief_key": "brief_90263",
+"brief_id": 902631,
+"design_id": 90263,
+"brief_type": "strategist",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on cassette for classical musician"
+},
+{
+"brief_key": "brief_90264",
+"brief_id": 902641,
+"design_id": 90264,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on music notes for guitarist"
+},
+{
+"brief_key": "brief_90265",
+"brief_id": 902651,
+"design_id": 90265,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on vinyl record for metalhead"
+},
+{
+"brief_key": "brief_90266",
+"brief_id": 902661,
+"design_id": 90266,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on headphones for saxophonist"
+},
+{
+"brief_key": "brief_90267",
+"brief_id": 902671,
+"design_id": 90267,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on piano keys for country fan"
+},
+{
+"brief_key": "brief_90268",
+"brief_id": 902681,
+"design_id": 90268,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on vinyl record for guitarist"
+},
+{
+"brief_key": "brief_90269",
+"brief_id": 902691,
+"design_id": 90269,
+"brief_type": "manual_backfill",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on headphones for metalhead"
+},
+{
+"brief_key": "brief_90270",
+"brief_id": 902701,
+"design_id": 90270,
+"brief_type": "manual_backfill",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on microphone for drummer"
+},
+{
+"brief_key": "brief_90271",
+"brief_id": 902711,
+"design_id": 90271,
+"brief_type": "strategist",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on sheet music for vinyl collector"
+},
+{
+"brief_key": "brief_90272",
+"brief_id": 902721,
+"design_id": 90272,
+"brief_type": "strategist",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on piano keys for guitarist"
+},
+{
+"brief_key": "brief_90273",
+"brief_id": 902731,
+"design_id": 90273,
+"brief_type": "batch_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on guitar for vinyl collector"
+},
+{
+"brief_key": "brief_90274",
+"brief_id": 902741,
+"design_id": 90274,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on vinyl record for guitarist"
+},
+{
+"brief_key": "brief_90275",
+"brief_id": 902751,
+"design_id": 90275,
+"brief_type": "demand_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on vinyl record for country fan"
+},
+{
+"brief_key": "brief_90276",
+"brief_id": 902761,
+"design_id": 90276,
+"brief_type": "manual_backfill",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on piano keys for vinyl collector"
+},
+{
+"brief_key": "brief_90277",
+"brief_id": 902771,
+"design_id": 90277,
+"brief_type": "batch_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on music notes for guitarist"
+},
+{
+"brief_key": "brief_90278",
+"brief_id": 902781,
+"design_id": 90278,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on headphones for country fan"
+},
+{
+"brief_key": "brief_90279",
+"brief_id": 902791,
+"design_id": 90279,
+"brief_type": "manual_backfill",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on vinyl record for producer"
+},
+{
+"brief_key": "brief_90280",
+"brief_id": 902801,
+"design_id": 90280,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on microphone for classical musician"
+},
+{
+"brief_key": "brief_90281",
+"brief_id": 902811,
+"design_id": 90281,
+"brief_type": "manual_backfill",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on amplifier for guitarist"
+},
+{
+"brief_key": "brief_90282",
+"brief_id": 902821,
+"design_id": 90282,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on guitar for vinyl collector"
+},
+{
+"brief_key": "brief_90283",
+"brief_id": 902831,
+"design_id": 90283,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on turntable for saxophonist"
+},
+{
+"brief_key": "brief_90284",
+"brief_id": 902841,
+"design_id": 90284,
+"brief_type": "strategist",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on microphone for country fan"
+},
+{
+"brief_key": "brief_90285",
+"brief_id": 902851,
+"design_id": 90285,
+"brief_type": "batch_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on headphones for classical musician"
+},
+{
+"brief_key": "brief_90286",
+"brief_id": 902861,
+"design_id": 90286,
+"brief_type": "batch_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on headphones for country fan"
+},
+{
+"brief_key": "brief_90287",
+"brief_id": 902871,
+"design_id": 90287,
+"brief_type": "manual_backfill",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on sheet music for producer"
+},
+{
+"brief_key": "brief_90288",
+"brief_id": 902881,
+"design_id": 90288,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on vinyl record for vinyl collector"
+},
+{
+"brief_key": "brief_90289",
+"brief_id": 902891,
+"design_id": 90289,
+"brief_type": "strategist",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on headphones for country fan"
+},
+{
+"brief_key": "brief_90290",
+"brief_id": 902901,
+"design_id": 90290,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on piano keys for metalhead"
+},
+{
+"brief_key": "brief_90291",
+"brief_id": 902911,
+"design_id": 90291,
+"brief_type": "strategist",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on piano keys for guitarist"
+},
+{
+"brief_key": "brief_90292",
+"brief_id": 902921,
+"design_id": 90292,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on sheet music for saxophonist"
+},
+{
+"brief_key": "brief_90293",
+"brief_id": 902931,
+"design_id": 90293,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on headphones for drummer"
+},
+{
+"brief_key": "brief_90294",
+"brief_id": 902941,
+"design_id": 90294,
+"brief_type": "manual_backfill",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on music notes for guitarist"
+},
+{
+"brief_key": "brief_90295",
+"brief_id": 902951,
+"design_id": 90295,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on amplifier for drummer"
+},
+{
+"brief_key": "brief_90296",
+"brief_id": 902961,
+"design_id": 90296,
+"brief_type": "strategist",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on vinyl record for saxophonist"
+},
+{
+"brief_key": "brief_90297",
+"brief_id": 902971,
+"design_id": 90297,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on cassette for vinyl collector"
+},
+{
+"brief_key": "brief_90298",
+"brief_id": 902981,
+"design_id": 90298,
+"brief_type": "manual_backfill",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on guitar for guitarist"
+},
+{
+"brief_key": "brief_90299",
+"brief_id": 902991,
+"design_id": 90299,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on cassette for metalhead"
+},
+{
+"brief_key": "brief_90300",
+"brief_id": 903001,
+"design_id": 90300,
+"brief_type": "batch_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on amplifier for country fan"
+},
+{
+"brief_key": "brief_90301",
+"brief_id": 903011,
+"design_id": 90301,
+"brief_type": "strategist",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on amplifier for guitarist"
+},
+{
+"brief_key": "brief_90302",
+"brief_id": 903021,
+"design_id": 90302,
+"brief_type": "manual_backfill",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on amplifier for vinyl collector"
+},
+{
+"brief_key": "brief_90303",
+"brief_id": 903031,
+"design_id": 90303,
+"brief_type": "demand_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on cassette for country fan"
+},
+{
+"brief_key": "brief_90304",
+"brief_id": 903041,
+"design_id": 90304,
+"brief_type": "manual_backfill",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on guitar for drummer"
+},
+{
+"brief_key": "brief_90305",
+"brief_id": 903051,
+"design_id": 90305,
+"brief_type": "manual_backfill",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on guitar for saxophonist"
+},
+{
+"brief_key": "brief_90306",
+"brief_id": 903061,
+"design_id": 90306,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on music notes for metalhead"
+},
+{
+"brief_key": "brief_90307",
+"brief_id": 903071,
+"design_id": 90307,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on music notes for country fan"
+},
+{
+"brief_key": "brief_90308",
+"brief_id": 903081,
+"design_id": 90308,
+"brief_type": "manual_backfill",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on turntable for saxophonist"
+},
+{
+"brief_key": "brief_90309",
+"brief_id": 903091,
+"design_id": 90309,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on piano keys for drummer"
+},
+{
+"brief_key": "brief_90310",
+"brief_id": 903101,
+"design_id": 90310,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on cassette for saxophonist"
+},
+{
+"brief_key": "brief_90311",
+"brief_id": 903111,
+"design_id": 90311,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on music notes for classical musician"
+},
+{
+"brief_key": "brief_90312",
+"brief_id": 903121,
+"design_id": 90312,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on piano keys for guitarist"
+},
+{
+"brief_key": "brief_90313",
+"brief_id": 903131,
+"design_id": 90313,
+"brief_type": "strategist",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on sheet music for guitarist"
+},
+{
+"brief_key": "brief_90314",
+"brief_id": 903141,
+"design_id": 90314,
+"brief_type": "strategist",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on cassette for guitarist"
+},
+{
+"brief_key": "brief_90315",
+"brief_id": 903151,
+"design_id": 90315,
+"brief_type": "strategist",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on guitar for drummer"
+},
+{
+"brief_key": "brief_90316",
+"brief_id": 903161,
+"design_id": 90316,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on turntable for classical musician"
+},
+{
+"brief_key": "brief_90317",
+"brief_id": 903171,
+"design_id": 90317,
+"brief_type": "demand_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on turntable for metalhead"
+},
+{
+"brief_key": "brief_90318",
+"brief_id": 903181,
+"design_id": 90318,
+"brief_type": "strategist",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on cassette for country fan"
+},
+{
+"brief_key": "brief_90319",
+"brief_id": 903191,
+"design_id": 90319,
+"brief_type": "manual_backfill",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on sheet music for guitarist"
+},
+{
+"brief_key": "brief_90320",
+"brief_id": 903201,
+"design_id": 90320,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on vinyl record for classical musician"
+},
+{
+"brief_key": "brief_90321",
+"brief_id": 903211,
+"design_id": 90321,
+"brief_type": "batch_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on microphone for guitarist"
+},
+{
+"brief_key": "brief_90322",
+"brief_id": 903221,
+"design_id": 90322,
+"brief_type": "strategist",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on guitar for metalhead"
+},
+{
+"brief_key": "brief_90323",
+"brief_id": 903231,
+"design_id": 90323,
+"brief_type": "manual_backfill",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on amplifier for country fan"
+},
+{
+"brief_key": "brief_90324",
+"brief_id": 903241,
+"design_id": 90324,
+"brief_type": "batch_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on vinyl record for country fan"
+},
+{
+"brief_key": "brief_90325",
+"brief_id": 903251,
+"design_id": 90325,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on amplifier for producer"
+},
+{
+"brief_key": "brief_90326",
+"brief_id": 903261,
+"design_id": 90326,
+"brief_type": "strategist",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on cassette for producer"
+},
+{
+"brief_key": "brief_90327",
+"brief_id": 903271,
+"design_id": 90327,
+"brief_type": "batch_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on guitar for classical musician"
+},
+{
+"brief_key": "brief_90328",
+"brief_id": 903281,
+"design_id": 90328,
+"brief_type": "manual_backfill",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on amplifier for country fan"
+},
+{
+"brief_key": "brief_90329",
+"brief_id": 903291,
+"design_id": 90329,
+"brief_type": "manual_backfill",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on amplifier for classical musician"
+},
+{
+"brief_key": "brief_90330",
+"brief_id": 903301,
+"design_id": 90330,
+"brief_type": "batch_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on turntable for producer"
+},
+{
+"brief_key": "brief_90331",
+"brief_id": 903311,
+"design_id": 90331,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on sheet music for guitarist"
+},
+{
+"brief_key": "brief_90332",
+"brief_id": 903321,
+"design_id": 90332,
+"brief_type": "demand_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on headphones for drummer"
+},
+{
+"brief_key": "brief_90333",
+"brief_id": 903331,
+"design_id": 90333,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on guitar for producer"
+},
+{
+"brief_key": "brief_90334",
+"brief_id": 903341,
+"design_id": 90334,
+"brief_type": "manual_backfill",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on vinyl record for metalhead"
+},
+{
+"brief_key": "brief_90335",
+"brief_id": 903351,
+"design_id": 90335,
+"brief_type": "batch_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on piano keys for saxophonist"
+},
+{
+"brief_key": "brief_90336",
+"brief_id": 903361,
+"design_id": 90336,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on music notes for drummer"
+},
+{
+"brief_key": "brief_90337",
+"brief_id": 903371,
+"design_id": 90337,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on music notes for producer"
+},
+{
+"brief_key": "brief_90338",
+"brief_id": 903381,
+"design_id": 90338,
+"brief_type": "demand_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "variation bet on sheet music for country fan"
+},
+{
+"brief_key": "brief_90339",
+"brief_id": 903391,
+"design_id": 90339,
+"brief_type": "manual_backfill",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on guitar for producer"
+},
+{
+"brief_key": "brief_90340",
+"brief_id": 903401,
+"design_id": 90340,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on sheet music for drummer"
+},
+{
+"brief_key": "brief_90341",
+"brief_id": 903411,
+"design_id": 90341,
+"brief_type": "batch_auto",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on cassette for vinyl collector"
+},
+{
+"brief_key": "brief_90342",
+"brief_id": 903421,
+"design_id": 90342,
+"brief_type": "manual_backfill",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on cassette for metalhead"
+},
+{
+"brief_key": "brief_90343",
+"brief_id": 903431,
+"design_id": 90343,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on cassette for drummer"
+},
+{
+"brief_key": "brief_90344",
+"brief_id": 903441,
+"design_id": 90344,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on piano keys for drummer"
+},
+{
+"brief_key": "brief_90345",
+"brief_id": 903451,
+"design_id": 90345,
+"brief_type": "strategist",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on guitar for vinyl collector"
+},
+{
+"brief_key": "brief_90346",
+"brief_id": 903461,
+"design_id": 90346,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on guitar for classical musician"
+},
+{
+"brief_key": "brief_90347",
+"brief_id": 903471,
+"design_id": 90347,
+"brief_type": "manual_backfill",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on music notes for classical musician"
+},
+{
+"brief_key": "brief_90348",
+"brief_id": 903481,
+"design_id": 90348,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on vinyl record for metalhead"
+},
+{
+"brief_key": "brief_90349",
+"brief_id": 903491,
+"design_id": 90349,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on turntable for vinyl collector"
+},
+{
+"brief_key": "brief_90350",
+"brief_id": 903501,
+"design_id": 90350,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on piano keys for guitarist"
+},
+{
+"brief_key": "brief_90351",
+"brief_id": 903511,
+"design_id": 90351,
+"brief_type": "strategist",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on piano keys for saxophonist"
+},
+{
+"brief_key": "brief_90352",
+"brief_id": 903521,
+"design_id": 90352,
+"brief_type": "strategist",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on sheet music for classical musician"
+},
+{
+"brief_key": "brief_90353",
+"brief_id": 903531,
+"design_id": 90353,
+"brief_type": "strategist",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on piano keys for vinyl collector"
+},
+{
+"brief_key": "brief_90354",
+"brief_id": 903541,
+"design_id": 90354,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on headphones for metalhead"
+},
+{
+"brief_key": "brief_90355",
+"brief_id": 903551,
+"design_id": 90355,
+"brief_type": "manual_backfill",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on headphones for drummer"
+},
+{
+"brief_key": "brief_90356",
+"brief_id": 903561,
+"design_id": 90356,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on microphone for saxophonist"
+},
+{
+"brief_key": "brief_90357",
+"brief_id": 903571,
+"design_id": 90357,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on headphones for drummer"
+},
+{
+"brief_key": "brief_90358",
+"brief_id": 903581,
+"design_id": 90358,
+"brief_type": "strategist",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on cassette for saxophonist"
+},
+{
+"brief_key": "brief_90359",
+"brief_id": 903591,
+"design_id": 90359,
+"brief_type": "manual_backfill",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on cassette for vinyl collector"
+},
+{
+"brief_key": "brief_90360",
+"brief_id": 903601,
+"design_id": 90360,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on headphones for drummer"
+},
+{
+"brief_key": "brief_90361",
+"brief_id": 903611,
+"design_id": 90361,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on vinyl record for vinyl collector"
+},
+{
+"brief_key": "brief_90362",
+"brief_id": 903621,
+"design_id": 90362,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on microphone for metalhead"
+},
+{
+"brief_key": "brief_90363",
+"brief_id": 903631,
+"design_id": 90363,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on headphones for saxophonist"
+},
+{
+"brief_key": "brief_90364",
+"brief_id": 903641,
+"design_id": 90364,
+"brief_type": "strategist",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on guitar for metalhead"
+},
+{
+"brief_key": "brief_90365",
+"brief_id": 903651,
+"design_id": 90365,
+"brief_type": "manual_backfill",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on sheet music for classical musician"
+},
+{
+"brief_key": "brief_90366",
+"brief_id": 903661,
+"design_id": 90366,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on vinyl record for country fan"
+},
+{
+"brief_key": "brief_90367",
+"brief_id": 903671,
+"design_id": 90367,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on sheet music for saxophonist"
+},
+{
+"brief_key": "brief_90368",
+"brief_id": 903681,
+"design_id": 90368,
+"brief_type": "strategist",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on vinyl record for saxophonist"
+},
+{
+"brief_key": "brief_90369",
+"brief_id": 903691,
+"design_id": 90369,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on music notes for guitarist"
+},
+{
+"brief_key": "brief_90370",
+"brief_id": 903701,
+"design_id": 90370,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on music notes for drummer"
+},
+{
+"brief_key": "brief_90371",
+"brief_id": 903711,
+"design_id": 90371,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on sheet music for guitarist"
+},
+{
+"brief_key": "brief_90372",
+"brief_id": 903721,
+"design_id": 90372,
+"brief_type": "strategist",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on guitar for guitarist"
+},
+{
+"brief_key": "brief_90373",
+"brief_id": 903731,
+"design_id": 90373,
+"brief_type": "strategist",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on headphones for producer"
+},
+{
+"brief_key": "brief_90374",
+"brief_id": 903741,
+"design_id": 90374,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on vinyl record for metalhead"
+},
+{
+"brief_key": "brief_90375",
+"brief_id": 903751,
+"design_id": 90375,
+"brief_type": "demand_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on sheet music for metalhead"
+},
+{
+"brief_key": "brief_90376",
+"brief_id": 903761,
+"design_id": 90376,
+"brief_type": "demand_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on amplifier for saxophonist"
+},
+{
+"brief_key": "brief_90377",
+"brief_id": 903771,
+"design_id": 90377,
+"brief_type": "batch_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on headphones for classical musician"
+},
+{
+"brief_key": "brief_90378",
+"brief_id": 903781,
+"design_id": 90378,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on turntable for producer"
+},
+{
+"brief_key": "brief_90379",
+"brief_id": 903791,
+"design_id": 90379,
+"brief_type": "strategist",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on cassette for classical musician"
+},
+{
+"brief_key": "brief_90380",
+"brief_id": 903801,
+"design_id": 90380,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on music notes for classical musician"
+},
+{
+"brief_key": "brief_90381",
+"brief_id": 903811,
+"design_id": 90381,
+"brief_type": "strategist",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on sheet music for saxophonist"
+},
+{
+"brief_key": "brief_90382",
+"brief_id": 903821,
+"design_id": 90382,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on sheet music for classical musician"
+},
+{
+"brief_key": "brief_90383",
+"brief_id": 903831,
+"design_id": 90383,
+"brief_type": "batch_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on guitar for metalhead"
+},
+{
+"brief_key": "brief_90384",
+"brief_id": 903841,
+"design_id": 90384,
+"brief_type": "demand_auto",
+"exploration_bucket": "learn",
+"hypothesis": "variation bet on cassette for metalhead"
+},
+{
+"brief_key": "brief_90385",
+"brief_id": 903851,
+"design_id": 90385,
+"brief_type": "batch_auto",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on piano keys for guitarist"
+},
+{
+"brief_key": "brief_90386",
+"brief_id": 903861,
+"design_id": 90386,
+"brief_type": "demand_auto",
+"exploration_bucket": "confirmation",
+"hypothesis": "variation bet on piano keys for metalhead"
+},
+{
+"brief_key": "brief_90387",
+"brief_id": 903871,
+"design_id": 90387,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on turntable for saxophonist"
+},
+{
+"brief_key": "brief_90388",
+"brief_id": 903881,
+"design_id": 90388,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "new bet on music notes for classical musician"
+},
+{
+"brief_key": "brief_90389",
+"brief_id": 903891,
+"design_id": 90389,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "variation bet on turntable for saxophonist"
+},
+{
+"brief_key": "brief_90390",
+"brief_id": 903901,
+"design_id": 90390,
+"brief_type": "batch_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on amplifier for saxophonist"
+},
+{
+"brief_key": "brief_90391",
+"brief_id": 903911,
+"design_id": 90391,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on piano keys for guitarist"
+},
+{
+"brief_key": "brief_90392",
+"brief_id": 903921,
+"design_id": 90392,
+"brief_type": "batch_auto",
+"exploration_bucket": "learn",
+"hypothesis": "new bet on vinyl record for metalhead"
+},
+{
+"brief_key": "brief_90393",
+"brief_id": 903931,
+"design_id": 90393,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on headphones for producer"
+},
+{
+"brief_key": "brief_90394",
+"brief_id": 903941,
+"design_id": 90394,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on headphones for country fan"
+},
+{
+"brief_key": "brief_90395",
+"brief_id": 903951,
+"design_id": 90395,
+"brief_type": "strategist",
+"exploration_bucket": "confirmation",
+"hypothesis": "new bet on piano keys for vinyl collector"
+},
+{
+"brief_key": "brief_90396",
+"brief_id": 903961,
+"design_id": 90396,
+"brief_type": "manual_backfill",
+"exploration_bucket": "exploration",
+"hypothesis": "new bet on music notes for guitarist"
+},
+{
+"brief_key": "brief_90397",
+"brief_id": 903971,
+"design_id": 90397,
+"brief_type": "strategist",
+"exploration_bucket": "unknown",
+"hypothesis": "new bet on music notes for country fan"
+},
+{
+"brief_key": "brief_90398",
+"brief_id": 903981,
+"design_id": 90398,
+"brief_type": "strategist",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on sheet music for vinyl collector"
+},
+{
+"brief_key": "brief_90399",
+"brief_id": 903991,
+"design_id": 90399,
+"brief_type": "demand_auto",
+"exploration_bucket": "exploit_adjacent",
+"hypothesis": "variation bet on vinyl record for saxophonist"
+}
+]
