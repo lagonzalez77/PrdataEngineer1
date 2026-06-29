@@ -1,0 +1,28 @@
+{
+  "features": [
+    "concept_origin",
+    "generation_model",
+    "product_type",
+    "provenance_class",
+    "best_color",
+    "subject",
+    "instrument",
+    "era",
+    "emotion",
+    "buyer_identity",
+    "design_style",
+    "composition",
+    "source",
+    "brief_type",
+    "exploration_bucket",
+    "g_sampler",
+    "gen_status",
+    "from_bestseller",
+    "color_count",
+    "g_style_strength",
+    "g_steps",
+    "g_reference_used",
+    "cost_usd",
+    "output_image_px"
+  ]
+}
